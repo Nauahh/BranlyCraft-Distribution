@@ -9,7 +9,7 @@
       "description": "Serveur BranlyCraft - Arcadia Echoes of Power V2",
       "icon": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/icon.png",
       "version": "1.0.0",
-      "address": "ADRESSE_IP_A_REMPLIR",
+      "address": "game3.verycloud.fr:25574",
       "minecraftVersion": "1.21.1",
       "discord": null,
       "mainServer": true,
