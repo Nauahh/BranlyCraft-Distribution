@@ -1,0 +1,4401 @@
+{
+  "version": "1.0.0",
+  "discord": null,
+  "rss": null,
+  "servers": [
+    {
+      "id": "branlcraft-main",
+      "name": "BranlyCraft",
+      "description": "Serveur BranlyCraft - Arcadia Echoes of Power V2",
+      "icon": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/icon.png",
+      "version": "1.0.0",
+      "address": "ADRESSE_IP_A_REMPLIR",
+      "minecraftVersion": "1.21.1",
+      "discord": null,
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.neoforged:neoforge:21.1.219",
+          "name": "NeoForge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 0,
+            "MD5": "",
+            "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.219/neoforge-21.1.219-installer.jar"
+          }
+        },
+        {
+          "id": "curseforge.827163:endersdelight-neoforge-1.21.1-1.1.0:6391835",
+          "name": "endersdelight-neoforge-1.21.1-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174766,
+            "MD5": "21fb339ddcc2265764a44f734fc9af9d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/endersdelight-neoforge-1.21.1-1.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.852465:deep_aether-1.21.1-1.1.4:6839619",
+          "name": "deep_aether-1.21.1-1.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40626167,
+            "MD5": "da61f3a82ed10ec1958fbe2f12f4cd1a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/deep_aether-1.21.1-1.1.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.245755:waystones-neoforge-1.21.1-21.1.25:7354464",
+          "name": "waystones-neoforge-1.21.1-21.1.25",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 865610,
+            "MD5": "29dbb509f5146b52b11b4c5181ed7e97",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/waystones-neoforge-1.21.1-21.1.25.jar"
+          }
+        },
+        {
+          "id": "curseforge.351264:kotlinforforge-5.11.0-all:7471280",
+          "name": "kotlinforforge-5.11.0-all",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6869790,
+            "MD5": "ad515a1a34f47bbc17aabab0b99ecee4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kotlinforforge-5.11.0-all.jar"
+          }
+        },
+        {
+          "id": "curseforge.1276978:mechanical_botany-1.1.0+1.21.1-neoforged:7414146",
+          "name": "mechanical_botany-1.1.0+1.21.1-neoforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 794571,
+            "MD5": "bdf492abb9d127205668437baee1664f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mechanical_botany-1.1.0%2B1.21.1-neoforged.jar"
+          }
+        },
+        {
+          "id": "curseforge.521590:Highlighter-1.21-neoforge-1.1.11:5591015",
+          "name": "Highlighter-1.21-neoforge-1.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30417,
+            "MD5": "9db706e822bdfd83a36c5aeb1c21fd74",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Highlighter-1.21-neoforge-1.1.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.682564:StrawStatues-v21.1.0-1.21.1-NeoForge:5732771",
+          "name": "StrawStatues-v21.1.0-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 313043,
+            "MD5": "1e09f8ed1817dc3a099e01a975146a66",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/StrawStatues-v21.1.0-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.231951:ImmersiveEngineering-1.21.1-12.4.2-194:6733669",
+          "name": "ImmersiveEngineering-1.21.1-12.4.2-194",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14232121,
+            "MD5": "80f8d044f3218a723902fa6955ea3ad1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ImmersiveEngineering-1.21.1-12.4.2-194.jar"
+          }
+        },
+        {
+          "id": "curseforge.666014:immersive_aircraft-1.4.2+1.21.1-neoforge:7578996",
+          "name": "immersive_aircraft-1.4.2+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2444157,
+            "MD5": "d9f1ab469ff92e45becf11b021338348",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/immersive_aircraft-1.4.2%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.686911:ImmediatelyFast-NeoForge-1.6.10+1.21.1:7537795",
+          "name": "ImmediatelyFast-NeoForge-1.6.10+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368598,
+            "MD5": "567bb6d9155070ad858740af12450c63",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1260145:escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge:7430007",
+          "name": "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517830,
+            "MD5": "9a9a083d801ed01ecc8cb609120bd209",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.400933:mcw-trapdoors-1.1.5-mc1.21.1neoforge:7256148",
+          "name": "mcw-trapdoors-1.1.5-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 572870,
+            "MD5": "e7262c5ffe9d64ddd42052db09bc86ad",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.888790:clientcrafting-1.21-1.8:5549205",
+          "name": "clientcrafting-1.21-1.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6484,
+            "MD5": "bdb9d47cede24dcafebdabca6a30da2d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/clientcrafting-1.21-1.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.495693:farsight-1.21.1-4.5:7016590",
+          "name": "farsight-1.21.1-4.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 438450,
+            "MD5": "df8d68fefe71a3f444f6538bd865dc8b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/farsight-1.21.1-4.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.921259:selfexpression-2.22a-neoforge-1.21.1:6910114",
+          "name": "selfexpression-2.22a-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6806565,
+            "MD5": "9923586b05329726c9edbaae53250b8a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/selfexpression-2.22a-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.602290:miniature-shader-2.18.6.zip:7347786",
+          "name": "miniature-shader-2.18.6.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39052,
+            "MD5": "000e7279acefc2540ee540eb6c403051",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/miniature-shader-2.18.6.zip"
+          }
+        },
+        {
+          "id": "curseforge.466792:create-stuff-additions1.21.1_v2.1.0e:6448012",
+          "name": "create-stuff-additions1.21.1_v2.1.0e",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1318700,
+            "MD5": "979e415b8234dfc3649a49bc35cf263a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-stuff-additions1.21.1_v2.1.0e.jar"
+          }
+        },
+        {
+          "id": "curseforge.559312:easy_npc_bundle-neoforge-1.21.1-6.8.0:7592647",
+          "name": "easy_npc_bundle-neoforge-1.21.1-6.8.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32281,
+            "MD5": "7b0ecf00288e781783c28ebb3f3db09b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/easy_npc_bundle-neoforge-1.21.1-6.8.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.225608:worldedit-mod-7.3.8:5830452",
+          "name": "worldedit-mod-7.3.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6222854,
+            "MD5": "f5d6f09ca5c4b1958780d01a099b779d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/worldedit-mod-7.3.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.394535:trashcans-1.0.18c-neoforge-mc1.21:5891067",
+          "name": "trashcans-1.0.18c-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159808,
+            "MD5": "3fee00cce5015899621dff21f5c25aad",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/trashcans-1.0.18c-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.283644:Placebo-1.21.1-9.9.1:6926281",
+          "name": "Placebo-1.21.1-9.9.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 324056,
+            "MD5": "cc725fc5406d3af893484cfbba06f6ed",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Placebo-1.21.1-9.9.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1253573:mechanicals-1.21.1-1.1.0:7226648",
+          "name": "mechanicals-1.21.1-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 507824,
+            "MD5": "d990166ec95a7e7549da615acac6d871",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mechanicals-1.21.1-1.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1018043:knightquest-neoforge-1.21.1-1.9.0:6964177",
+          "name": "knightquest-neoforge-1.21.1-1.9.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3177811,
+            "MD5": "34a714ab54d6bab92398bd347a6396e0",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/knightquest-neoforge-1.21.1-1.9.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.422301:sophisticatedbackpacks-1.21.1-3.25.27.1528:7608067",
+          "name": "sophisticatedbackpacks-1.21.1-3.25.27.1528",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 986494,
+            "MD5": "937d9cf476573a637b40c66f09bd0ee6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sophisticatedbackpacks-1.21.1-3.25.27.1528.jar"
+          }
+        },
+        {
+          "id": "curseforge.1056812:UniLib-1.2.0+1.21.1-neoforge:7145286",
+          "name": "UniLib-1.2.0+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1554796,
+            "MD5": "e42ea7548e0bf1c3695bdffc31920aa0",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/UniLib-1.2.0%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.499980:moonlight-1.21-2.29.16-neoforge:7522321",
+          "name": "moonlight-1.21-2.29.16-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1575809,
+            "MD5": "def51bf97cb5fc56404d921eec1744de",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/moonlight-1.21-2.29.16-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.470193:connectivity-1.21.1-7.6:7367221",
+          "name": "connectivity-1.21.1-7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114165,
+            "MD5": "f2d38f850688eefa338b807801df2b4b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/connectivity-1.21.1-7.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.1038427:rch-supplementaries-compat-neoforge-2.0.0+1.21:6137052",
+          "name": "rch-supplementaries-compat-neoforge-2.0.0+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134054,
+            "MD5": "295d51063047ae7f371bde173175df7e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/rch-supplementaries-compat-neoforge-2.0.0%2B1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1381696:animalgarden-sugargilder-1.0.0-neoforge-1.21.1-21.1.214:7203914",
+          "name": "animalgarden-sugargilder-1.0.0-neoforge-1.21.1-21.1.214",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317381,
+            "MD5": "99fc114fd9559f5a4144ed0c741e39db",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-sugargilder-1.0.0-neoforge-1.21.1-21.1.214.jar"
+          }
+        },
+        {
+          "id": "curseforge.989797:createnuclear-1.3.2-beta.3-neoforge:7329038",
+          "name": "createnuclear-1.3.2-beta.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1842160,
+            "MD5": "baae69947ce29825799e565a00bdc842",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createnuclear-1.3.2-beta.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.561885:justzoom_neoforge_2.1.0_MC_1.21.1:6290230",
+          "name": "justzoom_neoforge_2.1.0_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43798,
+            "MD5": "3c28fc81aa5a9be514905e6c88e02d6d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.435044:BetterThirdPerson-neoforge-1.9.0:5833474",
+          "name": "BetterThirdPerson-neoforge-1.9.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60941,
+            "MD5": "cb6470da1b6bbe6880fcf721aa87e0e1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/BetterThirdPerson-neoforge-1.9.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.661293:SmartBrainLib-neoforge-1.21.1-1.16.11:7055149",
+          "name": "SmartBrainLib-neoforge-1.21.1-1.16.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 391053,
+            "MD5": "252a7712a2c5d020d673f276dba280ee",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.533382:mcwbiomesoplenty-neoforge-1.21.1-1.5:7370030",
+          "name": "mcwbiomesoplenty-neoforge-1.21.1-1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7014337,
+            "MD5": "aa60f8856a80ebfef6e7220f9f3c125f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcwbiomesoplenty-neoforge-1.21.1-1.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.1115285:Almanac-1.21.1-2-neoforge-1.5.2:7489091",
+          "name": "Almanac-1.21.1-2-neoforge-1.5.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25593,
+            "MD5": "49d03c4b56618fda3c7e01af2fc73e7d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Almanac-1.21.1-2-neoforge-1.5.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.499803:mimimod-1.21.1-4.3.0-neo:6734391",
+          "name": "mimimod-1.21.1-4.3.0-neo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5885739,
+            "MD5": "67abe06b79b82fee8d213c5f25c74adb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mimimod-1.21.1-4.3.0-neo.jar"
+          }
+        },
+        {
+          "id": "curseforge.1412710:aquariuslibs-1.0.1-neoforge-1.21.1-21.1.217:7525013",
+          "name": "aquariuslibs-1.0.1-neoforge-1.21.1-21.1.217",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 92576,
+            "MD5": "9d3c0f7a5b1fbac9dfcd8b863b05a2d1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/aquariuslibs-1.0.1-neoforge-1.21.1-21.1.217.jar"
+          }
+        },
+        {
+          "id": "curseforge.1198304:animalgarden-mouse-1.0.3-neoforge-1.21.1-21.1.213:7142004",
+          "name": "animalgarden-mouse-1.0.3-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115184,
+            "MD5": "6c53c0e0fa947e879b78c3ca6c78b62a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-mouse-1.0.3-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.538392:modonomicon-1.21.1-neoforge-1.117.4:7446154",
+          "name": "modonomicon-1.21.1-neoforge-1.117.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2395395,
+            "MD5": "0be84019d3ac683688d689a31ad9b059",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/modonomicon-1.21.1-neoforge-1.117.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.383129:connectedglass-1.1.14-neoforge-mc1.21:6811960",
+          "name": "connectedglass-1.1.14-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 819976,
+            "MD5": "978a7bee8daa65f9e3b480405e6da41c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/connectedglass-1.1.14-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.367706:fancymenu_neoforge_3.8.1_MC_1.21.1:7256741",
+          "name": "fancymenu_neoforge_3.8.1_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4297501,
+            "MD5": "32ef6216a5ae56a2016c8dc046c7fa76",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/fancymenu_neoforge_3.8.1_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.627557:ComplementaryReimagined_r5.6.1.zip:7090226",
+          "name": "ComplementaryReimagined_r5.6.1.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 500696,
+            "MD5": "04c822b2da584e21745869190ac653e6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ComplementaryReimagined_r5.6.1.zip"
+          }
+        },
+        {
+          "id": "curseforge.864875:kubejsdelight-1.1.4:7119798",
+          "name": "kubejsdelight-1.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 0,
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejsdelight-1.1.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.583345:JadeAddons-1.21.1-NeoForge-6.1.0:6315149",
+          "name": "JadeAddons-1.21.1-NeoForge-6.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74419,
+            "MD5": "81f8035bc735c75463add09f923ad372",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.623764:jamlib-neoforge-1.3.5+1.21.1:6421954",
+          "name": "jamlib-neoforge-1.3.5+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188341,
+            "MD5": "8b5d57e55a1dda4492686a36b6e8292e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/jamlib-neoforge-1.3.5%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.955399:GlitchCore-neoforge-1.21.1-2.1.0.0:5660740",
+          "name": "GlitchCore-neoforge-1.21.1-2.1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90918,
+            "MD5": "ec491ad844e966641c5a124913c3c1e7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.449655:voidtotem-neoforge-1.21.1-4.0.0:6269187",
+          "name": "voidtotem-neoforge-1.21.1-4.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66033,
+            "MD5": "31077cbae18720afd742822667a098a4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/voidtotem-neoforge-1.21.1-4.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1105855:knightlib-neoforge-1.21.1-1.3.0:6942154",
+          "name": "knightlib-neoforge-1.21.1-1.3.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 198933,
+            "MD5": "af43faf18ffda79c12085360d5ce6b72",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/knightlib-neoforge-1.21.1-1.3.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1038016:Simply_Upscaled (v0.4.5).zip:7015989",
+          "name": "Simply_Upscaled (v0.4.5).zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145840,
+            "MD5": "6e4be10130b0db01b3387d3280f17dca",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Simply_Upscaled%20(v0.4.5).zip"
+          }
+        },
+        {
+          "id": "curseforge.1238567:sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29:7168412",
+          "name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82316,
+            "MD5": "5cbf8fa204808bbc36a96e9364eb067e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+          }
+        },
+        {
+          "id": "curseforge.1354749:animalgarden-manatee-1.0.0-neoforge-1.21.1-21.1.209:7073623",
+          "name": "animalgarden-manatee-1.0.0-neoforge-1.21.1-21.1.209",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 101606,
+            "MD5": "df24b486058372bb4e310bdeecb5d3de",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-manatee-1.0.0-neoforge-1.21.1-21.1.209.jar"
+          }
+        },
+        {
+          "id": "curseforge.1146393:sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1:6929971",
+          "name": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 180622,
+            "MD5": "f0a54e90b3693afb9eae5d732f08b133",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1414295:HellishTrials-neoforge-1.0.5:7445277",
+          "name": "HellishTrials-neoforge-1.0.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 581988,
+            "MD5": "5932b90300f103bb2d891da002126a69",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/HellishTrials-neoforge-1.0.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.889722:CreateNumismatics-1.0.19+neoforge-mc1.21.1:7168396",
+          "name": "CreateNumismatics-1.0.19+neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 693373,
+            "MD5": "e2e4eb93232d445ec26f07ed20556650",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/CreateNumismatics-1.0.19%2Bneoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.442508:DungeonsArise-1.21.1-2.1.68-release:7150870",
+          "name": "DungeonsArise-1.21.1-2.1.68-release",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11842679,
+            "MD5": "8c803078cb52411a40201d6e69a23529",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/DungeonsArise-1.21.1-2.1.68-release.jar"
+          }
+        },
+        {
+          "id": "curseforge.401955:ars_nouveau-1.21.1-5.11.1:7417840",
+          "name": "ars_nouveau-1.21.1-5.11.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20622680,
+            "MD5": "8657b8acaed2fe382066b13ce7b2557e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ars_nouveau-1.21.1-5.11.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.401648:BetterF3-11.0.3-NeoForge-1.21.1:5873258",
+          "name": "BetterF3-11.0.3-NeoForge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 481646,
+            "MD5": "ece6a3a01373146d2f351ba721e0083d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.250832:elevatorid-neoforge-1.21.1-1.11.4:6199696",
+          "name": "elevatorid-neoforge-1.21.1-1.11.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 191190,
+            "MD5": "19bc20ef8725cd617646e6bc8d8fe13c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/elevatorid-neoforge-1.21.1-1.11.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.580689:lootintegrations-1.21.1-4.7:6640970",
+          "name": "lootintegrations-1.21.1-4.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36966,
+            "MD5": "de033387fe1955841bea50360aec0315",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/lootintegrations-1.21.1-4.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.551520:betterfpsdist-1.21-6.0:5723250",
+          "name": "betterfpsdist-1.21-6.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22742,
+            "MD5": "081882282efe6239ac294b2d1fe2cd22",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/betterfpsdist-1.21-6.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.659887:simplyswords-neoforge-1.62.0-1.21.1:6958145",
+          "name": "simplyswords-neoforge-1.62.0-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12555609,
+            "MD5": "ce21ee5cbc2bae7ef1614dc0ca986960",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/simplyswords-neoforge-1.62.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.353928:botanypots-neoforge-1.21.1-21.1.41:7115287",
+          "name": "botanypots-neoforge-1.21.1-21.1.41",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1065153,
+            "MD5": "fed3f7a565c697eb30392068c4ce7c87",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/botanypots-neoforge-1.21.1-21.1.41.jar"
+          }
+        },
+        {
+          "id": "curseforge.1173643:fancy-entity-renderer-neoforge-1.21-0.4.4:7437021",
+          "name": "fancy-entity-renderer-neoforge-1.21-0.4.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 408276,
+            "MD5": "315f675125402a74da2996042539776e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/fancy-entity-renderer-neoforge-1.21-0.4.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.1140721:carpetscore-neoforge-1.21.1-1.0.10:7095567",
+          "name": "carpetscore-neoforge-1.21.1-1.0.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107178,
+            "MD5": "25315eceaed6446a36c0ae33bb326c63",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/carpetscore-neoforge-1.21.1-1.0.10.jar"
+          }
+        },
+        {
+          "id": "curseforge.1227052:TwilightTreehouses-1.0.2-1.21.1-neoforge:6341110",
+          "name": "TwilightTreehouses-1.0.2-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 228528,
+            "MD5": "9b3748a99cceda1481b92de262e418ae",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/TwilightTreehouses-1.0.2-1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.961988:aquaculturedelight-1.2.0-neoforge-1.21.1:6179576",
+          "name": "aquaculturedelight-1.2.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213607,
+            "MD5": "80f8f2ea4a677d79b10a1106a1d224d6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/aquaculturedelight-1.2.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.502372:mcw-lights-1.1.5-mc1.21.1neoforge:7304075",
+          "name": "mcw-lights-1.1.5-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 525744,
+            "MD5": "0f20931a0d57acc36e2938669b25ac62",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-lights-1.1.5-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.574622:culturaldelights-0.17.8:7503914",
+          "name": "culturaldelights-0.17.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 256116,
+            "MD5": "7c20ce4929f931a3a0bea76d4d102359",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/culturaldelights-0.17.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.570073:resourcefullib-neoforge-1.21-3.0.12:5973188",
+          "name": "resourcefullib-neoforge-1.21-3.0.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484332,
+            "MD5": "32da88903167d24bb20febeeb2c79225",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/resourcefullib-neoforge-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "curseforge.342584:collective-1.21.1-8.13:7148969",
+          "name": "collective-1.21.1-8.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 946726,
+            "MD5": "b454e160d38e5463f86b50ca82e9ef83",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/collective-1.21.1-8.13.jar"
+          }
+        },
+        {
+          "id": "curseforge.1153951:MoogsMissingVillages-1.21-2.0.0:7098537",
+          "name": "MoogsMissingVillages-1.21-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5463717,
+            "MD5": "7fdcf9cf2be2ba824ba2a2915fc0abdd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MoogsMissingVillages-1.21-2.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.610844:Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip:7251787",
+          "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1791406,
+            "MD5": "73eac5d017a268ea8175c2025c2863ad",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+          }
+        },
+        {
+          "id": "curseforge.297038:CraftPresence-2.7.1+1.21.1-neoforge:7704907",
+          "name": "CraftPresence-2.7.1+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1306084,
+            "MD5": "3e8d29962d1b86410b65dc405f7f95c4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/CraftPresence-2.7.1%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.940057:TerraBlender-neoforge-1.21.1-4.1.0.8:6054947",
+          "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120364,
+            "MD5": "9510cef4ca24d7f6bc3144dbf6693f7d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.858542:Searchables-neoforge-1.21.1-1.0.2:5831692",
+          "name": "Searchables-neoforge-1.21.1-1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77326,
+            "MD5": "0a0a8665bb4d77e3f8139750cb98d9e4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Searchables-neoforge-1.21.1-1.0.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.535489:sound-physics-remastered-neoforge-1.21.1-1.5.1:7032247",
+          "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 202454,
+            "MD5": "fe3cafa3f67c86272ee1d0cdf96fb2ac",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1255211:kubejs_curios_neoforge_1.21.1-1.0.4:6825089",
+          "name": "kubejs_curios_neoforge_1.21.1-1.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41200,
+            "MD5": "ddd0398a03484e3b44cce920f6985db3",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejs_curios_neoforge_1.21.1-1.0.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.531834:create-confectionery1.21.1_v1.1.2:6495225",
+          "name": "create-confectionery1.21.1_v1.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2126985,
+            "MD5": "ef35b64458eb3d8fdcae1ffb0ffaaddb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-confectionery1.21.1_v1.1.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1171145:animalgarden_porcupine-1.0.2-neoforge-1.21.1-21.1.213:7141765",
+          "name": "animalgarden_porcupine-1.0.2-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38833,
+            "MD5": "2061505cd63c7c78d7ffb31053acec30",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden_porcupine-1.0.2-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.1373457:animalgarden-whiterhinoceros-1.0.0-neoforge-1.21.1-21.1.213:7156208",
+          "name": "animalgarden-whiterhinoceros-1.0.0-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 238301,
+            "MD5": "90559650a97d898a6a2ac6520d084303",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-whiterhinoceros-1.0.0-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.525693:occultism_kubejs-1.21.1-neoforge-1.11.0:7472859",
+          "name": "occultism_kubejs-1.21.1-neoforge-1.11.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 434372,
+            "MD5": "45bf1ccb8873b33f3d884b0c21961bc1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/occultism_kubejs-1.21.1-neoforge-1.11.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.326302:Nostalgia_v5.1.zip:6247535",
+          "name": "Nostalgia_v5.1.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1842205,
+            "MD5": "38b14a6ce3da2c5b0dfa0fc3018052dd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Nostalgia_v5.1.zip"
+          }
+        },
+        {
+          "id": "curseforge.1102591:trading_floor-3.0.15:7240286",
+          "name": "trading_floor-3.0.15",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214295,
+            "MD5": "9b91ba4a19a306c4b088bfa229570382",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/trading_floor-3.0.15.jar"
+          }
+        },
+        {
+          "id": "curseforge.1342589:selfexpression_romashka_edition-0.0.4-neoforge-1.21.1:6971426",
+          "name": "selfexpression_romashka_edition-0.0.4-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 276804,
+            "MD5": "c9eddf27471ce71c1566b5f05e2867ab",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/selfexpression_romashka_edition-0.0.4-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.328085:create-1.21.1-6.0.9:7408951",
+          "name": "create-1.21.1-6.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19019888,
+            "MD5": "ec29a125a0298eb44f75847e8f59c7f4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-1.21.1-6.0.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.483758:burgermod-neoforge-2.10.3-1.21.1:6564157",
+          "name": "burgermod-neoforge-2.10.3-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 185554,
+            "MD5": "750bd48764fde7cd4631d8da7e6cd375",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/burgermod-neoforge-2.10.3-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.953637:DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge:7142896",
+          "name": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 244981,
+            "MD5": "827e9c4c003954c1d1a0ebccd1cbf2d9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.869524:watermedia-2.1.37:7281929",
+          "name": "watermedia-2.1.37",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/watermedia-2.1.37.jar"
+          }
+        },
+        {
+          "id": "curseforge.958291:cratedelight-25.09.22-1.21-neoforge:7024451",
+          "name": "cratedelight-25.09.22-1.21-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 166931,
+            "MD5": "94869d38883f5e92b9ed61cd7809ee34",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cratedelight-25.09.22-1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.433760:notenoughanimations-neoforge-1.11.2-mc1.21.1:7561827",
+          "name": "notenoughanimations-neoforge-1.11.2-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1930488,
+            "MD5": "3216bef3a5350dc7dd0a3ba6e5d28fa5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/notenoughanimations-neoforge-1.11.2-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.439890:createaddition-1.5.10:7518252",
+          "name": "createaddition-1.5.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1595173,
+            "MD5": "7f5703ccd9fce093e5501f64986028c7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createaddition-1.5.10.jar"
+          }
+        },
+        {
+          "id": "curseforge.974408:ars_additions-1.21.1-21.2.3:6928685",
+          "name": "ars_additions-1.21.1-21.2.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1406021,
+            "MD5": "f8bce45d6de792fcb424de40c39a7307",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ars_additions-1.21.1-21.2.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.655608:create_jetpack-forge-5.1.2:7285435",
+          "name": "create_jetpack-forge-5.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 481239,
+            "MD5": "63b419e09f6ec7abd28accc9920c77c1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_jetpack-forge-5.1.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.656977:MoogsVoyagerStructures-1.21-5.0.5:7541010",
+          "name": "MoogsVoyagerStructures-1.21-5.0.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2670229,
+            "MD5": "12ac559170d35c57542998a4f2ccb194",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MoogsVoyagerStructures-1.21-5.0.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.907856:recipeessentials-1.21-4.0:6165711",
+          "name": "recipeessentials-1.21-4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43950,
+            "MD5": "c6d1e7fb82f49e0d1a423d6bf41ad1fb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/recipeessentials-1.21-4.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.513769:ItemBorders-1.21-neoforge-1.2.5:5591010",
+          "name": "ItemBorders-1.21-neoforge-1.2.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23511,
+            "MD5": "e7610286c754a747d0ba6dd753df565d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ItemBorders-1.21-neoforge-1.2.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.1207005:exposure_polaroid-neoforge-1.21.1-1.1.2:6566398",
+          "name": "exposure_polaroid-neoforge-1.21.1-1.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 358586,
+            "MD5": "baf6e110c09a7bb02ffc833d7e955d02",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/exposure_polaroid-neoforge-1.21.1-1.1.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1152400:dg_js-1.21.1-1.1.5:7275713",
+          "name": "dg_js-1.21.1-1.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76404,
+            "MD5": "80e4591702640b6b31343622347e7405",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/dg_js-1.21.1-1.1.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.520110:Iceberg-1.21.1-neoforge-1.3.2:6423863",
+          "name": "Iceberg-1.21.1-neoforge-1.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213853,
+            "MD5": "68473a4ca9a827669c13d3855c8dc0e2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Iceberg-1.21.1-neoforge-1.3.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.361276:lootr-neoforge-1.21.1-1.11.36.114:7528375",
+          "name": "lootr-neoforge-1.21.1-1.11.36.114",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 958026,
+            "MD5": "800d1bbfb40c6b098593544fc273aa26",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/lootr-neoforge-1.21.1-1.11.36.114.jar"
+          }
+        },
+        {
+          "id": "curseforge.1005676:create_aquatic_ambitions-1.21.1-2.0.2:7192082",
+          "name": "create_aquatic_ambitions-1.21.1-2.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1041906,
+            "MD5": "563ce9a5f7a0aeb9a0ff2681239ee478",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_aquatic_ambitions-1.21.1-2.0.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.238222:jei-1.21.1-neoforge-19.27.0.340:7420587",
+          "name": "jei-1.21.1-neoforge-19.27.0.340",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1529391,
+            "MD5": "6c7cf71d0f92c30d2e8e0cf3fd94a8bf",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/jei-1.21.1-neoforge-19.27.0.340.jar"
+          }
+        },
+        {
+          "id": "curseforge.298187:buildinggadgets2-1.3.9:6850515",
+          "name": "buildinggadgets2-1.3.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3858597,
+            "MD5": "0075f857291a8dd0a58a1bebbaef4f51",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/buildinggadgets2-1.3.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.1030522:apothic_sups_enchanting-0.1.0-neoforge-1.21.1:6393447",
+          "name": "apothic_sups_enchanting-0.1.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13130,
+            "MD5": "ef4d29f69dcd4ded9c30452e82ca5f81",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/apothic_sups_enchanting-0.1.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.453925:mcw-mcwfences-1.2.1-mc1.21.1neoforge:7308338",
+          "name": "mcw-mcwfences-1.2.1-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 673871,
+            "MD5": "7fe97d3a691052ec301fcd538000577c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.241160:netherportalfix-neoforge-1.21.1-21.1.1:5623547",
+          "name": "netherportalfix-neoforge-1.21.1-21.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 211972,
+            "MD5": "a71d460c1d941bad8d7ae2a4dcc2b2fa",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/netherportalfix-neoforge-1.21.1-21.1.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1337167:moogs_structures-1.1.0-1.21-1.21.1-neoforge:7238573",
+          "name": "moogs_structures-1.1.0-1.21-1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250067,
+            "MD5": "6867bf5ba45c9eef1f06a29cf20e5690",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.582327:smoothchunk-1.21-4.1:6296628",
+          "name": "smoothchunk-1.21-4.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12852,
+            "MD5": "a3c55088f5e9b228e8e94ae20e639a7a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/smoothchunk-1.21-4.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.629153:mcw-mcwpaths-1.1.1-mc1.21.1neoforge:7029451",
+          "name": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 777742,
+            "MD5": "d55538009395f31ca0b4b48807c2eedd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.869316:createdieselgenerators-1.21.1-1.3.8:7330294",
+          "name": "createdieselgenerators-1.21.1-1.3.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3137342,
+            "MD5": "7f462aec3c452a9771b080a87bfdf2ab",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createdieselgenerators-1.21.1-1.3.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.658587:player-animation-lib-forge-2.0.4+1.21.1:7389814",
+          "name": "player-animation-lib-forge-2.0.4+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203149,
+            "MD5": "ecb81c9479605db12a77bea774b88406",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.289412:ftb-quests-neoforge-2101.1.21:7429016",
+          "name": "ftb-quests-neoforge-2101.1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1440894,
+            "MD5": "5d9364a68580af1c60ba885dd69d9d20",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-quests-neoforge-2101.1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.889079:forgified-fabric-api-0.116.7+2.2.1+1.21.1:7575945",
+          "name": "forgified-fabric-api-0.116.7+2.2.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5563901,
+            "MD5": "561ced6a4e5df9277438cc2aaea0a75c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/forgified-fabric-api-0.116.7%2B2.2.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1123746:underground_village-neoforge-1.21.1-1.5.7:7412330",
+          "name": "underground_village-neoforge-1.21.1-1.5.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 372793,
+            "MD5": "d04b526b3f1e5b887dccc707c9e9672f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/underground_village-neoforge-1.21.1-1.5.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.1353070:animalgarden-redpanda-1.1.1-neoforge-1.21.1-21.1.213:7141912",
+          "name": "animalgarden-redpanda-1.1.1-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 94273,
+            "MD5": "1880b244518ac63c7f6031b9fc7fbde5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-redpanda-1.1.1-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.662675:ends_delight-2.5.1+neoforge.1.21.1:6180429",
+          "name": "ends_delight-2.5.1+neoforge.1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263222,
+            "MD5": "584c94b7b4c7b46a67059f8b4b982522",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ends_delight-2.5.1%2Bneoforge.1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.237749:coroutil-neoforge-1.21.0-1.3.8:5622966",
+          "name": "coroutil-neoforge-1.21.0-1.3.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63981,
+            "MD5": "9d410a84fe0216ce18568993afb4f8e5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/coroutil-neoforge-1.21.0-1.3.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.886102:3d_placeable_food-2.4.0-neoforge-1.21.1:5844592",
+          "name": "3d_placeable_food-2.4.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4992416,
+            "MD5": "c3483b58428f2fdf38ffd26c17257bfc",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/3d_placeable_food-2.4.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.570463:ecologics-1.21.1-2.3.3:7539818",
+          "name": "ecologics-1.21.1-2.3.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1825588,
+            "MD5": "889524e44b5c2efae73b3635267ee011",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ecologics-1.21.1-2.3.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.829380:Create Encased-1.21.1-1.8-ht2:7459750",
+          "name": "Create Encased-1.21.1-1.8-ht2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2410332,
+            "MD5": "7bb5b8cf173516ee2658a18c996eb754",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Create%20Encased-1.21.1-1.8-ht2.jar"
+          }
+        },
+        {
+          "id": "curseforge.638111:Prism-1.21.1-neoforge-1.0.11:6372979",
+          "name": "Prism-1.21.1-neoforge-1.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62031,
+            "MD5": "e3dfc8c32ab7d29a271926c5bc88c8e9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Prism-1.21.1-neoforge-1.0.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.256717:Clumps-neoforge-1.21.1-19.0.0.1:5623731",
+          "name": "Clumps-neoforge-1.21.1-19.0.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18382,
+            "MD5": "8b42a9d7a72bde90fa061d17e2859e7b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.942329:simple_voice_broadcast-neoforge-1.21.1-1.0.0:7406927",
+          "name": "simple_voice_broadcast-neoforge-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13124,
+            "MD5": "b41ca940460b2cb01c5721dc67c9660b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/simple_voice_broadcast-neoforge-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.440047:customizableelytra-neoforge-2.2.8+1.21:6252119",
+          "name": "customizableelytra-neoforge-2.2.8+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263380,
+            "MD5": "39dc1add23aa9cf2211e5a63b00ce0d4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/customizableelytra-neoforge-2.2.8%2B1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.475117:FastSuite-1.21.1-6.0.7:7527945",
+          "name": "FastSuite-1.21.1-6.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28193,
+            "MD5": "010a9646123e843de2468805068f0c34",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FastSuite-1.21.1-6.0.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.832983:chefsdelight-1.0.5-neoforge-1.21.1:7314829",
+          "name": "chefsdelight-1.0.5-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95250,
+            "MD5": "a99fb108e22e0bd50dbf543309d29a95",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/chefsdelight-1.0.5-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.636540:Structory_1.21.x_v1.3.14:7375532",
+          "name": "Structory_1.21.x_v1.3.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1260803,
+            "MD5": "214db224d3b0e568ea77ff89afb74a90",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Structory_1.21.x_v1.3.14.jar"
+          }
+        },
+        {
+          "id": "curseforge.1161283:create_winery-2.0.1-neoforge-1.21.1:7524960",
+          "name": "create_winery-2.0.1-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 510513,
+            "MD5": "4608c5742a74340ce8b20c387928b29c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_winery-2.0.1-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1152720:lootintegrations_structory-1.3:6510239",
+          "name": "lootintegrations_structory-1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6116,
+            "MD5": "320f3f920e49ef8c315494650378a365",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/lootintegrations_structory-1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.388172:geckolib-neoforge-1.21.1-4.8.3:7415496",
+          "name": "geckolib-neoforge-1.21.1-4.8.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 622121,
+            "MD5": "097799f159db31dd123eb47e31eacb01",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/geckolib-neoforge-1.21.1-4.8.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.443823:skinrestorer-2.5.0+1.21-neoforge:7460599",
+          "name": "skinrestorer-2.5.0+1.21-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 212762,
+            "MD5": "d011cdcad9fc0c9326fbb9561ab1f31b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/skinrestorer-2.5.0%2B1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.284324:Emojiful-Neoforge-1.21-5.2.1-all:6630130",
+          "name": "Emojiful-Neoforge-1.21-5.2.1-all",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 248141,
+            "MD5": "6be117f9e6c00bf9bede19a58c175ab0",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Emojiful-Neoforge-1.21-5.2.1-all.jar"
+          }
+        },
+        {
+          "id": "curseforge.254268:torchmaster-neoforge-1.21.1-21.1.9:7197218",
+          "name": "torchmaster-neoforge-1.21.1-21.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 130605,
+            "MD5": "f15f68010c04bad2f588f91b490b8f53",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/torchmaster-neoforge-1.21.1-21.1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.1198527:trailandtales_delight-0.4:6526274",
+          "name": "trailandtales_delight-0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188184,
+            "MD5": "2bf1b536bb4341b7940155b9e02e9442",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/trailandtales_delight-0.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.237307:cosmeticarmorreworked-1.21.1-v1-neoforge:5610814",
+          "name": "cosmeticarmorreworked-1.21.1-v1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 92722,
+            "MD5": "881eb025d54ca01165c115a38a8d48c4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.370890:javd-neo-9.0.0+mc1.21.1:5711894",
+          "name": "javd-neo-9.0.0+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 54632,
+            "MD5": "5b4f183f9d696bce7e61bca093941fdb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/javd-neo-9.0.0%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.930232:mcw-holidays-1.1.2-mc1.21.1neoforge:7304374",
+          "name": "mcw-holidays-1.1.2-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012915,
+            "MD5": "908995b647bdc24234851e69d9289c09",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-holidays-1.1.2-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.351725:mcw-bridges-3.1.1-mc1.21.1neoforge:6543002",
+          "name": "mcw-bridges-3.1.1-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 652279,
+            "MD5": "881b4744344bd690b703de9808ba3ad5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-bridges-3.1.1-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.446870:rsinfinitybooster-neoforge-1.21.1-1.0.0.48:6487415",
+          "name": "rsinfinitybooster-neoforge-1.21.1-1.0.0.48",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25726,
+            "MD5": "018d4191fea287f63a5df53f26e0a927",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar"
+          }
+        },
+        {
+          "id": "curseforge.359540:mcw-furniture-3.4.1-mc1.21.1neoforge:7255584",
+          "name": "mcw-furniture-3.4.1-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2080436,
+            "MD5": "bef925460c964754872b28a13b2e2a74",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.268566:MekanismGenerators-1.21.1-10.7.17.83:7132171",
+          "name": "MekanismGenerators-1.21.1-10.7.17.83",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1104550,
+            "MD5": "28db1db89da671f876f54f2ededfdefe",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MekanismGenerators-1.21.1-10.7.17.83.jar"
+          }
+        },
+        {
+          "id": "curseforge.945479:watut-neoforge-1.21.0-1.2.7:6418577",
+          "name": "watut-neoforge-1.21.0-1.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432269,
+            "MD5": "31cfc24b7997dbf6ed84cd844de37d7d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/watut-neoforge-1.21.0-1.2.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.1021685:ImmersiveUI-NEOFORGE-0.3.3+1.21.1:6886575",
+          "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 217081,
+            "MD5": "0ad2897335db36d155d6b2d4dfaf02e9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1167473:watervision-NF-mc1.21.1-v0.1.0-alpha:7043267",
+          "name": "watervision-NF-mc1.21.1-v0.1.0-alpha",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78233,
+            "MD5": "6a7764a7e80bc1154a49dca513183cac",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
+          }
+        },
+        {
+          "id": "curseforge.892827:crabbersdelight-1.21.1-1.2.4:7539362",
+          "name": "crabbersdelight-1.21.1-1.2.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 601953,
+            "MD5": "91acad55a911d77d46b484233387589e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/crabbersdelight-1.21.1-1.2.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.404468:ftb-teams-neoforge-2101.1.9:7369021",
+          "name": "ftb-teams-neoforge-2101.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 291847,
+            "MD5": "7517a7d5f209c6d26596472a272c1f27",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-teams-neoforge-2101.1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.388800:polymorph-neoforge-1.1.0+1.21.1:6794589",
+          "name": "polymorph-neoforge-1.1.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174972,
+            "MD5": "2368e0c92ae882677bbf4b87418656b9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.60089:MouseTweaks-neoforge-mc1.21-2.26.1:5637846",
+          "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73938,
+            "MD5": "4ab6e808a59fdebecfbc92438b85b470",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.228525:bookshelf-neoforge-1.21.1-21.1.81:7606240",
+          "name": "bookshelf-neoforge-1.21.1-21.1.81",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 328813,
+            "MD5": "9f627fe031221159d74a491e279f773a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/bookshelf-neoforge-1.21.1-21.1.81.jar"
+          }
+        },
+        {
+          "id": "curseforge.1249131:create-integrated-farming-1.2.0c:7299219",
+          "name": "create-integrated-farming-1.2.0c",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 407984,
+            "MD5": "855414075bf75df41cd6f6d46e821a3f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-integrated-farming-1.2.0c.jar"
+          }
+        },
+        {
+          "id": "curseforge.976858:invtweaks-1.21.1-1.3.2:6407807",
+          "name": "invtweaks-1.21.1-1.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77127,
+            "MD5": "517c295727152fc16f55ae5071eecd31",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/invtweaks-1.21.1-1.3.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.547434:ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge:7213611",
+          "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104654,
+            "MD5": "fd7f6d6a3d3551318fd9e35260afb9c9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.538214:handcrafted-neoforge-1.21.1-4.0.3:6330030",
+          "name": "handcrafted-neoforge-1.21.1-4.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7132842,
+            "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/handcrafted-neoforge-1.21.1-4.0.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.1140577:cable_facades-1.21.1-NeoForge-1.6.5:7400019",
+          "name": "cable_facades-1.21.1-NeoForge-1.6.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99326,
+            "MD5": "9f78b2507b4909a23872a10cfbce5ba3",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cable_facades-1.21.1-NeoForge-1.6.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.571264:spyglass_improvements-1.5.7+mc1.21+neoforge:5634604",
+          "name": "spyglass_improvements-1.5.7+mc1.21+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62864,
+            "MD5": "ce908ea767bb2c9ac7966c892c40db47",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/spyglass_improvements-1.5.7%2Bmc1.21%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.482378:ParCool-1.21.1-3.4.3.1-NF:7478606",
+          "name": "ParCool-1.21.1-3.4.3.1-NF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1133660,
+            "MD5": "decae928ac6dc3f1692afb7f2e8d5d26",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ParCool-1.21.1-3.4.3.1-NF.jar"
+          }
+        },
+        {
+          "id": "curseforge.923238:Design-n-Decor-1.21.1-2.1.0:6824615",
+          "name": "Design-n-Decor-1.21.1-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3264862,
+            "MD5": "a98e9671942a738ec18375104d0bb6e5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Design-n-Decor-1.21.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.631990:simplehats-neoforge-1.21.1-0.4.0:5970513",
+          "name": "simplehats-neoforge-1.21.1-0.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1400084,
+            "MD5": "863d21d5393140dca28c68dda7bc172d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/simplehats-neoforge-1.21.1-0.4.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.558905:sodiumextras-neoforge-1.0.8-1.21.1:6394141",
+          "name": "sodiumextras-neoforge-1.0.8-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 276988,
+            "MD5": "acbf3c92a89bcd595e7c0c668fc7309f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sodiumextras-neoforge-1.0.8-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.276951:comforts-neoforge-9.0.5+1.21.1:7515858",
+          "name": "comforts-neoforge-9.0.5+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 422658,
+            "MD5": "ba7a318dcf4190a27e017eacac47427e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/comforts-neoforge-9.0.5%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.351491:ExtraDisks-1.21.1-4.0.14:7032487",
+          "name": "ExtraDisks-1.21.1-4.0.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 343038,
+            "MD5": "929a6312cb8987f3aaa0f8f57fc22409",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ExtraDisks-1.21.1-4.0.14.jar"
+          }
+        },
+        {
+          "id": "curseforge.416294:rhino-2101.2.7-build.81:7104526",
+          "name": "rhino-2101.2.7-build.81",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 882032,
+            "MD5": "050aad61e018a810b0f183ad50e084c6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/rhino-2101.2.7-build.81.jar"
+          }
+        },
+        {
+          "id": "curseforge.913234:LongerChatHistory-neoforge-1.7:6399727",
+          "name": "LongerChatHistory-neoforge-1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6094,
+            "MD5": "05875eeefef70ffe0e42e474a22943f8",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/LongerChatHistory-neoforge-1.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.412082:supplementaries-1.21-3.5.17-neoforge:7511735",
+          "name": "supplementaries-1.21-3.5.17-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13344069,
+            "MD5": "4677db3c27a873ea659af0ce054df0b5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/supplementaries-1.21-3.5.17-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1040210:MoogsSoaringStructures-1.21-2.0.2:7540165",
+          "name": "MoogsSoaringStructures-1.21-2.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3074614,
+            "MD5": "f0f75db4fda78c6069723ee99d05e212",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MoogsSoaringStructures-1.21-2.0.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.834607:waterframes-NEOFORGE-mc1.21.1-v2.1.22:7129240",
+          "name": "waterframes-NEOFORGE-mc1.21.1-v2.1.22",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 255204,
+            "MD5": "f34264bf802a2c0050fcea56a204b25a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/waterframes-NEOFORGE-mc1.21.1-v2.1.22.jar"
+          }
+        },
+        {
+          "id": "curseforge.897116:refurbished_furniture-neoforge-1.21.1-1.0.22:7473565",
+          "name": "refurbished_furniture-neoforge-1.21.1-1.0.22",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7133477,
+            "MD5": "7379bc72b92f838949c073961dc72351",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+          }
+        },
+        {
+          "id": "curseforge.1010066:create_structures_arise-172.45.44 Release-neoforge-1.21.1:7605041",
+          "name": "create_structures_arise-172.45.44 Release-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1094667,
+            "MD5": "16c2822cd3628384477ac869363435cf",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_structures_arise-172.45.44%20Release-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.904471:immersive_melodies-neoforge-0.6.2+1.21.1:6772994",
+          "name": "immersive_melodies-neoforge-0.6.2+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5520152,
+            "MD5": "ae6e5863639f5119c0127028f42ef655",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/immersive_melodies-neoforge-0.6.2%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.418651:kubejs-mekanism-neoforge-2101.1.7-build.18:7213666",
+          "name": "kubejs-mekanism-neoforge-2101.1.7-build.18",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58054,
+            "MD5": "8d17a5501b402131b4b7b6dc6709b0e6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejs-mekanism-neoforge-2101.1.7-build.18.jar"
+          }
+        },
+        {
+          "id": "curseforge.677675:netherite_horse_armor-neoforge-1.21.1-2.0a:7022285",
+          "name": "netherite_horse_armor-neoforge-1.21.1-2.0a",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19602,
+            "MD5": "3208bd7f3d37db6615438cac139f02e9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/netherite_horse_armor-neoforge-1.21.1-2.0a.jar"
+          }
+        },
+        {
+          "id": "curseforge.943925:ftb-filter-system-neoforge-21.1.4:7429011",
+          "name": "ftb-filter-system-neoforge-21.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 211671,
+            "MD5": "3ffbb42f64dd6f7d850acb032b6eb90c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-filter-system-neoforge-21.1.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.623560:logbegone-neoforge-1.21.1-1.0.3:5609009",
+          "name": "logbegone-neoforge-1.21.1-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73237,
+            "MD5": "bcb679479b36762c5d98ba06479842a2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/logbegone-neoforge-1.21.1-1.0.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.1193454:chunkactivitytracker-neoforge-1.0.1-1.21.1:6164360",
+          "name": "chunkactivitytracker-neoforge-1.0.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 385815,
+            "MD5": "19ca2330c30674b01cf8ff75cee2c3a5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.274259:carryon-neoforge-1.21.1-2.2.4.4:7393892",
+          "name": "carryon-neoforge-1.21.1-2.2.4.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 357489,
+            "MD5": "116381c8900494997eac5a2c1bf42348",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/carryon-neoforge-1.21.1-2.2.4.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.220318:BiomesOPlenty-neoforge-1.21.1-21.1.0.13:7251965",
+          "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22338081,
+            "MD5": "5fffd607544c0c158957a5df7a510bd8",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
+          }
+        },
+        {
+          "id": "curseforge.302422:dragondropselytra-1.21.1-3.5:6186152",
+          "name": "dragondropselytra-1.21.1-3.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31129,
+            "MD5": "78b68ae1942608e8a5f7cb670cba16a7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/dragondropselytra-1.21.1-3.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.431203:MakeUp-UltraFast-9.4.zip:7414663",
+          "name": "MakeUp-UltraFast-9.4.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 396738,
+            "MD5": "f936bec0f41a750e26b1cc7e510ece1e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MakeUp-UltraFast-9.4.zip"
+          }
+        },
+        {
+          "id": "curseforge.1330744:construction_blocks-b1.2-neoforge-1.21.1:6917319",
+          "name": "construction_blocks-b1.2-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57509,
+            "MD5": "5b2feb659c0f3d898b7a929cd05d8d40",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/construction_blocks-b1.2-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.558998:rechiseled-1.2.2-neoforge-mc1.21:7589595",
+          "name": "rechiseled-1.2.2-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11478818,
+            "MD5": "44063b7ad62d1ed985e3c1b405f82e96",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/rechiseled-1.2.2-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1396258:animalgarden-westerngorilla-1.0.0-neoforge-1.21.1-21.1.216:7284191",
+          "name": "animalgarden-westerngorilla-1.0.0-neoforge-1.21.1-21.1.216",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 248451,
+            "MD5": "a3ea398ae8b50c118ea426b1eec6e631",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-westerngorilla-1.0.0-neoforge-1.21.1-21.1.216.jar"
+          }
+        },
+        {
+          "id": "curseforge.978125:create_ultimate_factory-2.2.2-neoforge-1.21.1:7354920",
+          "name": "create_ultimate_factory-2.2.2-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 232961,
+            "MD5": "6dd71128d1308b33aebc402b5ecb8340",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_ultimate_factory-2.2.2-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1228649:recepiesfromjoe-3.0.4-neoforge-1.21.1:6350656",
+          "name": "recepiesfromjoe-3.0.4-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7250,
+            "MD5": "ad3b1e69a557d9099b96c29fc4dd2fee",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/recepiesfromjoe-3.0.4-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.319596:Pehkui-3.8.3+1.21-neoforge:5446174",
+          "name": "Pehkui-3.8.3+1.21-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 507568,
+            "MD5": "e7aa528c6ba9fe1df3b7e54cdc867a7e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Pehkui-3.8.3%2B1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.714059:resourcefulconfig-neoforge-1.21-3.0.11:6467772",
+          "name": "resourcefulconfig-neoforge-1.21-3.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341009,
+            "MD5": "84ff2805a591b10d22b7e0c69b44246c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.243076:refinedstorage-neoforge-2.0.0:7039043",
+          "name": "refinedstorage-neoforge-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4482966,
+            "MD5": "adac5695104400e8d2f3d2dd715a8a50",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/refinedstorage-neoforge-2.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.511770:drippyloadingscreen_neoforge_3.1.0_MC_1.21.1:7248439",
+          "name": "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 172759,
+            "MD5": "b0f9d9bd40b48aedf92c4d7f2aaf60bb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1122137:worldedit-hang-fix-v1.0.2-mc1.20.6-neoforge:6356986",
+          "name": "worldedit-hang-fix-v1.0.2-mc1.20.6-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38546,
+            "MD5": "8afa99b6df8e96e029aa29e8426f8f0a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/worldedit-hang-fix-v1.0.2-mc1.20.6-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.225738:dummmmmmy-1.21-2.0.11-neoforge:7206981",
+          "name": "dummmmmmy-1.21-2.0.11-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 218920,
+            "MD5": "358d23fbde0c2f6794c2350a109dc623",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/dummmmmmy-1.21-2.0.11-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.361579:spark-1.10.124-neoforge:6225208",
+          "name": "spark-1.10.124-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3642581,
+            "MD5": "a61dd250e618f8fd62fc6b0943831c50",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/spark-1.10.124-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.938917:accessories-neoforge-1.1.0-beta.53+1.21.1:7583320",
+          "name": "accessories-neoforge-1.1.0-beta.53+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1078697,
+            "MD5": "f826cbb52d4d05e069eecda4cff65e30",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.348831:doubledoors-1.21.1-7.2:7143842",
+          "name": "doubledoors-1.21.1-7.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75041,
+            "MD5": "bc5d5a4d5edfed10d09f149e173ec600",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/doubledoors-1.21.1-7.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1230729:refinedstorage-curios-integration-1.0.0:6360514",
+          "name": "refinedstorage-curios-integration-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11177,
+            "MD5": "5bed520857f52a023edbac6ad9d061e4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/refinedstorage-curios-integration-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.843344:DustyDecorations_1.21.1Neoforge_V1.12:7571907",
+          "name": "DustyDecorations_1.21.1Neoforge_V1.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4850087,
+            "MD5": "7bc48619da8203349d93c8a90168fcee",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/DustyDecorations_1.21.1Neoforge_V1.12.jar"
+          }
+        },
+        {
+          "id": "curseforge.883287:fastpaintings-1.21-1.3.0-neoforge:7305762",
+          "name": "fastpaintings-1.21-1.3.0-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155810,
+            "MD5": "1f646cbc26d3e2a46dfc2807f2bedf79",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/fastpaintings-1.21-1.3.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1128335:selfexpression_slim-1.5-neoforge-1.21.1:6115515",
+          "name": "selfexpression_slim-1.5-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1305972,
+            "MD5": "0cecadaa9d52800e80bda5d4e5e7a760",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/selfexpression_slim-1.5-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.441647:FramedBlocks-10.5.3:7584453",
+          "name": "FramedBlocks-10.5.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4301567,
+            "MD5": "a4c4858a54327def338ce0a4962e69f7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FramedBlocks-10.5.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.1090999:addonslib-neoforge-1.21.1-1.10:7369254",
+          "name": "addonslib-neoforge-1.21.1-1.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 117921,
+            "MD5": "b1ffe525f1428baaf27585991b239d1d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/addonslib-neoforge-1.21.1-1.10.jar"
+          }
+        },
+        {
+          "id": "curseforge.399757:charginggadgets-1.14.1:5615790",
+          "name": "charginggadgets-1.14.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67206,
+            "MD5": "89013344d40bd190f278a7cfba468605",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/charginggadgets-1.14.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.550678:toofast-1.21.0-0.4.3.6:6819714",
+          "name": "toofast-1.21.0-0.4.3.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3372,
+            "MD5": "42bb1dbeeae4feadf6181dc2f5e0ce2e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/toofast-1.21.0-0.4.3.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.676136:modelfix-1.21-1.10:5591286",
+          "name": "modelfix-1.21-1.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47035,
+            "MD5": "a1acc6b33742012829d9b1de1ff4a7e7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/modelfix-1.21-1.10.jar"
+          }
+        },
+        {
+          "id": "curseforge.377835:creategoggles-1.21.1-6.1.1-[NEOFORGE]:6776826",
+          "name": "creategoggles-1.21.1-6.1.1-[NEOFORGE]",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 180932,
+            "MD5": "9d8f25a3de56e8106502ab0e0ca17925",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar"
+          }
+        },
+        {
+          "id": "curseforge.495336:advancednetherite-neoforge-2.3.1-1.21.1:7039369",
+          "name": "advancednetherite-neoforge-2.3.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 520611,
+            "MD5": "ad1ff51f9ae302227b95d8d70be6a748",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/advancednetherite-neoforge-2.3.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.986583:ApothicSpawners-1.21.1-1.3.4:7492121",
+          "name": "ApothicSpawners-1.21.1-1.3.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 125015,
+            "MD5": "2a02c6572244c815de42d8b9e35aef31",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ApothicSpawners-1.21.1-1.3.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.455508:iris-neoforge-1.8.12+mc1.21.1:6661598",
+          "name": "iris-neoforge-1.8.12+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2438548,
+            "MD5": "6c1122aa7c2b1a4f24831e394c5b513f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.907843:ars_ocultas-1.21.1-2.2.1:7587779",
+          "name": "ars_ocultas-1.21.1-2.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75053,
+            "MD5": "b6ae97d09a39311070d5531544e2bad0",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ars_ocultas-1.21.1-2.2.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.419699:architectury-13.0.8-neoforge:5786327",
+          "name": "architectury-13.0.8-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584004,
+            "MD5": "7a45a948b525c031ca85d221dfdbed85",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/architectury-13.0.8-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.888624:rechiseledcreate-1.1.0-neoforge-mc1.21:7522529",
+          "name": "rechiseledcreate-1.1.0-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 981192,
+            "MD5": "c410393fe88aff622de656a6f7d69e0c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/rechiseledcreate-1.1.0-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.317716:elytraslot-neoforge-9.0.2+1.21.1:5778461",
+          "name": "elytraslot-neoforge-9.0.2+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 65086,
+            "MD5": "8d76e8e6b82f5200fed0872fecda435a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/elytraslot-neoforge-9.0.2%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1395870:watermedia_youtube_plugin-2.1.2:7543999",
+          "name": "watermedia_youtube_plugin-2.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3830072,
+            "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/watermedia_youtube_plugin-2.1.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.479134:hiddennames-1.21.0-1.0.6:6290901",
+          "name": "hiddennames-1.21.0-1.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 48056,
+            "MD5": "54e7cc9d40cc6bcb6117b1b744f705de",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/hiddennames-1.21.0-1.0.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.532610:owo-lib-neoforge-0.12.15.5-beta.1+1.21:6785734",
+          "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1221583,
+            "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.575698:ars_creo-1.21.1-5.2.0:7528185",
+          "name": "ars_creo-1.21.1-5.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74550,
+            "MD5": "fb37ed0510dbef0d902f2e9b949dde8d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ars_creo-1.21.1-5.2.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1103259:ftb-jei-extras-21.1.7:6695679",
+          "name": "ftb-jei-extras-21.1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69759,
+            "MD5": "56810e55221b890bf7197a5850c45c38",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-jei-extras-21.1.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.532127:LegendaryTooltips-1.21.1-neoforge-1.5.5:6400660",
+          "name": "LegendaryTooltips-1.21.1-neoforge-1.5.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81808,
+            "MD5": "2c31065e92ddf198902dd6ffec50a68a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.1096161:ars_technica-1.21.1-2.5.2:7490269",
+          "name": "ars_technica-1.21.1-2.5.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3409159,
+            "MD5": "1485089679dfab538d892104220e9a39",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ars_technica-1.21.1-2.5.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1063926:ApothicEnchanting-1.21.1-1.5.1:7444883",
+          "name": "ApothicEnchanting-1.21.1-1.5.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5354432,
+            "MD5": "5e2923787cee7310b187211c82099bda",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ApothicEnchanting-1.21.1-1.5.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.456956:chipped-neoforge-1.21.1-4.0.2:5813117",
+          "name": "chipped-neoforge-1.21.1-4.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15020578,
+            "MD5": "f8fd65f72a903abd0bcbd3bf6bc09524",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/chipped-neoforge-1.21.1-4.0.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1023259:prickle-neoforge-1.21.1-21.1.11:6961457",
+          "name": "prickle-neoforge-1.21.1-21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84812,
+            "MD5": "533c154fb306cd8043564ee1533873ce",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/prickle-neoforge-1.21.1-21.1.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.250398:Controlling-neoforge-1.21.1-19.0.5:6368976",
+          "name": "Controlling-neoforge-1.21.1-19.0.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77555,
+            "MD5": "7141c2d0bb774dc6e4481be32b685179",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Controlling-neoforge-1.21.1-19.0.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.448233:entityculling-neoforge-1.9.5-mc1.21.1:7396695",
+          "name": "entityculling-neoforge-1.9.5-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1564767,
+            "MD5": "ef1da268d5562d65d85da5af3c290a03",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/entityculling-neoforge-1.9.5-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.410811:ftb-essentials-neoforge-2101.1.9:7608733",
+          "name": "ftb-essentials-neoforge-2101.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 209459,
+            "MD5": "b406c9fffbb6fc40f3c7073c946617da",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-essentials-neoforge-2101.1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.344787:xptome-1.21.1-2.4:5842036",
+          "name": "xptome-1.21.1-2.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28123,
+            "MD5": "4d000d2537f6d423d06621c7917bd8e6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/xptome-1.21.1-2.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.240630:JustEnoughResources-NeoForge-1.21.1-1.6.0.17:6506298",
+          "name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 292088,
+            "MD5": "3e18cab0cb7ee834573e6b20dcb5543f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+          }
+        },
+        {
+          "id": "curseforge.878047:Spice of Life Onion_NEOFORGE_v1.5.4_mc1.21.1:7550320",
+          "name": "Spice of Life Onion_NEOFORGE_v1.5.4_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 290295,
+            "MD5": "e689a6c4546c5c6baac0114fc9c71fcc",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Spice%20of%20Life%20Onion_NEOFORGE_v1.5.4_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.429235:ferritecore-7.0.3-neoforge:7524151",
+          "name": "ferritecore-7.0.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121559,
+            "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ferritecore-7.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1204051:Just Colored Lighting (v0.4.4).zip:7418980",
+          "name": "Just Colored Lighting (v0.4.4).zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 210097,
+            "MD5": "8c99faa2f4bc5392cb3a8122a2432777",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Just%20Colored%20Lighting%20(v0.4.4).zip"
+          }
+        },
+        {
+          "id": "curseforge.1119394:mcw-mcwstairs-1.0.2-mc1.21.1neoforge:7317479",
+          "name": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 529082,
+            "MD5": "48f535d3e5090694a396727d1c81f340",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.363363:ExtremeSoundMuffler-3.54_NeoForge-1.21:7469731",
+          "name": "ExtremeSoundMuffler-3.54_NeoForge-1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 269747,
+            "MD5": "d6c8d61ad5f04c15293c41b474edab38",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ExtremeSoundMuffler-3.54_NeoForge-1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1230497:refinedstorage-jei-integration-neoforge-1.0.0:6359014",
+          "name": "refinedstorage-jei-integration-neoforge-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58343,
+            "MD5": "1b33c242ade898720571dd5c7a871156",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/refinedstorage-jei-integration-neoforge-1.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.652202:create_things_and_misc-4.0-neoforge-1.21.1:6267546",
+          "name": "create_things_and_misc-4.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1028338,
+            "MD5": "4515ed24ae18a83df8895c249331a9a5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_things_and_misc-4.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.390717:starterkit-1.21.1-7.4:6429852",
+          "name": "starterkit-1.21.1-7.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 272899,
+            "MD5": "197143ca0eff813b32e3fac160547a6c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/starterkit-1.21.1-7.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.973435:neoncraft-1.1.1-neoforge-1.21.1:6411092",
+          "name": "neoncraft-1.1.1-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3072785,
+            "MD5": "67a7bb5237027af47debf8b3ade2ac39",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/neoncraft-1.1.1-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.278717:sit-1.21.1-1.4:6776225",
+          "name": "sit-1.21.1-1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14031,
+            "MD5": "01be947d5c6584fb41d7bc7c459fafca",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sit-1.21.1-1.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.288885:FastWorkbench-1.21.1-9.1.3:6751534",
+          "name": "FastWorkbench-1.21.1-9.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28635,
+            "MD5": "9001c37d25561e2722d15b8ac0cfd869",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FastWorkbench-1.21.1-9.1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.407206:chat_heads-0.14.2-neoforge-1.21:7211719",
+          "name": "chat_heads-0.14.2-neoforge-1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85282,
+            "MD5": "3fb967e0ae6e2429981b6bbf56ef7861",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/chat_heads-0.14.2-neoforge-1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.890755:jearchaeology-1.21.1-1.1.6:6329637",
+          "name": "jearchaeology-1.21.1-1.1.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44537,
+            "MD5": "3012d0a19303d75cbbb4418370ec4101",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/jearchaeology-1.21.1-1.1.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.1153275:animalgarden-owl-1.2.2-neoforge-1.21.1-21.1.206:6946454",
+          "name": "animalgarden-owl-1.2.2-neoforge-1.21.1-21.1.206",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 173493,
+            "MD5": "7d2a84051ef340c960a03987edff4cac",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-owl-1.2.2-neoforge-1.21.1-21.1.206.jar"
+          }
+        },
+        {
+          "id": "curseforge.1142880:lootintegration_wda-1.7:7424737",
+          "name": "lootintegration_wda-1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7729,
+            "MD5": "0d1a1b236f2b73ac4d808c3975e89b38",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/lootintegration_wda-1.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.686100:create_mechanical_extruder-1.21.1-2.2.0-6.0.8:7226870",
+          "name": "create_mechanical_extruder-1.21.1-2.2.0-6.0.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 523065,
+            "MD5": "7e162d6c5b2ce42dd455e4b1cfce1cfe",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.1184779:tfthreadsafetyaddon-0.1.3:7426100",
+          "name": "tfthreadsafetyaddon-0.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18722,
+            "MD5": "decc22afa72b152f3e7e1b39949a3588",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/tfthreadsafetyaddon-0.1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.783522:Structory_Towers_1.21.x_v1.0.15:7375538",
+          "name": "Structory_Towers_1.21.x_v1.0.15",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 491655,
+            "MD5": "65337a0c62807bb7a00f6143fd85faac",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Structory_Towers_1.21.x_v1.0.15.jar"
+          }
+        },
+        {
+          "id": "curseforge.854949:fusion-1.2.12-neoforge-mc1.21.1:7471474",
+          "name": "fusion-1.2.12-neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 532912,
+            "MD5": "222533487d6b22b6ba685535f8166584",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/fusion-1.2.12-neoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.870210:trenzalore-neo-6.1.1+mc1.21.1:5623160",
+          "name": "trenzalore-neo-6.1.1+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25146,
+            "MD5": "b4cbeac8750720ca7faf56bb5ceac079",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/trenzalore-neo-6.1.1%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.663276:yawp-1.21.1-neoforge-0.6.2-beta1:7166805",
+          "name": "yawp-1.21.1-neoforge-0.6.2-beta1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 674483,
+            "MD5": "c064330a6057bc0b9d6e2249d3d02efd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/yawp-1.21.1-neoforge-0.6.2-beta1.jar"
+          }
+        },
+        {
+          "id": "curseforge.368098:mysterious_mountain_lib-1.2.14-1.21.1:6929513",
+          "name": "mysterious_mountain_lib-1.2.14-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 291729,
+            "MD5": "853b140c4e4da42382ed7630a2c68184",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mysterious_mountain_lib-1.2.14-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1196142:pipeorgans-0.8.2+1.21.1:7315860",
+          "name": "pipeorgans-0.8.2+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6593821,
+            "MD5": "24e848aae3b21b47386dbd790a115a12",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/pipeorgans-0.8.2%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.820977:create-central-kitchen-2.2.6:7216429",
+          "name": "create-central-kitchen-2.2.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 342140,
+            "MD5": "546ad2f1650d37aa17a74a527589ed97",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-central-kitchen-2.2.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.454372:supermartijn642corelib-1.1.20-neoforge-mc1.21:7521894",
+          "name": "supermartijn642corelib-1.1.20-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 558373,
+            "MD5": "37a5ba87dacdb6c2062ba4af5cf348cd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/supermartijn642corelib-1.1.20-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.483885:spiffyhud_neoforge_3.1.0_MC_1.21.1:7248396",
+          "name": "spiffyhud_neoforge_3.1.0_MC_1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646194,
+            "MD5": "44d78cc2a3d91e716b31b41cb788a36a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/spiffyhud_neoforge_3.1.0_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.394468:sodium-neoforge-0.6.13+mc1.21.1:6382651",
+          "name": "sodium-neoforge-0.6.13+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1162994,
+            "MD5": "e5018c782d851fea76be0205b7616e5d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.882495:gpumemleakfix-1.21-1.8:5513549",
+          "name": "gpumemleakfix-1.21-1.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6574,
+            "MD5": "96a47a7cff915294a949f73a5f2a8816",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/gpumemleakfix-1.21-1.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.832870:kjsbotanypots-1.3.2:7181867",
+          "name": "kjsbotanypots-1.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14245,
+            "MD5": "37afddbfb4cd1f5608763b85a526dc8e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kjsbotanypots-1.3.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1281336:create_hypertube-0.4.0-NEOFORGE:7599490",
+          "name": "create_hypertube-0.4.0-NEOFORGE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 422250,
+            "MD5": "d25a7d5c75eff23c1b88e116bfb345de",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_hypertube-0.4.0-NEOFORGE.jar"
+          }
+        },
+        {
+          "id": "curseforge.511319:reeses-sodium-options-neoforge-1.8.3+mc1.21.4:6091021",
+          "name": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78451,
+            "MD5": "f3a0d7f31993d6f34e90f816f82cbcaf",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.628972:farmersknives-neoforge-1.21.1-4.1.0:7276451",
+          "name": "farmersknives-neoforge-1.21.1-4.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91363,
+            "MD5": "6da9c6ed97abdc4f6a962ade687d91d6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/farmersknives-neoforge-1.21.1-4.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1230504:refinedstorage-mekanism-integration-1.1.1:7163500",
+          "name": "refinedstorage-mekanism-integration-1.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 160633,
+            "MD5": "4bb972b676e226ec1db720fc286e3696",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/refinedstorage-mekanism-integration-1.1.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.980834:irons_spells_js-4.0.3:7234865",
+          "name": "irons_spells_js-4.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 150121,
+            "MD5": "357989fbe3808757b47f83699a82484e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/irons_spells_js-4.0.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.233019:AI-Improvements-1.21-0.5.3:5426792",
+          "name": "AI-Improvements-1.21-0.5.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28984,
+            "MD5": "fd80ae9f154ac230e60fb138f9b5453f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/AI-Improvements-1.21-0.5.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.348521:cloth-config-15.0.140-neoforge:5729127",
+          "name": "cloth-config-15.0.140-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1163890,
+            "MD5": "4c3757160403fcccb8ad468c2ea22862",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cloth-config-15.0.140-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.299540:FastFurnace-1.21.1-9.0.1:6751551",
+          "name": "FastFurnace-1.21.1-9.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4623,
+            "MD5": "cec1ab0b1daaf7c6eb985ea14f431ca1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FastFurnace-1.21.1-9.0.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1230483:refinedstorage-quartz-arsenal-neoforge-1.0.6:6990043",
+          "name": "refinedstorage-quartz-arsenal-neoforge-1.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66882,
+            "MD5": "da9066720c71d4db540d745f21510c11",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/refinedstorage-quartz-arsenal-neoforge-1.0.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.322506:BSL_v10.1.zip:7392906",
+          "name": "BSL_v10.1.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1124960,
+            "MD5": "3fcde69c80272216987dc64f91d13c3f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/BSL_v10.1.zip"
+          }
+        },
+        {
+          "id": "curseforge.238086:kubejs-neoforge-2101.7.2-build.348:7278501",
+          "name": "kubejs-neoforge-2101.7.2-build.348",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2240610,
+            "MD5": "e53316dd5b84d571d3e753c213102336",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejs-neoforge-2101.7.2-build.348.jar"
+          }
+        },
+        {
+          "id": "curseforge.841890:athena-neoforge-1.21-4.0.2:6669522",
+          "name": "athena-neoforge-1.21-4.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 92698,
+            "MD5": "26eec9eab46ad442f811b163b5bcb6fe",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/athena-neoforge-1.21-4.0.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.832644:ResourcePackOverrides-v21.1.0-1.21.1-NeoForge:5733968",
+          "name": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83035,
+            "MD5": "9757d99dce58ebb447cc75a1940d4d5a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.509575:observable-5.4.4:6697124",
+          "name": "observable-5.4.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388133,
+            "MD5": "8911bb2e49077b6d4b64d06026b636f3",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/observable-5.4.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.1030285:fastboot-1.21.x-v1.3neo:6998687",
+          "name": "fastboot-1.21.x-v1.3neo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9085,
+            "MD5": "e7682cf7c0bb064251c498f3c289f59d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/fastboot-1.21.x-v1.3neo.jar"
+          }
+        },
+        {
+          "id": "curseforge.856996:cristellib-neoforge-1.21.1-3.0.3:7593921",
+          "name": "cristellib-neoforge-1.21.1-3.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 539899,
+            "MD5": "2a542779bc634e89c2383da587f2f4bd",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cristellib-neoforge-1.21.1-3.0.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.268567:MekanismTools-1.21.1-10.7.17.83:7132172",
+          "name": "MekanismTools-1.21.1-10.7.17.83",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 520884,
+            "MD5": "97804680c47d72f83f6ab1a7a1d22235",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MekanismTools-1.21.1-10.7.17.83.jar"
+          }
+        },
+        {
+          "id": "curseforge.1206040:occultengineering-1.21.1-0.12.1:7546192",
+          "name": "occultengineering-1.21.1-0.12.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 593367,
+            "MD5": "47bbb39e05f479df94bd763c17a67d1e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/occultengineering-1.21.1-0.12.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.254284:AmbientSounds_NEOFORGE_v6.3.4_mc1.21.1:7550201",
+          "name": "AmbientSounds_NEOFORGE_v6.3.4_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84811185,
+            "MD5": "852627ec7fbf278441c1866df2aab1a9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/AmbientSounds_NEOFORGE_v6.3.4_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.953126:createframed-1.21.1-1.7.2:7466557",
+          "name": "createframed-1.21.1-1.7.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1661470,
+            "MD5": "0f6a959e3cb9d77ded4f75c2dc051e24",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createframed-1.21.1-1.7.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.438332:supermartijn642configlib-1.1.8-neoforge-mc1.21:5546996",
+          "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207514,
+            "MD5": "0428149c5db7bad43d75e6f758f47678",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.395620:itemcollectors-1.1.10-neoforge-mc1.21:5550187",
+          "name": "itemcollectors-1.1.10-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100837,
+            "MD5": "ccf63000313c6fb37b18d8c8b39584fb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/itemcollectors-1.1.10-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.864781:DnDesires-1.21.1-2.2d-BETA:7287681",
+          "name": "DnDesires-1.21.1-2.2d-BETA",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1184499,
+            "MD5": "0d86711f73f119a1b244f972af564238",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/DnDesires-1.21.1-2.2d-BETA.jar"
+          }
+        },
+        {
+          "id": "curseforge.979761:storagedelight-25.12.09-1.21-neoforge:7313558",
+          "name": "storagedelight-25.12.09-1.21-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 649502,
+            "MD5": "3a34a42d7cbd62dd38d81b92287304e1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/storagedelight-25.12.09-1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.349559:FallingTree-1.21.1-1.21.1.11:6835168",
+          "name": "FallingTree-1.21.1-1.21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 496356,
+            "MD5": "7318bdea54e4c69c1c90650b30fc4bde",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FallingTree-1.21.1-1.21.1.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.257814:CreativeCore_NEOFORGE_v2.13.28_mc1.21.1:7589676",
+          "name": "CreativeCore_NEOFORGE_v2.13.28_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1208985,
+            "MD5": "8207b411b868ee04af05650f40fc9955",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/CreativeCore_NEOFORGE_v2.13.28_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.977947:create_copper_and_zinc-2.0.0-neoforge-1.21.1:7454578",
+          "name": "create_copper_and_zinc-2.0.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98709,
+            "MD5": "4a70e08edb06937a5d0a8ca6386f1bcf",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.678384:Solas Shader V3.2.zip:7403631",
+          "name": "Solas Shader V3.2.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1222615,
+            "MD5": "c012ce801111913af9d8a5acfc6efd72",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Solas%20Shader%20V3.2.zip"
+          }
+        },
+        {
+          "id": "curseforge.306770:Patchouli-1.21.1-92-NEOFORGE:6842247",
+          "name": "Patchouli-1.21.1-92-NEOFORGE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646486,
+            "MD5": "40ae12e5ea2554ae97ea38e133558e86",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Patchouli-1.21.1-92-NEOFORGE.jar"
+          }
+        },
+        {
+          "id": "curseforge.982529:SomeMoreBlocks@neoforge-1.21-1.1.5-HF:7221496",
+          "name": "SomeMoreBlocks@neoforge-1.21-1.1.5-HF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2989088,
+            "MD5": "03f860018cd4ab2728f8a6db24fa3233",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/SomeMoreBlocks%40neoforge-1.21-1.1.5-HF.jar"
+          }
+        },
+        {
+          "id": "curseforge.287342:titanium-1.21-4.0.37:6443608",
+          "name": "titanium-1.21-4.0.37",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 605648,
+            "MD5": "285f19389d7265e23e7ecb2023a2358c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/titanium-1.21-4.0.37.jar"
+          }
+        },
+        {
+          "id": "curseforge.485681:Chunky-NeoForge-1.4.23:6383261",
+          "name": "Chunky-NeoForge-1.4.23",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 340572,
+            "MD5": "c461f3132c48d7bc71a9f2b307273a88",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Chunky-NeoForge-1.4.23.jar"
+          }
+        },
+        {
+          "id": "curseforge.309927:curios-neoforge-9.5.1+1.21.1:6529130",
+          "name": "curios-neoforge-9.5.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/curios-neoforge-9.5.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.790626:modernfix-neoforge-5.26.1+mc1.21.1:7509726",
+          "name": "modernfix-neoforge-5.26.1+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 498852,
+            "MD5": "573e180dbae93cdb8bfe0179f260b6aa",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/modernfix-neoforge-5.26.1%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.511040:durabilitytooltip-1.1.6-neoforge-mc1.21:6833316",
+          "name": "durabilitytooltip-1.1.6-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20015,
+            "MD5": "a1d598f4bdc8c4557eb9ef2dd7481d28",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1189352:mss-1.2.7-1.21:6136300",
+          "name": "mss-1.2.7-1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3512360,
+            "MD5": "f9b957bceaee6b8db34220cad09991cc",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mss-1.2.7-1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1266524:exposure_expanded-neoforge-1.0.1:6959722",
+          "name": "exposure_expanded-neoforge-1.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 951304,
+            "MD5": "d219ee78e35ecf23bfd69513143d34e8",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/exposure_expanded-neoforge-1.0.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1073197:AetherVillages-1.21.1-1.0.8-neoforge:5895490",
+          "name": "AetherVillages-1.21.1-1.0.8-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 647447,
+            "MD5": "96aca81787bd80bd4d58d70384a2dd4d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/AetherVillages-1.21.1-1.0.8-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.915308:cleanswing-1.9:6153780",
+          "name": "cleanswing-1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8449,
+            "MD5": "c3aea0436a9b9ba18c59c8bf259805ef",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cleanswing-1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.1166930:sophisticatedstorageinmotion-1.21.1-0.10.26.181:7496073",
+          "name": "sophisticatedstorageinmotion-1.21.1-0.10.26.181",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 392219,
+            "MD5": "2d767d77d395ecc043c9954f785569d7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sophisticatedstorageinmotion-1.21.1-0.10.26.181.jar"
+          }
+        },
+        {
+          "id": "curseforge.634062:NoChatReports-NEOFORGE-1.21.1-v2.9.1:5885735",
+          "name": "NoChatReports-NEOFORGE-1.21.1-v2.9.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 306668,
+            "MD5": "07496752e6b64dd33d68cd5166818402",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.639584:immersive_paintings-neoforge-1.21.1-0.7.6:7583940",
+          "name": "immersive_paintings-neoforge-1.21.1-0.7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5350777,
+            "MD5": "0579f2bc2cee22d175a0b563e08f18db",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/immersive_paintings-neoforge-1.21.1-0.7.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.1214728:easy_npc_config_ui-neoforge-1.21.1-6.8.0:7592643",
+          "name": "easy_npc_config_ui-neoforge-1.21.1-6.8.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 774161,
+            "MD5": "e37cfecea6cffd16e2d3090b61f82ded",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/easy_npc_config_ui-neoforge-1.21.1-6.8.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1328197:TA 1.6.3, Neoforge 1.21.1:7179346",
+          "name": "TA 1.6.3, Neoforge 1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 68595,
+            "MD5": "3b40ea53c081b256391e4071d29e8ae6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/TA%201.6.3%2C%20Neoforge%201.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.663477:letmedespawn-1.21.x-neoforge-1.5.0:6311236",
+          "name": "letmedespawn-1.21.x-neoforge-1.5.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14911,
+            "MD5": "2d913f07606373a7f94b0f8cc8b16499",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/letmedespawn-1.21.x-neoforge-1.5.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.688768:create-enchantment-industry-2.2.5b:7216917",
+          "name": "create-enchantment-industry-2.2.5b",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 678897,
+            "MD5": "d895b135df789ec1338c1ca033184ebf",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-enchantment-industry-2.2.5b.jar"
+          }
+        },
+        {
+          "id": "curseforge.893541:cuisinedelight-1.2.6:6677783",
+          "name": "cuisinedelight-1.2.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 905083,
+            "MD5": "844890c0f808d22e40bbac4d81747c30",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cuisinedelight-1.2.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.1216624:create-dragons-plus-1.8.6:7504600",
+          "name": "create-dragons-plus-1.8.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 644837,
+            "MD5": "b8baf86c584599e5727b45693d5b6cb7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create-dragons-plus-1.8.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.534748:superDuperVanilla.zip:6745820",
+          "name": "superDuperVanilla.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851664,
+            "MD5": "00b068ef8600472d52da2c10aab68cb9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/superDuperVanilla.zip"
+          }
+        },
+        {
+          "id": "curseforge.855414:irons_spellbooks-1.21.1-3.15.3:7605616",
+          "name": "irons_spellbooks-1.21.1-3.15.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13480874,
+            "MD5": "79d7b3cd44902c395ba23d464f9b6ed4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/irons_spellbooks-1.21.1-3.15.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.351441:PickUpNotifier-v21.1.1-1.21.1-NeoForge:6409785",
+          "name": "PickUpNotifier-v21.1.1-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97094,
+            "MD5": "703cd8ad4dc4d99e11532122812915f9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.947914:create_connected-1.1.13-mc1.21.1:7593837",
+          "name": "create_connected-1.1.13-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6555122,
+            "MD5": "fb4adbf50ad37679e59c6fad8dfd0153",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_connected-1.1.13-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.758284:BetterCopper-neoforge-1.21-1.3:6059693",
+          "name": "BetterCopper-neoforge-1.21-1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119811,
+            "MD5": "3495758951a281b4457905dda7caf76c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/BetterCopper-neoforge-1.21-1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.676140:revive_me-1.21.1-5.4.8:7322709",
+          "name": "revive_me-1.21.1-5.4.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1256930,
+            "MD5": "1a01104ff8223b51d329feb78696c0d8",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/revive_me-1.21.1-5.4.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.411357:botanytrees-neoforge-1.21.1-21.1.3:7581615",
+          "name": "botanytrees-neoforge-1.21.1-21.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20389,
+            "MD5": "0f581f049668c469325fff68f33985f0",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/botanytrees-neoforge-1.21.1-21.1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.232131:defaultoptions-neoforge-1.21.1-21.1.5:6972485",
+          "name": "defaultoptions-neoforge-1.21.1-21.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95656,
+            "MD5": "3076fc70ebdcb5d39085ee12f430d798",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/defaultoptions-neoforge-1.21.1-21.1.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.499826:AdvancementPlaques-1.21.1-neoforge-1.6.8:5905995",
+          "name": "AdvancementPlaques-1.21.1-neoforge-1.6.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 195730,
+            "MD5": "ad6dc60871b30f6d69f25c0ec7d79871",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.1003673:MyNethersDelight-1.21.1-1.9:6938550",
+          "name": "MyNethersDelight-1.21.1-1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 798485,
+            "MD5": "06fe068a7941edd57a46dab4632124c2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MyNethersDelight-1.21.1-1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.1104882:txnilib-neoforge-1.0.24-1.21.1:6533725",
+          "name": "txnilib-neoforge-1.0.24-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6276522,
+            "MD5": "69cd87744e40cc444b4176022ec6d17a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/txnilib-neoforge-1.0.24-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1363244:animalgarden-bullshark-1.1.0-neoforge-1.21.1-21.1.210:7230622",
+          "name": "animalgarden-bullshark-1.1.0-neoforge-1.21.1-21.1.210",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62041,
+            "MD5": "0a99c36c78bc582fd8ebc6d362c33ae9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-bullshark-1.1.0-neoforge-1.21.1-21.1.210.jar"
+          }
+        },
+        {
+          "id": "curseforge.1367094:animalgarden-spottedhyena-1.0.0-neoforge-1.21.1-21.1.211:7121618",
+          "name": "animalgarden-spottedhyena-1.0.0-neoforge-1.21.1-21.1.211",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 506948,
+            "MD5": "eee694f8cfd2729dc39a294c93ee3d51",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-spottedhyena-1.0.0-neoforge-1.21.1-21.1.211.jar"
+          }
+        },
+        {
+          "id": "curseforge.235577:trashslot-neoforge-1.21.1-21.1.4:6319145",
+          "name": "trashslot-neoforge-1.21.1-21.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123189,
+            "MD5": "ecaf023c276ce3e4c3faee79a6a820f8",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/trashslot-neoforge-1.21.1-21.1.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.531761:balm-neoforge-1.21.1-21.0.56:7420963",
+          "name": "balm-neoforge-1.21.1-21.0.56",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 739709,
+            "MD5": "7ab16721c9a8bb96666233d8ef46b47d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/balm-neoforge-1.21.1-21.0.56.jar"
+          }
+        },
+        {
+          "id": "curseforge.610492:another_furniture-neoforge-4.0.2:7355747",
+          "name": "another_furniture-neoforge-4.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2417424,
+            "MD5": "49f67d0c26a0d9efe494c07ebc04dc82",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/another_furniture-neoforge-4.0.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.495476:PuzzlesLib-v21.1.39-1.21.1-NeoForge:7140307",
+          "name": "PuzzlesLib-v21.1.39-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1080389,
+            "MD5": "ccf523ffc1c317a005408d11009350a4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.630406:CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge:7211088",
+          "name": "CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17478086,
+            "MD5": "cbd3c9fc45c767a1e0cfe26f09f15bca",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/CosmeticArmours%20-%201.5.3.1%20-%201.21.1%20-%20NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.64760:[1.21.1] SecurityCraft v1.10.1:7148568",
+          "name": "[1.21.1] SecurityCraft v1.10.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4951098,
+            "MD5": "0513eed6536a3449368be2d9fc1acf88",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/%5B1.21.1%5D%20SecurityCraft%20v1.10.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1007788:barbequesdelight-1.2.2:6849166",
+          "name": "barbequesdelight-1.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 846060,
+            "MD5": "6e461b61a6c0790fdbf77536a5942992",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/barbequesdelight-1.2.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.452834:rightclickharvest-neoforge-4.6.1+1.21.1:7508749",
+          "name": "rightclickharvest-neoforge-4.6.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 287634,
+            "MD5": "b1188249c44aed7f666ff89ab591e9a4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.871735:twilightdelight-3.1.0:7592990",
+          "name": "twilightdelight-3.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1322136,
+            "MD5": "89223b982ebce3f0fde6e871a7e96658",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/twilightdelight-3.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.898963:ApothicAttributes-1.21.1-2.9.1:7445079",
+          "name": "ApothicAttributes-1.21.1-2.9.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 314269,
+            "MD5": "a3eeb5df11aaf5d5a661c498f76b8133",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ApothicAttributes-1.21.1-2.9.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.429371:kubejs-create-neoforge-2101.3.1-build.18:7213667",
+          "name": "kubejs-create-neoforge-2101.3.1-build.18",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38630,
+            "MD5": "25b13d8e4ac7b369129302aa7afd3b79",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejs-create-neoforge-2101.3.1-build.18.jar"
+          }
+        },
+        {
+          "id": "curseforge.1285475:colorwheel_patcher-neoforge-1.0.4+mc1.21.1:7397587",
+          "name": "colorwheel_patcher-neoforge-1.0.4+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 206773,
+            "MD5": "f2bcf1d39aa6b34ea24a346a2d2b5f71",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/colorwheel_patcher-neoforge-1.0.4%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1159841:Cursed Fog - V1.0.8.zip:7119963",
+          "name": "Cursed Fog - V1.0.8.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67730,
+            "MD5": "ccf9a131238bfbd236d5ec3d81ea3da6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Cursed%20Fog%20-%20V1.0.8.zip"
+          }
+        },
+        {
+          "id": "curseforge.250419:enchdesc-neoforge-1.21.1-21.1.9:7039849",
+          "name": "enchdesc-neoforge-1.21.1-21.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81847,
+            "MD5": "9b465ea3113d1463612a7d152b6b69b9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/enchdesc-neoforge-1.21.1-21.1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.892382:MoogsEndStructures-1.21-2.0.1:7365612",
+          "name": "MoogsEndStructures-1.21-2.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2458587,
+            "MD5": "a2984179e01f05c87c62149c8fbcbc7f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MoogsEndStructures-1.21-2.0.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1205244:animalgarden-meerkat-1.0.4-neoforge-1.21.1-21.1.213:7141671",
+          "name": "animalgarden-meerkat-1.0.4-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80868,
+            "MD5": "bef1c7949d21edeb885ba3af6160fa81",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-meerkat-1.0.4-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.953729:create_oxidized-0.1.3:6286593",
+          "name": "create_oxidized-0.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121297,
+            "MD5": "63882f71dc6a1dc47338219a4ab81a06",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_oxidized-0.1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.841262:oceansdelight-neoforge-1.0.3-1.21:5618115",
+          "name": "oceansdelight-neoforge-1.0.3-1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108785,
+            "MD5": "5faf9b86872060fcdcda785f632d661f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/oceansdelight-neoforge-1.0.3-1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.326950:screenshot-to-clipboard-neoforge-1.0.10:5593116",
+          "name": "screenshot-to-clipboard-neoforge-1.0.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14146,
+            "MD5": "00e3e667f7c95c4ca374cb31b2c1f693",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/screenshot-to-clipboard-neoforge-1.0.10.jar"
+          }
+        },
+        {
+          "id": "curseforge.1219053:particular-1.21.1-NeoForge-1.1.7:7075190",
+          "name": "particular-1.21.1-NeoForge-1.1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 221535,
+            "MD5": "c6dfdb944d0b621d574aaaa1f8325098",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/particular-1.21.1-NeoForge-1.1.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.1260676:selfexpression_new_edge-1.0-neoforge-1.21.1:6505856",
+          "name": "selfexpression_new_edge-1.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 243725,
+            "MD5": "439645ba562b97d59d63baef53fbf05e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/selfexpression_new_edge-1.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.905040:bellsandwhistles-0.4.7-1.21.1:6299879",
+          "name": "bellsandwhistles-0.4.7-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193619,
+            "MD5": "5f4d8adfa8bf7407fb387a93ea408848",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/bellsandwhistles-0.4.7-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1267351:create_cuisine-1.0.0-mc1.21.1-neoforge:7473284",
+          "name": "create_cuisine-1.0.0-mc1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671089,
+            "MD5": "f9b3e52d5e5fa09719e5c621a9976028",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_cuisine-1.0.0-mc1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.619320:sophisticatedstorage-1.21.1-1.5.27.1487:7603092",
+          "name": "sophisticatedstorage-1.21.1-1.5.27.1487",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1657329,
+            "MD5": "580a0c2ae817627efebfd37aca66b209",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sophisticatedstorage-1.21.1-1.5.27.1487.jar"
+          }
+        },
+        {
+          "id": "curseforge.1389805:animalgarden-fennecfox-1.0.1-neoforge-1.21.1-21.1.215:7283116",
+          "name": "animalgarden-fennecfox-1.0.1-neoforge-1.21.1-21.1.215",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285354,
+            "MD5": "e0cd2b4a5469bc9011163b9cee6d81f5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-fennecfox-1.0.1-neoforge-1.21.1-21.1.215.jar"
+          }
+        },
+        {
+          "id": "curseforge.404465:ftb-library-neoforge-2101.1.30:7420412",
+          "name": "ftb-library-neoforge-2101.1.30",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1410729,
+            "MD5": "db38267c160a2063cfa452cba374bf63",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-library-neoforge-2101.1.30.jar"
+          }
+        },
+        {
+          "id": "curseforge.1385403:animalgarden-alligatorgar-1.0.0-neoforge-1.21.1-21.1.215:7225747",
+          "name": "animalgarden-alligatorgar-1.0.0-neoforge-1.21.1-21.1.215",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120052,
+            "MD5": "ec9764ae73571989563772f2ee6bb8dc",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-alligatorgar-1.0.0-neoforge-1.21.1-21.1.215.jar"
+          }
+        },
+        {
+          "id": "curseforge.60028:Aquaculture-1.21.1-2.7.18:7521541",
+          "name": "Aquaculture-1.21.1-2.7.18",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 605678,
+            "MD5": "b94640bf1b6ca06a50574d14f9141663",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Aquaculture-1.21.1-2.7.18.jar"
+          }
+        },
+        {
+          "id": "curseforge.398521:FarmersDelight-1.21.1-1.2.10:7596366",
+          "name": "FarmersDelight-1.21.1-1.2.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2935025,
+            "MD5": "b1971a08ee136896c419d94c89702341",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FarmersDelight-1.21.1-1.2.10.jar"
+          }
+        },
+        {
+          "id": "curseforge.570630:lootjs-neoforge-1.21.1-3.6.1:7408387",
+          "name": "lootjs-neoforge-1.21.1-3.6.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 246857,
+            "MD5": "1b32e5c40c0f695d8ceb2e00665b0188",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/lootjs-neoforge-1.21.1-3.6.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.984493:man_of_many_planes-0.2.1+1.21.1-neoforge:6318680",
+          "name": "man_of_many_planes-0.2.1+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 725743,
+            "MD5": "dc2d5057c84b1a20e72bdc742598b37c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/man_of_many_planes-0.2.1%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1187696:CosmeticWeapons - 1.1.0.1 - 1.21.1 - NeoForge:7211074",
+          "name": "CosmeticWeapons - 1.1.0.1 - 1.21.1 - NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4837922,
+            "MD5": "523fe04c4c61a973f9aa6036e33aa826",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/CosmeticWeapons%20-%201.1.0.1%20-%201.21.1%20-%20NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.968398:copycats-3.0.4+mc.1.21.1-neoforge:7251823",
+          "name": "copycats-3.0.4+mc.1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1791747,
+            "MD5": "c9f1a4b031cdfab8ebfc06d81e891c43",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1267766:twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1:7273092",
+          "name": "twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3364135,
+            "MD5": "8b80be9f755b1eebeea393912307643c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/twilight_forest_final_boss-2.1.0%2B4.7.3196%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1138130:corpsecurioscompat-1.21.1-NeoForge-3.1.3:7088158",
+          "name": "corpsecurioscompat-1.21.1-NeoForge-3.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24683,
+            "MD5": "8483ed78a4d59ede2aa80651f04b2b57",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.871755:exposure-neoforge-1.21.1-1.9.13:7397320",
+          "name": "exposure-neoforge-1.21.1-1.9.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2179861,
+            "MD5": "5a43acb7a014bc6aa02b3a489954b983",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/exposure-neoforge-1.21.1-1.9.13.jar"
+          }
+        },
+        {
+          "id": "curseforge.324945:sneak_through_berries-neoforge-21.1.0:6564983",
+          "name": "sneak_through_berries-neoforge-21.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15685,
+            "MD5": "f395e9e8f1232e13391992bb35e64826",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sneak_through_berries-neoforge-21.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.500273:VisualWorkbench-v21.1.1-1.21.1-NeoForge:6798196",
+          "name": "VisualWorkbench-v21.1.1-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81945,
+            "MD5": "8baebdd1f10920df0850206c13ed6b7b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.268560:Mekanism-1.21.1-10.7.17.83:7132168",
+          "name": "Mekanism-1.21.1-10.7.17.83",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11950439,
+            "MD5": "cb923221f9536245b7de6820b4983b7b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Mekanism-1.21.1-10.7.17.83.jar"
+          }
+        },
+        {
+          "id": "curseforge.308989:caelus-neoforge-7.0.1+1.21.1:5694215",
+          "name": "caelus-neoforge-7.0.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50235,
+            "MD5": "d8f9e005af3644cee127d7da1fe2ed79",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/caelus-neoforge-7.0.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1362062:copperdeco-1.21.1-1.0.1:7095598",
+          "name": "copperdeco-1.21.1-1.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263728,
+            "MD5": "130edd30cb48ad2fa986129ea790fc6e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/copperdeco-1.21.1-1.0.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.896746:amendments-1.21-2.0.15-neoforge:7461027",
+          "name": "amendments-1.21-2.0.15-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1143659,
+            "MD5": "72d35a860a4a113249ade7342f0600ed",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/amendments-1.21-2.0.15-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1285307:Ixeris-3.8.7+1.21.1-neoforge:7608084",
+          "name": "Ixeris-3.8.7+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 551984,
+            "MD5": "01da3b375ef9b43b4fb072752f8c5ff9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Ixeris-3.8.7%2B1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1103431:sodiumoptionsapi-neoforge-1.0.10-1.21.1:6100815",
+          "name": "sodiumoptionsapi-neoforge-1.0.10-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 309122,
+            "MD5": "1411af8defb5136119d3cf706d3d9cd8",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.417645:JustEnoughProfessions-neoforge-1.21.1-4.0.4:6231254",
+          "name": "JustEnoughProfessions-neoforge-1.21.1-4.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24449,
+            "MD5": "e282ec9c33434d5d083f6b37fec091af",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.1007872:create_ltab-3.7.2:7594147",
+          "name": "create_ltab-3.7.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2294685,
+            "MD5": "d09831c2833730e1c1665951c781c059",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_ltab-3.7.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.659674:sliceanddice-forge-4.2.2:7162937",
+          "name": "sliceanddice-forge-4.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 406282,
+            "MD5": "e672b7979bb76261255677a0d81b71ed",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sliceanddice-forge-4.2.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.229523:armourersworkshop-forge-1.21.1-3.2.7-beta:7165519",
+          "name": "armourersworkshop-forge-1.21.1-3.2.7-beta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5892376,
+            "MD5": "c01559a659655155320d77401fd86a6f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/armourersworkshop-forge-1.21.1-3.2.7-beta.jar"
+          }
+        },
+        {
+          "id": "curseforge.416089:voicechat-neoforge-1.21.1-2.6.11:7416907",
+          "name": "voicechat-neoforge-1.21.1-2.6.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4890462,
+            "MD5": "6348bb7afabdea396e0b59c8d7dca16f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/voicechat-neoforge-1.21.1-2.6.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.316582:corpse-neoforge-1.21.1-1.1.13:7018307",
+          "name": "corpse-neoforge-1.21.1-1.1.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 253695,
+            "MD5": "1d3f40f9cf85f1e3a330201ea2e85c2c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/corpse-neoforge-1.21.1-1.1.13.jar"
+          }
+        },
+        {
+          "id": "curseforge.949158:create_easy_structures-0.2a-neoforge-1.21.1:6344382",
+          "name": "create_easy_structures-0.2a-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 469490,
+            "MD5": "183f48dd9ec8a62cf2d2654172cceb05",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_easy_structures-0.2a-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1226755:sophisticatedstoragecreateintegration-1.21.1-0.1.13.54:7168283",
+          "name": "sophisticatedstoragecreateintegration-1.21.1-0.1.13.54",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 131920,
+            "MD5": "d986c5536caad47b72316d00dc2bff02",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar"
+          }
+        },
+        {
+          "id": "curseforge.1005914:fzzy_config-0.7.6+1.21+neoforge:7568897",
+          "name": "fzzy_config-0.7.6+1.21+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2369895,
+            "MD5": "cd0823556e6d24046bd0f4ba74cd4981",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.313970:Apotheosis-1.21.1-8.4.2:7444906",
+          "name": "Apotheosis-1.21.1-8.4.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6652939,
+            "MD5": "338eb326d80d70428c5d18331d1bbcc4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Apotheosis-1.21.1-8.4.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.916747:OctoLib-NEOFORGE-0.6.0.4+1.21:6932487",
+          "name": "OctoLib-NEOFORGE-0.6.0.4+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 507443,
+            "MD5": "a4d9392dc783763815e350b9392ddd51",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/OctoLib-NEOFORGE-0.6.0.4%2B1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.985426:particle_core-0.3.3+1.21+neoforge:7581040",
+          "name": "particle_core-0.3.3+1.21+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 138375,
+            "MD5": "50d18b159cdda24351ed935aa60bd6ae",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/particle_core-0.3.3%2B1.21%2Bneoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1152715:lootintegrations_moog-1.8:7416873",
+          "name": "lootintegrations_moog-1.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6300,
+            "MD5": "7a0c13c06cbe6e53df35baaf4eb497d9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/lootintegrations_moog-1.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.1023882:exposure_catalog-neoforge-1.1.1:6832559",
+          "name": "exposure_catalog-neoforge-1.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 149303,
+            "MD5": "47ffe091dbbf858db07aaeb39dae68b2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/exposure_catalog-neoforge-1.1.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.255308:aether-1.21.1-1.5.10-neoforge:7043502",
+          "name": "aether-1.21.1-1.5.10-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40223909,
+            "MD5": "87bb550408f2833299a93980c2f41bb0",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/aether-1.21.1-1.5.10-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.854213:colorfulhearts-neoforge-1.21.1-10.5.9:6830399",
+          "name": "colorfulhearts-neoforge-1.21.1-10.5.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156588,
+            "MD5": "19928b5c0725b89b285d8b4e1eec8943",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/colorfulhearts-neoforge-1.21.1-10.5.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.635427:yeetusexperimentus-neoforge-87.0.0:5444189",
+          "name": "yeetusexperimentus-neoforge-87.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 570057,
+            "MD5": "146a7ff6596eff098dd1d07337ba88fe",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/yeetusexperimentus-neoforge-87.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.832882:structureessentials-1.21.1-4.8:6732857",
+          "name": "structureessentials-1.21.1-4.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60611,
+            "MD5": "9f5f1da6399a3912a658abc13a8d36f3",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/structureessentials-1.21.1-4.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.693815:tfmg-1.2.0:7430073",
+          "name": "tfmg-1.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4924243,
+            "MD5": "079025ce2504a1b553405ba3f1c0328b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/tfmg-1.2.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.577805:corn_delight-1.1.8-1.21.1:6662603",
+          "name": "corn_delight-1.1.8-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163806,
+            "MD5": "d29c8a050ebfc7ccb7f967decd5cf30d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/corn_delight-1.1.8-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.354428:nomowanderer-neoforge-1.21.1-1.10.1:6789853",
+          "name": "nomowanderer-neoforge-1.21.1-1.10.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207305,
+            "MD5": "65f86f29d0c0cd8f14cf852670f3cbf5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/nomowanderer-neoforge-1.21.1-1.10.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.312353:artifacts-neoforge-13.2.0:7468997",
+          "name": "artifacts-neoforge-13.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1022570,
+            "MD5": "a2b88cb7c0dc61b5340ad6a63913db8a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/artifacts-neoforge-13.2.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.363569:mcw-mcwwindows-2.4.2-mc1.21.1neoforge:7317672",
+          "name": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1261268,
+            "MD5": "fb18ea4529ea3670eb5e621ab900ced7",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.835687:betterarcheology-neoforge-1.21.1-1.3.4:7229658",
+          "name": "betterarcheology-neoforge-1.21.1-1.3.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3106485,
+            "MD5": "7247580b26fa9c38fe40d2b2142a6225",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/betterarcheology-neoforge-1.21.1-1.3.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.314906:ftb-chunks-neoforge-2101.1.14:7608681",
+          "name": "ftb-chunks-neoforge-2101.1.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642340,
+            "MD5": "93140f01962b61786b5bcc3d41960b9f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-chunks-neoforge-2101.1.14.jar"
+          }
+        },
+        {
+          "id": "curseforge.352039:mcw-roofs-2.3.2-mc1.21.1neoforge:6494399",
+          "name": "mcw-roofs-2.3.2-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1784829,
+            "MD5": "9f72bf86f91b80effe1baefb5858926b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.961418:UndergroundBunkers-1.0.4-1.21.x-neoforge:5625449",
+          "name": "UndergroundBunkers-1.0.4-1.21.x-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 591113,
+            "MD5": "255e164f8ad3e1d141afd6e3215c8fa2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/UndergroundBunkers-1.0.4-1.21.x-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.639842:bettercombat-neoforge-2.3.1+1.21.1:7348161",
+          "name": "bettercombat-neoforge-2.3.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1039102,
+            "MD5": "426439919e24518107fa72df4465a6f2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/bettercombat-neoforge-2.3.1%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.737302:createendertransmission-2.1.1-1.21.1:7232820",
+          "name": "createendertransmission-2.1.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84366,
+            "MD5": "0cdcc36c67b4a4cdaab1ccb476fbde8a",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createendertransmission-2.1.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.403422:emotecraft-for-MC1.21.1-2.4.12-neoforge:6941989",
+          "name": "emotecraft-for-MC1.21.1-2.4.12-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 861829,
+            "MD5": "c4840725c74865e2ba95807396c66a4f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.248020:FluxNetworks-1.21.1-8.0.0:6089446",
+          "name": "FluxNetworks-1.21.1-8.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 535938,
+            "MD5": "7ebb097deb1cfb13f3abcf87c17c8ba4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/FluxNetworks-1.21.1-8.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1264423:baguettelib-1.21.1-NeoForge-1.1.6:7544787",
+          "name": "baguettelib-1.21.1-NeoForge-1.1.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66319,
+            "MD5": "76a057119258db644be6383cec26f30f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/baguettelib-1.21.1-NeoForge-1.1.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.280510:attributefix-neoforge-1.21.1-21.1.3:7115922",
+          "name": "attributefix-neoforge-1.21.1-21.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19809,
+            "MD5": "1552cea16a40215f9773e609114ccce1",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/attributefix-neoforge-1.21.1-21.1.3.jar"
+          }
+        },
+        {
+          "id": "curseforge.1150683:better_lib-neoforge-1.21.1-1.0.109:7359503",
+          "name": "better_lib-neoforge-1.21.1-1.0.109",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 256724,
+            "MD5": "172cb6f0afdccd6abc472fe38f20fa23",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/better_lib-neoforge-1.21.1-1.0.109.jar"
+          }
+        },
+        {
+          "id": "curseforge.899386:justenoughbreeding-neoforge-1.21-1.21.1-1.6.2:6816404",
+          "name": "justenoughbreeding-neoforge-1.21-1.21.1-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134388,
+            "MD5": "4870855a7805af780b53912d41c65e9f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/justenoughbreeding-neoforge-1.21-1.21.1-1.6.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.410295:konkrete_neoforge_1.9.9_MC_1.21:5453385",
+          "name": "konkrete_neoforge_1.9.9_MC_1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 618842,
+            "MD5": "6e77d08299ea1ec7756a299263bc469b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/konkrete_neoforge_1.9.9_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1168509:anvianslib-neoforge-1.21-1.4.2:7342615",
+          "name": "anvianslib-neoforge-1.21-1.4.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29731,
+            "MD5": "8f190f96bf163e95043b36fcb379d1c2",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/anvianslib-neoforge-1.21-1.4.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.584724:worldedit_items-2.0-neoforge-1.21.1:6307350",
+          "name": "worldedit_items-2.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14448,
+            "MD5": "102175fcd7fc226db3a5f73560cc5847",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/worldedit_items-2.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1208436:cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0:6520572",
+          "name": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9651,
+            "MD5": "ae6dcf3813ccbee4e22d0fd823c7273e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.316873:charmofundying-neoforge-9.1.0+1.21.1:5846603",
+          "name": "charmofundying-neoforge-9.1.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178369,
+            "MD5": "2a7f593622932975aef50b46cd2f1a95",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/charmofundying-neoforge-9.1.0%2B1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.618298:sophisticatedcore-1.21.1-1.4.3.1481:7606246",
+          "name": "sophisticatedcore-1.21.1-1.4.3.1481",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1461553,
+            "MD5": "392577bbba60c295ba73ad9c1bf68695",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sophisticatedcore-1.21.1-1.4.3.1481.jar"
+          }
+        },
+        {
+          "id": "curseforge.570431:trade-cycling-neoforge-1.21.1-1.0.18:6497876",
+          "name": "trade-cycling-neoforge-1.21.1-1.0.18",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85733,
+            "MD5": "1da5a654fee3383865ee92c94c96c12c",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/trade-cycling-neoforge-1.21.1-1.0.18.jar"
+          }
+        },
+        {
+          "id": "curseforge.649832:createoreexcavation-1.21-1.6.8:7199305",
+          "name": "createoreexcavation-1.21-1.6.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 476990,
+            "MD5": "3539ffec4607fea12bebc5aa843db283",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createoreexcavation-1.21-1.6.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.1223719:spawnanimations-v1.11.3-mc1.17-1.21.11-mod:7312477",
+          "name": "spawnanimations-v1.11.3-mc1.17-1.21.11-mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 223524,
+            "MD5": "f6fe4eb6f90b0af9ccf64ca6ee3b3f1d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/spawnanimations-v1.11.3-mc1.17-1.21.11-mod.jar"
+          }
+        },
+        {
+          "id": "curseforge.385587:ComplementaryUnbound_r5.6.1.zip:7090228",
+          "name": "ComplementaryUnbound_r5.6.1.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 500699,
+            "MD5": "3f83f81df2ad4608d830017425b45bac",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ComplementaryUnbound_r5.6.1.zip"
+          }
+        },
+        {
+          "id": "curseforge.324717:Jade-1.21.1-NeoForge-15.10.5:7545219",
+          "name": "Jade-1.21.1-NeoForge-15.10.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 725742,
+            "MD5": "80f9186d25b02ebbfa5773416f5da410",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/Jade-1.21.1-NeoForge-15.10.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.1377848:animalgarden-seaotter-1.1.0-neoforge-1.21.1-21.1.213:7228417",
+          "name": "animalgarden-seaotter-1.1.0-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 356067,
+            "MD5": "570472bd1e61e46f4087eb0d60318d16",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-seaotter-1.1.0-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.251244:CMDCam_NEOFORGE_v2.2.7_mc1.21.1:7467725",
+          "name": "CMDCam_NEOFORGE_v2.2.7_mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 137970,
+            "MD5": "99874f03dc68aafc51fab2c08934c5ce",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/CMDCam_NEOFORGE_v2.2.7_mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.252848:NaturesCompass-1.21.1-3.0.3-neoforge:5696042",
+          "name": "NaturesCompass-1.21.1-3.0.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 216873,
+            "MD5": "7a0e95b67a63ef1bceaf40434941466b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/NaturesCompass-1.21.1-3.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.838411:suppsquared-1.21-1.2.17-neoforge:7351827",
+          "name": "suppsquared-1.21-1.2.17-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 774220,
+            "MD5": "d82d7906a949a0e2a12329ae0b934f86",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/suppsquared-1.21-1.2.17-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.532286:jeed-1.21-2.3.2:7346553",
+          "name": "jeed-1.21-2.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 164003,
+            "MD5": "3d339a1ec7e94e8377894dedb210d99e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/jeed-1.21-2.3.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.967466:MoogsNetherStructures-1.21-2.0.31:7312599",
+          "name": "MoogsNetherStructures-1.21-2.0.31",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1469454,
+            "MD5": "21521ab41deedaabc44206f3cca2f6eb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MoogsNetherStructures-1.21-2.0.31.jar"
+          }
+        },
+        {
+          "id": "curseforge.938643:melody_neoforge_1.0.10_MC_1.21:5453382",
+          "name": "melody_neoforge_1.0.10_MC_1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36096,
+            "MD5": "875f4a68f2cd7ee2cc135904653c93d4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/melody_neoforge_1.0.10_MC_1.21.jar"
+          }
+        },
+        {
+          "id": "curseforge.1308987:easy_npc-neoforge-1.21.1-6.8.0:7592636",
+          "name": "easy_npc-neoforge-1.21.1-6.8.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2136385,
+            "MD5": "0a6a84351f0c9581c4db9dbb6449771f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/easy_npc-neoforge-1.21.1-6.8.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.549225:framework-neoforge-1.21.1-0.13.11:7530361",
+          "name": "framework-neoforge-1.21.1-0.13.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387334,
+            "MD5": "06f94f31d9e0b59c8b42a5b0df7013d6",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/framework-neoforge-1.21.1-0.13.11.jar"
+          }
+        },
+        {
+          "id": "curseforge.833926:kubejsarsnouveau-1.3.2:7181937",
+          "name": "kubejsarsnouveau-1.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22770,
+            "MD5": "b57d218bcdba5d94e4583d6d4d1f2973",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejsarsnouveau-1.3.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.1198794:critterarmory-1.21.1-0.6.3-neoforge:6668332",
+          "name": "critterarmory-1.21.1-0.6.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199952,
+            "MD5": "c3d7b5c7730c99b12d3287deeb1e7e46",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/critterarmory-1.21.1-0.6.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.326652:cupboard-1.21-2.9:6078150",
+          "name": "cupboard-1.21-2.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23509,
+            "MD5": "9cc5caf701898ba7236ca1e841d9049b",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/cupboard-1.21-2.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.916943:tfbr-1.21.1-4.2.2:7382236",
+          "name": "tfbr-1.21.1-4.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45647,
+            "MD5": "3efb876fb085645690c0d509602dc136",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/tfbr-1.21.1-4.2.2.jar"
+          }
+        },
+        {
+          "id": "curseforge.361026:occultism-1.21.1-neoforge-1.205.0:7554225",
+          "name": "occultism-1.21.1-neoforge-1.205.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6791577,
+            "MD5": "994d701db4daccd94289df540b26dd40",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/occultism-1.21.1-neoforge-1.205.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.1254143:colorwheel-neoforge-1.2.1+mc1.21.1:7490349",
+          "name": "colorwheel-neoforge-1.2.1+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 372917,
+            "MD5": "54bdc8345be83bf73e7c73283fe79306",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/colorwheel-neoforge-1.2.1%2Bmc1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.363825:UShader_v2.2.zip:6247611",
+          "name": "UShader_v2.2.zip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1160247,
+            "MD5": "a1c13e19673c48b8ec62b5cc14967307",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/UShader_v2.2.zip"
+          }
+        },
+        {
+          "id": "curseforge.959439:createfood-neoforge-1.21.1-2.1.0:7509565",
+          "name": "createfood-neoforge-1.21.1-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10289325,
+            "MD5": "310ebe900d9a49b1a087d00931730688",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/createfood-neoforge-1.21.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "curseforge.360203:guardvillagers-2.4.5-1.21.1:7306932",
+          "name": "guardvillagers-2.4.5-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 281799,
+            "MD5": "7ab039b585a46fe367ff9075ce48684e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/guardvillagers-2.4.5-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.227639:twilightforest-1.21.1-4.8.3287-universal:7398100",
+          "name": "twilightforest-1.21.1-4.8.3287-universal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27088062,
+            "MD5": "3d8c3e550637d4daba2d290647fc8db5",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/twilightforest-1.21.1-4.8.3287-universal.jar"
+          }
+        },
+        {
+          "id": "curseforge.1131668:arsdelight-2.1.9:7041458",
+          "name": "arsdelight-2.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1042490,
+            "MD5": "5bf607634ee1ab2b04edb4c73f2526e4",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/arsdelight-2.1.9.jar"
+          }
+        },
+        {
+          "id": "curseforge.1370539:animalgarden-commonraven-1.0.0-neoforge-1.21.1-21.1.213:7140890",
+          "name": "animalgarden-commonraven-1.0.0-neoforge-1.21.1-21.1.213",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 244895,
+            "MD5": "c193d9e2410a0631571518a199ba7167",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-commonraven-1.0.0-neoforge-1.21.1-21.1.213.jar"
+          }
+        },
+        {
+          "id": "curseforge.378646:mcw-doors-1.1.2-mc1.21.1neoforge:6146345",
+          "name": "mcw-doors-1.1.2-mc1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1193693,
+            "MD5": "316aceeaefec867ded5fbf09e12e2d99",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-doors-1.1.2-mc1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.1086710:create_waystones_recipes-3.0.1:6607350",
+          "name": "create_waystones_recipes-3.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106083,
+            "MD5": "945ff7592b058f3ff0a379e1201a939d",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/create_waystones_recipes-3.0.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.250498:mowziesmobs-1.21.1-1.7.5:6700443",
+          "name": "mowziesmobs-1.21.1-1.7.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35260457,
+            "MD5": "1b8789dd093709c27c64911631a31cfe",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mowziesmobs-1.21.1-1.7.5.jar"
+          }
+        },
+        {
+          "id": "curseforge.438116:mcw-paintings-1.0.5-1.21.1neoforge:5681187",
+          "name": "mcw-paintings-1.0.5-1.21.1neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62622,
+            "MD5": "1a4d62e2b3acf47f27ecb34b3316a88e",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/mcw-paintings-1.0.5-1.21.1neoforge.jar"
+          }
+        },
+        {
+          "id": "curseforge.852665:MutantMonsters-v21.1.1-1.21.1-NeoForge:7232511",
+          "name": "MutantMonsters-v21.1.1-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1346730,
+            "MD5": "7c503285a54808a9ae80b2364156bd20",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "curseforge.889915:ftb-xmod-compat-neoforge-21.1.7:7429014",
+          "name": "ftb-xmod-compat-neoforge-21.1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 141226,
+            "MD5": "b4b738d6aac1e8a8a8891722120ef340",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/ftb-xmod-compat-neoforge-21.1.7.jar"
+          }
+        },
+        {
+          "id": "curseforge.248787:appleskin-neoforge-mc1.21-3.0.8:7517379",
+          "name": "appleskin-neoforge-mc1.21-3.0.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75595,
+            "MD5": "9da2c7b1d00041794cce7f41a12f0935",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/appleskin-neoforge-mc1.21-3.0.8.jar"
+          }
+        },
+        {
+          "id": "curseforge.1089479:sodiumleafculling-neoforge-1.0.1-1.21.1:6394121",
+          "name": "sodiumleafculling-neoforge-1.0.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224869,
+            "MD5": "2f1babbab7b9f3ccc307019c9f52313f",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/sodiumleafculling-neoforge-1.0.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.693881:invocore-1.21.1-5.2.4:6773775",
+          "name": "invocore-1.21.1-5.2.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 68011,
+            "MD5": "6f697c24af35f9a780e4e804c46bb9fb",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/invocore-1.21.1-5.2.4.jar"
+          }
+        },
+        {
+          "id": "curseforge.543308:does_it_tick-neoforge-1.1.4-1.21.1:6353650",
+          "name": "does_it_tick-neoforge-1.1.4-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93269,
+            "MD5": "41c98f68cf6c4447d613759f90b01805",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/does_it_tick-neoforge-1.1.4-1.21.1.jar"
+          }
+        },
+        {
+          "id": "curseforge.1306367:kubejstweaks-1.0.6:7516288",
+          "name": "kubejstweaks-1.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 421764,
+            "MD5": "7acef1eb54ef972b5f3d5b3560b7e8d9",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/kubejstweaks-1.0.6.jar"
+          }
+        },
+        {
+          "id": "curseforge.1419826:animalgarden-prairiedog-1.0.1-neoforge-1.21.1-21.1.217:7525024",
+          "name": "animalgarden-prairiedog-1.0.1-neoforge-1.21.1-21.1.217",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155822,
+            "MD5": "754616a43d17c6d31a7db473d6648342",
+            "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/animalgarden-prairiedog-1.0.1-neoforge-1.21.1-21.1.217.jar"
+          }
+        }
+      ]
+    }
+  ]
+}
