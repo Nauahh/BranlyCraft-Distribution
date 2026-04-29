@@ -20,10 +20,22 @@
           "name": "NeoForge",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 0,
-            "MD5": "",
+            "size": 6961236,
+            "MD5": "93f39a5b9c2bcf08fe0efe604cb1ed96",
             "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.219/neoforge-21.1.219-installer.jar"
-          }
+          },
+          "subModules": [
+            {
+              "id": "net.neoforged:neoforge:21.1.219:version-json",
+              "name": "NeoForge Version Manifest",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 21148,
+                "MD5": "fb75bfae4b8f177f071f742edd0c1299",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/neoforge-21.1.219-version.json"
+              }
+            }
+          ]
         },
         {
           "id": "curseforge.827163:endersdelight-neoforge-1.21.1-1.1.0:6391835",
