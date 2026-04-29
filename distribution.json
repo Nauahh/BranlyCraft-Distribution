@@ -50,8 +50,8 @@
               "name": "Minecraft Client NeoForge Merged (slim + patched, Automatic-Module-Name: minecraft)",
               "type": "Library",
               "artifact": {
-                "size": 20084767,
-                "MD5": "2d2466f130c074a15180bc8c0f7ecee7",
+                "size": 19017348,
+                "MD5": "b51e4c55643b51b88e7982e550821736",
                 "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/minecraft-1.21.1-neoforge-merged.jar"
               }
             },
