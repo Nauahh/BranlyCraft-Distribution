@@ -26,7 +26,7 @@
           },
           "subModules": [
             {
-              "id": "net.neoforged:neoforge:21.1.219:version-json",
+              "id": "neoforge-21.1.219",
               "name": "NeoForge Version Manifest",
               "type": "VersionManifest",
               "artifact": {
