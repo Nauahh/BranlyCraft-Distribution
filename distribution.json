@@ -56,6 +56,16 @@
               }
             },
             {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:slim",
+              "name": "Minecraft Client Slim (Vanilla Classes)",
+              "type": "Library",
+              "artifact": {
+                "size": 14464635,
+                "MD5": "21a31126d805df21389e0b2ff8cb7411",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/client-1.21.1-20240808.144430-slim.jar"
+              }
+            },
+            {
               "id": "net.minecraft:client:1.21.1-20240808.144430:extra",
               "name": "Minecraft Client Extra",
               "type": "Library",
