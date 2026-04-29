@@ -46,23 +46,13 @@
               }
             },
             {
-              "id": "net.neoforged:neoforge:21.1.219:client",
-              "name": "NeoForge Client (Patched)",
+              "id": "net.minecraft:client:1.21.1-20240808.144430:neoforge-merged",
+              "name": "Minecraft Client NeoForge Merged (slim + patched, Automatic-Module-Name: minecraft)",
               "type": "Library",
               "artifact": {
-                "size": 5670483,
-                "MD5": "a21d486caacfcb3dd66ce869b9bc74f6",
-                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/neoforge-21.1.219-client.jar"
-              }
-            },
-            {
-              "id": "net.minecraft:client:1.21.1-20240808.144430:slim",
-              "name": "Minecraft Client Slim (Vanilla Classes)",
-              "type": "Library",
-              "artifact": {
-                "size": 14464635,
-                "MD5": "21a31126d805df21389e0b2ff8cb7411",
-                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/client-1.21.1-20240808.144430-slim.jar"
+                "size": 20084738,
+                "MD5": "c2117ecc1fa50079879ea7653d974761",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v1.0.0/minecraft-1.21.1-neoforge-merged.jar"
               }
             },
             {
