@@ -82,10 +82,10 @@
               "name": "net.neoforged.accesstransformers:at-modlauncher:10.0.1",
               "type": "Library",
               "artifact": {
-                "size": 2347,
-                "MD5": "5aba50202aceead086bc09fbc2751c9f05cb4890",
+                "size": 2602,
+                "MD5": "c5cbe78d7e07bf3181c00fada44ab941580f440f",
                 "hashAlgo": "sha1",
-                "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/at-modlauncher-10.0.1-patched.jar"
               }
             },
             {
