@@ -50,9 +50,9 @@
               "name": "Minecraft Client NeoForge Merged",
               "type": "Library",
               "artifact": {
-                "size": 28460959,
-                "MD5": "6eed2d85358b3375bc048d2a6289102d",
-                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/minecraft-1.21.1-neoforge-224-merged.jar"
+                "size": 28103123,
+                "MD5": "f8a3180997cf19b9f14c197ab77c4df1",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/minecraft-1.21.1-neoforge-224-merged-at.jar"
               }
             },
             {
