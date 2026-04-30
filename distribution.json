@@ -67,6 +67,36 @@
               }
             },
             {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:extra",
+              "name": "Minecraft Client Extra",
+              "type": "Library",
+              "artifact": {
+                "size": 12372293,
+                "MD5": "973b9700852b66bb7b74df75b0113db2",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/client-1.21.1-20240808.144430-extra.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:srg",
+              "name": "Minecraft Client SRG (AT-patched)",
+              "type": "Library",
+              "artifact": {
+                "size": 18520614,
+                "MD5": "3911c4d5a5a3f80b89863f4b5b278c1d",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/client-1.21.1-20240808.144430-srg-at.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430",
+              "name": "Minecraft Client (slim)",
+              "type": "Library",
+              "artifact": {
+                "size": 14464635,
+                "MD5": "21a31126d805df21389e0b2ff8cb7411",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/client-1.21.1-20240808.144430-slim.jar"
+              }
+            },
+            {
               "id": "net.neoforged.fancymodloader:loader:4.0.42",
               "name": "net.neoforged.fancymodloader:loader:4.0.42",
               "type": "Library",
