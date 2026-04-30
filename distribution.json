@@ -553,7 +553,7 @@
             {
               "id": "modrinth.securitycraft:[1.21.1] SecurityCraft v1.10.1:1.0",
               "name": "SecurityCraft",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4951098,
                 "MD5": "692f81f4fdcd0d1298db96a9582eea41baeae252",
@@ -564,7 +564,7 @@
             {
               "id": "modrinth.ctov:[Neoforge]ctov-3.6.3:1.0",
               "name": "ChoiceTheorem's Overhauled Village",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 7139609,
                 "MD5": "c5fe733d743af20f84eb87dd75b5bb57684f3e05",
@@ -575,7 +575,7 @@
             {
               "id": "modrinth.accelerateddecay:accelerated-decay-neoforge-21.0.0:1.0",
               "name": "Accelerated Decay",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 10478,
                 "MD5": "b023fe4daf1379f0f4233bea02ba112f3854db3e",
@@ -586,7 +586,7 @@
             {
               "id": "modrinth.actuallyadditions:actuallyadditions-1.3.25+mc1.21.1:1.0",
               "name": "Actually Additions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3215755,
                 "MD5": "6b82d694f873c0bae4a9757654ee4c719b3d7354",
@@ -597,7 +597,7 @@
             {
               "id": "modrinth.quarryplus:AdditionalEnchantedMiner-1.21.1-neoforge-21.1.152:1.0",
               "name": "QuarryPlus",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 692847,
                 "MD5": "75865cfbe009a2b7b9b34472446127f76252fd7d",
@@ -608,7 +608,7 @@
             {
               "id": "modrinth.advanced_ae:AdvancedAE-1.6.11-1.21.1:1.0",
               "name": "Advanced AE",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4797100,
                 "MD5": "0af8033f7291b9f5062b229053e16b439a906db9",
@@ -619,7 +619,7 @@
             {
               "id": "modrinth.ae2importexportcard:ae2importexportcard-1.21.1-1.4.3:1.0",
               "name": "AE2 Import Export Card",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 190861,
                 "MD5": "a64daebce42a609e2a4786393fc4398448a0aa35",
@@ -630,7 +630,7 @@
             {
               "id": "modrinth.ae2wtlib:ae2wtlib-19.4.1:1.0",
               "name": "AE2WTLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 242235,
                 "MD5": "e5ac6b8ec0851d9fb23d92281842f1880f0979b7",
@@ -641,7 +641,7 @@
             {
               "id": "modrinth.aeinfinitybooster:aeinfinitybooster-neoforge-1.21.1-1.0.0.54:1.0",
               "name": "AEInfinityBooster",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 30409,
                 "MD5": "d00daf281a852358022b936a21ae272578f00afd",
@@ -652,7 +652,7 @@
             {
               "id": "modrinth.aiimprovements:AI-Improvements-1.21-0.5.3:1.0",
               "name": "AI-Improvements",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 28984,
                 "MD5": "b4a8e11384454bcc341043b251db7fb5afdfdf45",
@@ -663,7 +663,7 @@
             {
               "id": "modrinth.akashictome:AkashicTome-1.8-30:1.0",
               "name": "Akashic Tome",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 50256,
                 "MD5": "6493e575f295e18fac1f7c5399c05c53caa1f7ce",
@@ -674,7 +674,7 @@
             {
               "id": "modrinth.almostunified:almostunified-neoforge-1.21.1-1.4.1:1.0",
               "name": "AlmostUnified",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 295072,
                 "MD5": "69913ae6d63f2e10603b272bb8a957c7d0f3f0e4",
@@ -685,7 +685,7 @@
             {
               "id": "modrinth.amendments:amendments-1.21-2.0.15-neoforge:1.0",
               "name": "Amendments",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1143659,
                 "MD5": "00056f29646f3bf86116b281c2362c0dabdb4533",
@@ -696,7 +696,7 @@
             {
               "id": "modrinth.appleskin:appleskin-neoforge-mc1.21-3.0.9:1.0",
               "name": "AppleSkin",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 75804,
                 "MD5": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
@@ -707,7 +707,7 @@
             {
               "id": "modrinth.appmek:Applied-Mekanistics-1.6.3:1.0",
               "name": "Applied Mekanistics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 149709,
                 "MD5": "bec4a47269ec23bca2329742e13409bfde69c5c3",
@@ -718,7 +718,7 @@
             {
               "id": "modrinth.ae2:appliedenergistics2-19.2.17:1.0",
               "name": "Applied Energistics 2",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8230896,
                 "MD5": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14",
@@ -729,7 +729,7 @@
             {
               "id": "modrinth.appflux:AppliedFlux-1.21-2.1.4-neoforge:1.0",
               "name": "AppliedFlux",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 337796,
                 "MD5": "741e856b0c928fc15b59e92d98ea75ef98541ee8",
@@ -740,7 +740,7 @@
             {
               "id": "modrinth.aquaculture:Aquaculture-1.21.1-2.7.19:1.0",
               "name": "Aquaculture 2",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 605954,
                 "MD5": "9f9236653ea4b3a129ced594053c13379eb24817",
@@ -751,7 +751,7 @@
             {
               "id": "modrinth.architectury:architectury-13.0.8-neoforge:1.0",
               "name": "Architectury",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 584004,
                 "MD5": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
@@ -762,7 +762,7 @@
             {
               "id": "modrinth.ars_additions:ars_additions-1.21.1-21.3.0:1.0",
               "name": "Ars Additions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1458261,
                 "MD5": "ce2440b606acb20b79a42bf7c6c24d163c93241f",
@@ -773,7 +773,7 @@
             {
               "id": "modrinth.ars_controle:ars_controle-1.21.1-1.6.15:1.0",
               "name": "Ars Controle",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 316368,
                 "MD5": "fdf381d5733698abe336354c7541299ab495ecae",
@@ -784,7 +784,7 @@
             {
               "id": "modrinth.ars_creo:ars_creo-1.21.1-5.2.0:1.0",
               "name": "Ars Creo",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 74550,
                 "MD5": "87e08998db6d6dc269db890416c9a05c3bfe941f",
@@ -795,7 +795,7 @@
             {
               "id": "modrinth.ars_nouveau:ars_nouveau-1.21.1-5.11.3:1.0",
               "name": "Ars Nouveau",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20689115,
                 "MD5": "0af12dd7fda63a4261ceb302c9bb57fc235641c6",
@@ -806,7 +806,7 @@
             {
               "id": "modrinth.ars_ocultas:ars_ocultas-1.21.1-2.4.0:1.0",
               "name": "Ars Ocultas",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 78505,
                 "MD5": "c9eacfed1170c07bd1bd239548a034a7a4256011",
@@ -817,7 +817,7 @@
             {
               "id": "modrinth.ars_polymorphia:ars_polymorphia-1.0.3:1.0",
               "name": "Ars Polymorphia",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20201,
                 "MD5": "8cce819e83f6360ab9aa8b44ac841511172a6a79",
@@ -828,7 +828,7 @@
             {
               "id": "modrinth.ars_unification:ars_unification-1.2.18:1.0",
               "name": "Ars Unification",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 105429,
                 "MD5": "7e1ed50f6f29dcbf04c08363c5b2174adcb205e4",
@@ -839,7 +839,7 @@
             {
               "id": "modrinth.arseng:arseng-2.1.1-beta:1.0",
               "name": "Ars Énergistique",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 123229,
                 "MD5": "e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6",
@@ -850,7 +850,7 @@
             {
               "id": "modrinth.artifacts:artifacts-neoforge-13.2.1:1.0",
               "name": "Artifacts",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1030252,
                 "MD5": "3fe4d52cc0b11d91c75005030e83e3f675e62383",
@@ -861,7 +861,7 @@
             {
               "id": "modrinth.athena:athena-neoforge-1.21-4.0.2:1.0",
               "name": "Athena",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 92698,
                 "MD5": "069f397f1b3a30b3d5f5a98cac76304dfe345d76",
@@ -872,7 +872,7 @@
             {
               "id": "modrinth.attributefix:attributefix-neoforge-1.21.1-21.1.3:1.0",
               "name": "AttributeFix",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 19809,
                 "MD5": "7aae849f6d2a6cb1368227407ea5deb552e100ba",
@@ -883,7 +883,7 @@
             {
               "id": "modrinth.auroras:Auroras-1.21-1.6.2:1.0",
               "name": "Auroras",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2116122,
                 "MD5": "2a27027b3c95823e4bf7e0aa635b92742ca407e0",
@@ -894,7 +894,7 @@
             {
               "id": "modrinth.bhc:baubley-heart-canisters-1.21.1-1.4.0:1.0",
               "name": "Baubley Heart Canisters",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 177638,
                 "MD5": "ccaae33c804d4897039b55a98e9da608b15fee8b",
@@ -905,7 +905,7 @@
             {
               "id": "modrinth.bellsandwhistles:bellsandwhistles-0.4.7-1.21.1:1.0",
               "name": "Create: Bells & Whistles",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 193619,
                 "MD5": "85944080f8bd47dad64a8193a70662cd9ddbb200",
@@ -916,7 +916,7 @@
             {
               "id": "modrinth.bcc:better-compatability-checker-neoforge-21.1.8:1.0",
               "name": "Better Compatibility Checker",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 25085,
                 "MD5": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb",
@@ -927,7 +927,7 @@
             {
               "id": "modrinth.betteradvancements:BetterAdvancements-NeoForge-1.21.1-0.4.3.21:1.0",
               "name": "Better Advancements",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 98641,
                 "MD5": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2",
@@ -938,7 +938,7 @@
             {
               "id": "modrinth.bibliobiomes:bibliobiomes-1.21.1-1.6.1:1.0",
               "name": "Bibliobiomes Legacy",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20181755,
                 "MD5": "9a895a17fdfb2efbd44f3b19098dc42cf7f77926",
@@ -949,7 +949,7 @@
             {
               "id": "modrinth.bibliocraft:bibliocraft-1.21.1-1.6.5:1.0",
               "name": "Bibliocraft Legacy",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5471083,
                 "MD5": "efb35984af1950ead43dc3d2827b3817df277725",
@@ -960,7 +960,7 @@
             {
               "id": "modrinth.bibliowoods:bibliowoods-1.21.1-1.6.2:1.0",
               "name": "Bibliowoods Legacy",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 23234306,
                 "MD5": "793fc1b9c21a8eb902cf881616e589337013a392",
@@ -971,7 +971,7 @@
             {
               "id": "modrinth.blueflame:blueflame-1.21.1-1.1.1:1.0",
               "name": "Blue Flame Burning",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 17921,
                 "MD5": "0e78defafd6cf08759c656a54f8a33315e3ab924",
@@ -982,7 +982,7 @@
             {
               "id": "modrinth.bookshelf:bookshelf-neoforge-1.21.1-21.1.81:1.0",
               "name": "Bookshelf",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 328813,
                 "MD5": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
@@ -993,7 +993,7 @@
             {
               "id": "modrinth.botanypots:botanypots-neoforge-1.21.1-21.1.41:1.0",
               "name": "BotanyPots",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1065153,
                 "MD5": "4f216887a3b95d6abde0f2458a94487523531a1c",
@@ -1004,7 +1004,7 @@
             {
               "id": "modrinth.botanypotsmystical:botanypotsmystical-neoforge-1.21.1-21.1.11:1.0",
               "name": "BotanyPots-Mystical",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 89375,
                 "MD5": "c9f09d5194b3aa36bc55eb6fd621f6527ef046fc",
@@ -1015,7 +1015,7 @@
             {
               "id": "modrinth.botanytrees:botanytrees-neoforge-1.21.1-21.1.3:1.0",
               "name": "BotanyTrees",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20389,
                 "MD5": "a15237bff8e914c50a271ee498d7e2ee55ff017f",
@@ -1026,7 +1026,7 @@
             {
               "id": "modrinth.brandonscore:BrandonsCore-1.21.1-3.2.1.309:1.0",
               "name": "Brandon's Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1385131,
                 "MD5": "ef00bdaaca4e469cc3925d573434d2f84b9d8a14",
@@ -1037,7 +1037,7 @@
             {
               "id": "modrinth.bridgingmod:BridgingMod-2.6.2+1.21.1.neoforge-release:1.0",
               "name": "Bridging Mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5924051,
                 "MD5": "18c4fdadf7d1b4632ae0e0914e4075847306b52f",
@@ -1048,7 +1048,7 @@
             {
               "id": "modrinth.bwncr:bwncr-neoforge-1.21.1-3.20.3:1.0",
               "name": "Bad Wither No Cookie Reloaded",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 27537,
                 "MD5": "ece7a31501bc3080e1c4263689c26e9154809b2d",
@@ -1059,7 +1059,7 @@
             {
               "id": "modrinth.cabletiers:cabletiers-neoforge-1.21.1-0.6.11:1.0",
               "name": "Cable Tiers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1442708,
                 "MD5": "4ae15e19a57e7b08831593cc802a9c19ccdd2246",
@@ -1070,7 +1070,7 @@
             {
               "id": "modrinth.caelus:caelus-neoforge-7.0.1+1.21.1:1.0",
               "name": "Caelus API",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 50235,
                 "MD5": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515",
@@ -1081,7 +1081,7 @@
             {
               "id": "modrinth.computercraft:cc-tweaked-1.21.1-forge-1.113.1:1.0",
               "name": "CC: Tweaked",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3094722,
                 "MD5": "cc857f01404a0b57bb1246e79dea9f66b96bfa76",
@@ -1092,7 +1092,7 @@
             {
               "id": "modrinth.computercraft:cc-tweaked-1.21.1-forge-1.117.1:1.0",
               "name": "CC: Tweaked",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3120277,
                 "MD5": "aaf6233b23e1ff01ed286824ba359aaa5eed0918",
@@ -1103,7 +1103,7 @@
             {
               "id": "modrinth.chipped:chipped-neoforge-1.21.1-4.0.2:1.0",
               "name": "Chipped",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 15020578,
                 "MD5": "6f5395f58139802edfde7cb9170279f92f291971",
@@ -1114,7 +1114,7 @@
             {
               "id": "modrinth.chisel:chisel-neoforge-2.0.0+mc1.21.1:1.0",
               "name": "Chisel Reborn",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8268409,
                 "MD5": "44e432ddc1f6fa9cf05201a9aef3ae4c5784cc9d",
@@ -1125,7 +1125,7 @@
             {
               "id": "modrinth.cloth_config:cloth-config-15.0.140-neoforge:1.0",
               "name": "Cloth Config v15 API",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1163890,
                 "MD5": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
@@ -1136,7 +1136,7 @@
             {
               "id": "modrinth.clumps:Clumps-neoforge-1.21.1-19.0.0.1:1.0",
               "name": "Clumps",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 18382,
                 "MD5": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
@@ -1147,7 +1147,7 @@
             {
               "id": "modrinth.cobweb:cobweb-neoforge-1.21-1.4.0:1.0",
               "name": "Cobweb",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 410948,
                 "MD5": "5ae5dbf4184a62b9ff5bd31f6f8ba62943dd197d",
@@ -1158,7 +1158,7 @@
             {
               "id": "modrinth.codechickenlib:CodeChickenLib-1.21.1-4.6.1.526:1.0",
               "name": "CodeChicken Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1538347,
                 "MD5": "6a278b5a2788c2fee7ae52d17f24187332d436b2",
@@ -1169,7 +1169,7 @@
             {
               "id": "modrinth.colorfulhearts:colorfulhearts-neoforge-1.21.1-10.5.9:1.0",
               "name": "Colorful Hearts",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 156588,
                 "MD5": "ec63110d126cf95dabe220116bd394e701265de7",
@@ -1180,7 +1180,7 @@
             {
               "id": "modrinth.colorwheel:colorwheel-neoforge-1.2.3+mc1.21.1:1.0",
               "name": "Colorwheel",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 376978,
                 "MD5": "87b4df7de4ffb0325ba2dca27deabbbd6cad6810",
@@ -1191,7 +1191,7 @@
             {
               "id": "modrinth.colorwheel_patcher:colorwheel_patcher-neoforge-1.0.4+mc1.21.1:1.0",
               "name": "Colorwheel Patcher",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 206773,
                 "MD5": "63e91e5ad4853b3f1e973e03b37b74c0f09a8867",
@@ -1202,7 +1202,7 @@
             {
               "id": "modrinth.comforts:comforts-neoforge-9.0.5+1.21.1:1.0",
               "name": "Comforts",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 422658,
                 "MD5": "21d6bee3821d62fe3356c51fb1d697871a3087ff",
@@ -1213,7 +1213,7 @@
             {
               "id": "modrinth.connectedglass:connectedglass-1.1.14-neoforge-mc1.21:1.0",
               "name": "Connected Glass",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 819976,
                 "MD5": "0a44c13d6744e0eeec5bf38f58756a8e86e96f55",
@@ -1224,7 +1224,7 @@
             {
               "id": "modrinth.controlling:Controlling-neoforge-1.21.1-19.0.5:1.0",
               "name": "Controlling",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 77555,
                 "MD5": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
@@ -1235,7 +1235,7 @@
             {
               "id": "modrinth.corgilib:Corgilib-NeoForge-1.21.1-5.0.0.9:1.0",
               "name": "CorgiLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 309763,
                 "MD5": "6699f876f9e10f936910055f7fe1a283d8bb9e0f",
@@ -1246,7 +1246,7 @@
             {
               "id": "modrinth.crafting_on_a_stick:crafting_on_a_stick-1.21.0.4:1.0",
               "name": "Crafting On A Stick",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 78661,
                 "MD5": "9ea4bcce2d468b13e20871789dde525d49454076",
@@ -1257,7 +1257,7 @@
             {
               "id": "modrinth.crash_assistant:CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6:1.0",
               "name": "Crash Assistant",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3111910,
                 "MD5": "5ff8b4cfef095dd84161168ffd33dd155115e95e",
@@ -1268,7 +1268,7 @@
             {
               "id": "modrinth.create:create-1.21.1-6.0.9:1.0",
               "name": "Create",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 19019888,
                 "MD5": "bf08bf8980c080f42d6f644f4f44a725cf7c3be9",
@@ -1279,7 +1279,7 @@
             {
               "id": "modrinth.create_dragons_plus:create-dragons-plus-1.8.7:1.0",
               "name": "Create: Dragons Plus",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 644935,
                 "MD5": "3e53b26e850f9d2a995868b0d7c012ba8e9d373b",
@@ -1290,7 +1290,7 @@
             {
               "id": "modrinth.create_enchantment_industry:create-enchantment-industry-2.3.0:1.0",
               "name": "Create: Enchantment Industry",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 683005,
                 "MD5": "d9cef051c5318d27c634184bfb1ef35550b96789",
@@ -1301,7 +1301,7 @@
             {
               "id": "modrinth.create_aquatic_ambitions:create_aquatic_ambitions-1.21.1-2.0.2:1.0",
               "name": "Create Aquatic Ambitions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1041906,
                 "MD5": "39945d25188f3cb8feb74d09b78d7f7f7a74aaa7",
@@ -1312,7 +1312,7 @@
             {
               "id": "modrinth.create_hypertube:create_hypertube-0.4.0-NEOFORGE:1.0",
               "name": "Create Hypertube",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 422250,
                 "MD5": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea",
@@ -1323,7 +1323,7 @@
             {
               "id": "modrinth.createaddition:createaddition-1.5.10:1.0",
               "name": "Create Crafts & Additions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1595173,
                 "MD5": "2bd194da923dd38239ef49df30ecf1a720d38997",
@@ -1334,7 +1334,7 @@
             {
               "id": "modrinth.creeperoverhaul:CreeperOverhaul-neoforge-1.21.1-4.0.6:1.0",
               "name": "Creeper Overhaul",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1185088,
                 "MD5": "5a07cc032df790e7d110ad3dedb7a76253ffd565",
@@ -1345,7 +1345,7 @@
             {
               "id": "modrinth.cristellib:cristellib-neoforge-1.21.1-3.0.3:1.0",
               "name": "Cristel Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 539899,
                 "MD5": "8e61459df2c76caa19d3f1e218522389ad812f6c",
@@ -1356,7 +1356,7 @@
             {
               "id": "modrinth.cryonicconfig:cryonicconfig-neoforge-1.0.0+mc1.21.11:1.0",
               "name": "Cryonic Config",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 133851,
                 "MD5": "45b7240ad5cd561511ae3f80eea4cbfc110dae70",
@@ -1367,7 +1367,7 @@
             {
               "id": "modrinth.crystalix:crystalix-3.0.0:1.0",
               "name": "Crystalix",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 817004,
                 "MD5": "b2e75acbbf2f86b88573e89d073533d63c9fc298",
@@ -1378,7 +1378,7 @@
             {
               "id": "modrinth.cucumber:Cucumber-1.21.1-8.0.15:1.0",
               "name": "Cucumber Library",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 275523,
                 "MD5": "e2928961f305d0a48e43a03b0a668ee123270f69",
@@ -1389,7 +1389,7 @@
             {
               "id": "modrinth.curios:curios-neoforge-9.5.1+1.21.1:1.0",
               "name": "Curios API",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 410690,
                 "MD5": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
@@ -1400,7 +1400,7 @@
             {
               "id": "modrinth.darkmodeeverywhere:darkmodeeverywhere-1.21-1.3.5:1.0",
               "name": "Dark Mode Everywhere",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 31210,
                 "MD5": "db5a7066cf14dbd1867c1afe6c91a6041009c8c2",
@@ -1411,7 +1411,7 @@
             {
               "id": "modrinth.deimos:deimos-1.21.1-neoforge-2.5:1.0",
               "name": "Deimos",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 49360,
                 "MD5": "8a4e197b3ee958b7ef6e0ff374a6afa04941cbc0",
@@ -1422,7 +1422,7 @@
             {
               "id": "modrinth.dimstorage:DimStorage-1.21.1-9.1.1:1.0",
               "name": "DimStorage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 179454,
                 "MD5": "b2b89b7ce8f44c957935e26399cbdafc186b6b9b",
@@ -1433,7 +1433,7 @@
             {
               "id": "modrinth.disenchanting_table:disenchanting_table-merged-1.21.1-5.0.2:1.0",
               "name": "Dis-Enchanting Table",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 306197,
                 "MD5": "c054a8bef63addff4d4a9520ec4c7a915c3fc1d1",
@@ -1444,7 +1444,7 @@
             {
               "id": "modrinth.draconicevolution:Draconic-Evolution-1.21.1-3.1.4.632:1.0",
               "name": "Draconic Evolution",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 6045942,
                 "MD5": "77ed9323c815433ca99c35b9d0f653d1efc36af5",
@@ -1455,7 +1455,7 @@
             {
               "id": "modrinth.drippyloadingscreen:drippyloadingscreen_neoforge_3.1.0_MC_1.21.1:1.0",
               "name": "Drippy Loading Screen",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 172759,
                 "MD5": "907f43294b63cd845bf2fdad1ea5fe5c52552508",
@@ -1466,7 +1466,7 @@
             {
               "id": "modrinth.dummmmmmy:dummmmmmy-1.21-2.0.11-neoforge:1.0",
               "name": "MmmMmmMmmMmm",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 218920,
                 "MD5": "1bdaf699dd40c03c96a85f64ae9b54a8e40bb539",
@@ -1477,7 +1477,7 @@
             {
               "id": "modrinth.dungeoncrawl:DungeonCrawl-NeoForge-1.21-2.3.17:1.0",
               "name": "Dungeon Crawl",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 738480,
                 "MD5": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7",
@@ -1488,7 +1488,7 @@
             {
               "id": "modrinth.dungeons_arise:DungeonsArise-1.21.1-2.1.68-release:1.0",
               "name": "When Dungeons Arise",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 11842679,
                 "MD5": "c651339154da7b9e9cf47a80fdef22c4d59cad5c",
@@ -1499,7 +1499,7 @@
             {
               "id": "modrinth.edivadlib:EdivadLib-1.21-3.0.0:1.0",
               "name": "EdivadLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 14133,
                 "MD5": "99de3c473aa0120514a27d5a959a81c058e3fbb9",
@@ -1510,7 +1510,7 @@
             {
               "id": "modrinth.elevatorid:elevatorid-neoforge-1.21.1-1.11.4:1.0",
               "name": "ElevatorMod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 191190,
                 "MD5": "87a5504efcd51de55cd4215a103cbfcf717fa022",
@@ -1521,7 +1521,7 @@
             {
               "id": "modrinth.embeddium:embeddium-1.0.15+mc1.21.1:1.0",
               "name": "Embeddium",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1048745,
                 "MD5": "56063839172a000d079272794bad366f2ad4cbbd",
@@ -1532,7 +1532,7 @@
             {
               "id": "modrinth.enchdesc:enchdesc-neoforge-1.21.1-21.1.9:1.0",
               "name": "EnchantmentDescriptions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 81847,
                 "MD5": "e4fa515c5deab3165f250f2a1297ac836d496064",
@@ -1543,7 +1543,7 @@
             {
               "id": "modrinth.enderio:enderio-8.2.5-beta:1.0",
               "name": "Ender IO",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5724826,
                 "MD5": "e0a19f468fd150a7d01481ea999d921ee6ef050e",
@@ -1554,7 +1554,7 @@
             {
               "id": "modrinth.endermanoverhaul:endermanoverhaul-neoforge-1.21.1-2.0.3:1.0",
               "name": "Enderman Overhaul",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1330403,
                 "MD5": "f71aa503738f2e23a8d939b7ea9f96f2fe203f11",
@@ -1565,7 +1565,7 @@
             {
               "id": "modrinth.enderstorage:EnderStorage-1.21.1-2.13.0.191:1.0",
               "name": "EnderStorage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 264089,
                 "MD5": "5b5fc717242a9eb2d8b4a5e57ea1a38446722864",
@@ -1576,7 +1576,7 @@
             {
               "id": "modrinth.entangled:entangled-1.3.21-neoforge-mc1.21:1.0",
               "name": "Entangled",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 130872,
                 "MD5": "72d63d64ee774b89302e0d6b220757ba11b6ec4f",
@@ -1587,7 +1587,7 @@
             {
               "id": "modrinth.eternal_starlight:eternalstarlight-0.6.4+1.21.1+neoforge:1.0",
               "name": "Eternal Starlight",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 53483861,
                 "MD5": "4510bb18360719c85b92a16406c96bcda3f8c99e",
@@ -1598,7 +1598,7 @@
             {
               "id": "modrinth.euphoria_patcher:EuphoriaPatcher-1.8.6-r5.7.1-neoforge:1.0",
               "name": "Euphoria Patcher",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2773488,
                 "MD5": "48e7c3aa59315069b79025f09bc2f291569c8a2a",
@@ -1609,7 +1609,7 @@
             {
               "id": "modrinth.expandedae:expandedae-2.1.1:1.0",
               "name": "Expanded AE",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 496713,
                 "MD5": "c4db013f83e569b016da329b3ddc9c14acc75d7d",
@@ -1620,7 +1620,7 @@
             {
               "id": "modrinth.experiencelib:experiencelib-1.21.1-1.2.1:1.0",
               "name": "ExperienceLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 169856,
                 "MD5": "82a964a6a68519ade986760e964bb3309933671a",
@@ -1631,7 +1631,7 @@
             {
               "id": "modrinth.explorerscompass:ExplorersCompass-1.21.1-3.0.3-neoforge:1.0",
               "name": "Explorer's Compass",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 159182,
                 "MD5": "79f4ca411c406222868c60f8f8951a404c403017",
@@ -1642,7 +1642,7 @@
             {
               "id": "modrinth.explorify:Explorify v1.6.4 f15-88.mod:1.0",
               "name": "Explorify",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 951495,
                 "MD5": "5a9b99242bdb9437396f5a3c78decc567adab6a5",
@@ -1653,7 +1653,7 @@
             {
               "id": "modrinth.extended_industrialization:extended-industrialization-1.15.35-1.21.1:1.0",
               "name": "Extended Industrialization",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2255673,
                 "MD5": "7b197ec2356ebf5b0da52a1c9f155dac3e9a89ae",
@@ -1664,7 +1664,7 @@
             {
               "id": "modrinth.extradisks:ExtraDisks-1.21.1-4.0.14:1.0",
               "name": "Extra Disks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 343038,
                 "MD5": "f5e54198246beaf7268d19c2cf8502b0ba419ce1",
@@ -1675,7 +1675,7 @@
             {
               "id": "modrinth.extrastorage:ExtraStorage-1.21.1-5.0.8:1.0",
               "name": "ExtraStorage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 384123,
                 "MD5": "33a00bfbc3fda32d60cfd2f78dbeb470876781bc",
@@ -1686,7 +1686,7 @@
             {
               "id": "modrinth.extremesoundmuffler:ExtremeSoundMuffler-3.55_NeoForge-1.21:1.0",
               "name": "Extreme Sound Muffler",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 270217,
                 "MD5": "b17090ea6a7c302c648f7bab12b37bbb3dd786f0",
@@ -1697,7 +1697,7 @@
             {
               "id": "modrinth.fancymenu:fancymenu_neoforge_3.8.1_MC_1.21.1:1.0",
               "name": "FancyMenu",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4297501,
                 "MD5": "061a2c1ae0563d9d433928c243c58ee9b45f630f",
@@ -1708,7 +1708,7 @@
             {
               "id": "modrinth.farmersdelight:FarmersDelight-1.21.1-1.2.11:1.0",
               "name": "Farmer's Delight",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2941573,
                 "MD5": "2415b91d6437977e676985b4a2ef877208d202e1",
@@ -1719,7 +1719,7 @@
             {
               "id": "modrinth.ferritecore:ferritecore-7.0.3-neoforge:1.0",
               "name": "Ferrite Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 121559,
                 "MD5": "9563692efb708b6b568df27a01ec52f6311928ef",
@@ -1730,7 +1730,7 @@
             {
               "id": "modrinth.forbidden_arcanus:forbidden_arcanus-2.6.1:1.0",
               "name": "Forbidden Arcanus",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3402083,
                 "MD5": "1de105be68b88de87a5e6749f320c790d550c120",
@@ -1741,7 +1741,7 @@
             {
               "id": "modrinth.formations:formations-1.0.4-neoforge-mc1.21:1.0",
               "name": "Formations",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 287525,
                 "MD5": "3845f96c9304f6956688f7a35205e9354bf411b0",
@@ -1752,7 +1752,7 @@
             {
               "id": "modrinth.formationsnether:formationsnether-1.0.5-mc1.21+:1.0",
               "name": "Formations Nether",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 942046,
                 "MD5": "12b69c1cd22bbbe8c5888a030bef791b992b0d39",
@@ -1763,7 +1763,7 @@
             {
               "id": "modrinth.formationsoverworld:formationsoverworld-1.0.5-mc1.21+:1.0",
               "name": "Formations Overworld",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 873370,
                 "MD5": "edbc169c78f9f1cdf5233e996f12b21e7e1cdf18",
@@ -1774,7 +1774,7 @@
             {
               "id": "modrinth.framedblocks:FramedBlocks-10.5.3:1.0",
               "name": "FramedBlocks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4301567,
                 "MD5": "bbbd02f99ab559bc68a72e3441e821c5cf81d8f1",
@@ -1785,7 +1785,7 @@
             {
               "id": "modrinth.fuelgoeshere:fuelgoeshere-1.21.1-1.2.0:1.0",
               "name": "Fuel Goes Here",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 7564,
                 "MD5": "8b5f1c77adb52641189961896e10aa47399eccde",
@@ -1796,7 +1796,7 @@
             {
               "id": "modrinth.functionalstorage:functionalstorage-1.21.1-1.5.5:1.0",
               "name": "Functional Storage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 773728,
                 "MD5": "52ce3f093bb069eb551e47377b328b612b2f18c2",
@@ -1807,7 +1807,7 @@
             {
               "id": "modrinth.fusion:fusion-1.2.12-neoforge-mc1.21.1:1.0",
               "name": "Fusion",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 532912,
                 "MD5": "d86f641b67d4b01d99da8424ba2a3edc0e6690b6",
@@ -1818,7 +1818,7 @@
             {
               "id": "modrinth.fzzy_config:fzzy_config-0.7.6+1.21+neoforge:1.0",
               "name": "Fzzy Config",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2369895,
                 "MD5": "c0910f9b975aaab8545ce950539748fb33d704d1",
@@ -1829,7 +1829,7 @@
             {
               "id": "modrinth.geckolib:geckolib-neoforge-1.21.1-4.8.4:1.0",
               "name": "GeckoLib 4",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 622582,
                 "MD5": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce",
@@ -1840,7 +1840,7 @@
             {
               "id": "modrinth.getittogetherdrops:getittogetherdrops-neoforge-1.21.5-1.4:1.0",
               "name": "Get It Together, Drops!",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8825,
                 "MD5": "ead940a50f69313802960c497e252acd3956334f",
@@ -1851,7 +1851,7 @@
             {
               "id": "modrinth.glassential:Glassential-renewed-1.21.1-3.4.1:1.0",
               "name": "Glassential-renewed",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 683494,
                 "MD5": "53a9af8a6b540f8b09b2bc5af9c1b65620a2c886",
@@ -1862,7 +1862,7 @@
             {
               "id": "modrinth.glodium:Glodium-1.21-2.2-neoforge:1.0",
               "name": "Glodium",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 61377,
                 "MD5": "9f61a3162665ad0b37f6f268339ac98097af1a87",
@@ -1873,7 +1873,7 @@
             {
               "id": "modrinth.guideme:guideme-21.1.15:1.0",
               "name": "GuideME",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 9309183,
                 "MD5": "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5",
@@ -1884,7 +1884,7 @@
             {
               "id": "modrinth.handcrafted:handcrafted-neoforge-1.21.1-4.0.3:1.0",
               "name": "Handcrafted",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 7132842,
                 "MD5": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52",
@@ -1895,7 +1895,7 @@
             {
               "id": "modrinth.hellish_trials:HellishTrials-neoforge-1.0.5:1.0",
               "name": "Hellish Trials",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 581988,
                 "MD5": "0c03bf04e99b3e8a310c9f5b6f3e7613e3b69528",
@@ -1906,7 +1906,7 @@
             {
               "id": "modrinth.herbsandharvest:herbsandharvest-1.21.1-11:1.0",
               "name": "Mama's Herbs and Harvest",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5894660,
                 "MD5": "c88c7ff79d445a700678543f927d0c66a5b50738",
@@ -1917,7 +1917,7 @@
             {
               "id": "modrinth.heyberryshutup:heyberryshutup-1.21.0-2.0.4:1.0",
               "name": "Hey Berry! SHUT UP",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 6186,
                 "MD5": "a897b4ac33d0fc5a2a533d56381c272f1e49520b",
@@ -1928,7 +1928,7 @@
             {
               "id": "modrinth.iceandfire:IceAndFireCE-2.0-beta.15-1.21.1-neoforge:1.0",
               "name": "Ice And Fire Community Edition",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20933691,
                 "MD5": "c4d33745a8041465f2d12bb76fc048750288ce24",
@@ -1939,7 +1939,7 @@
             {
               "id": "modrinth.iceberg:Iceberg-1.21.1-neoforge-1.3.2:1.0",
               "name": "Iceberg",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 213853,
                 "MD5": "f6014d198be9503573cd9cb41cc789d282768ad8",
@@ -1950,7 +1950,7 @@
             {
               "id": "modrinth.illagerwarship:illagerwarship-1.0.1-neoforge-1.21.1:1.0",
               "name": "Illager-Warship",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 71280,
                 "MD5": "538db7de4264f6d07ca2a5e7a947777ad8216225",
@@ -1961,7 +1961,7 @@
             {
               "id": "modrinth.imfast:imfast-NEOFORGE-1.0.2:1.0",
               "name": "I'm Fast",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4157,
                 "MD5": "2a62ae984777ef81d63adfb358608b72fedfcaf9",
@@ -1972,7 +1972,7 @@
             {
               "id": "modrinth.immediatelyfast:ImmediatelyFast-NeoForge-1.6.10+1.21.1:1.0",
               "name": "ImmediatelyFast",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 368598,
                 "MD5": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb",
@@ -1983,7 +1983,7 @@
             {
               "id": "modrinth.immeng:Immersive-Energistics-1.1.0-beta:1.0",
               "name": "Immersive Energistics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 40560,
                 "MD5": "05aac40c5c9570946db540fabbb702898ca294d4",
@@ -1994,7 +1994,7 @@
             {
               "id": "modrinth.immersiveengineering:ImmersiveEngineering-1.21.1-12.4.2-194:1.0",
               "name": "Immersive Engineering",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 14232121,
                 "MD5": "a4e90c2df8009040f6d022433c5d76635944dd59",
@@ -2005,7 +2005,7 @@
             {
               "id": "modrinth.industrialforegoingsouls:industrial-foregoing-souls-1.21.1-1.10.7:1.0",
               "name": "Industrial Foregoing Souls",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 136908,
                 "MD5": "ff5def0fd52ac755103a4871aafcf0b80f5a1a51",
@@ -2016,7 +2016,7 @@
             {
               "id": "modrinth.industrialforegoing:industrialforegoing-1.21-3.6.38:1.0",
               "name": "Industrial Foregoing",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4630924,
                 "MD5": "79019a59c8023f5883d7a6c2f2308c995f828aa3",
@@ -2027,7 +2027,7 @@
             {
               "id": "modrinth.interdimensionalwirelesstransmitter:interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5:1.0",
               "name": "Interdimensional Wireless Transmitter",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 141867,
                 "MD5": "a276ff4472856fc1cd5fca1b94abbe401fd2ed05",
@@ -2038,7 +2038,7 @@
             {
               "id": "modrinth.iris:iris-neoforge-1.8.12+mc1.21.1:1.0",
               "name": "Iris",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2438548,
                 "MD5": "a3e6355915c7d3b2bc392724795113e51d289378",
@@ -2049,7 +2049,7 @@
             {
               "id": "modrinth.ironfurnaces:ironfurnaces-neoforge-1.21.1-4.3.2:1.0",
               "name": "Iron Furnaces",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 576866,
                 "MD5": "9a40f949ec9794cdef79bdabb61a12a918613194",
@@ -2060,7 +2060,7 @@
             {
               "id": "modrinth.ironjetpacks:IronJetpacks-1.21.1-8.0.11:1.0",
               "name": "Iron Jetpacks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 154859,
                 "MD5": "96bdaf7fa57b73a3c157edfc5d1afbfc2e23a65d",
@@ -2071,7 +2071,7 @@
             {
               "id": "modrinth.irons_patreon_lib:irons_patreon_lib-1.21.1-1.0.1:1.0",
               "name": "Iron's Patreon Library",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 353965,
                 "MD5": "b66a7a841a3d9d697df1d897b9da6c6a94e24dc6",
@@ -2082,7 +2082,7 @@
             {
               "id": "modrinth.irons_spellbooks:irons_spellbooks-1.21.1-3.15.5:1.0",
               "name": "Iron's Spells 'n Spellbooks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 13568479,
                 "MD5": "9a0d90780555cb7ccb3a72887a5b302bd5306ec0",
@@ -2093,7 +2093,7 @@
             {
               "id": "modrinth.itemcollectors:itemcollectors-1.1.10-neoforge-mc1.21:1.0",
               "name": "Item Collectors",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 100837,
                 "MD5": "2019bdbb89da0f61ce40448164bdd9a5b13cb2d7",
@@ -2104,7 +2104,7 @@
             {
               "id": "modrinth.jade:Jade-1.21.1-NeoForge-15.10.5:1.0",
               "name": "Jade",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 725742,
                 "MD5": "d5bf134b3dbde9f5258666823900e21341dc0a50",
@@ -2115,7 +2115,7 @@
             {
               "id": "modrinth.jei:jei-1.21.1-neoforge-19.27.0.340:1.0",
               "name": "Just Enough Items",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1529391,
                 "MD5": "27d0d85e7e32e926fc3664ab6815df5cdabb7941",
@@ -2126,7 +2126,7 @@
             {
               "id": "modrinth.jumpboat:jumpboat-1.21.0-1.0.5:1.0",
               "name": "Jumpy Boats",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5328,
                 "MD5": "8fa562264f3ffd030773b2744ff6b42c52080ce6",
@@ -2137,7 +2137,7 @@
             {
               "id": "modrinth.jupiter:jupiter-2.3.7-1.21.1-neoforge:1.0",
               "name": "Jupiter",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 278988,
                 "MD5": "569fb484ea5c8e8d690945ad4cd132131a719751",
@@ -2148,7 +2148,7 @@
             {
               "id": "modrinth.justenoughbreeding:justenoughbreeding-neoforge-1.21-1.21.1-1.6.2:1.0",
               "name": "Just Enough Breeding",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 134388,
                 "MD5": "4f47678f57e2cadebd42484897bf5417d7fa344a",
@@ -2159,7 +2159,7 @@
             {
               "id": "modrinth.justzoom:justzoom_neoforge_2.1.0_MC_1.21.1:1.0",
               "name": "Just Zoom",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 43798,
                 "MD5": "328da50972fa693b8e6f337d4a9560d4a6170ac3",
@@ -2170,7 +2170,7 @@
             {
               "id": "modrinth.keybindspurger:KeybindsPurger-1.4.0-neoforge-1.21.1:1.0",
               "name": "KeybindsPurger",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 39710,
                 "MD5": "8e1baa9ab8aa4b2efaefd39df54b241bd64533df",
@@ -2181,7 +2181,7 @@
             {
               "id": "modrinth.konkrete:konkrete_neoforge_1.9.9_MC_1.21:1.0",
               "name": "Konkrete",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 618842,
                 "MD5": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
@@ -2192,7 +2192,7 @@
             {
               "id": "modrinth.cataclysm:L_Ender's Cataclysm 1.21.1-3.26:1.0",
               "name": "L_Ender's Cataclysm 1.21.1",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 73346508,
                 "MD5": "5fff47ae29af42aa2a7e0d91e0d70dbb1c722061",
@@ -2203,7 +2203,7 @@
             {
               "id": "modrinth.laserbridges:laserbridges-1.21.1-neoforge-5.3:1.0",
               "name": "Laser Bridges & Doors",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 199979,
                 "MD5": "7948963864bce55a574d7c254c39760e9653bcc0",
@@ -2214,7 +2214,7 @@
             {
               "id": "modrinth.legendarytooltips:LegendaryTooltips-1.21.1-neoforge-1.5.5:1.0",
               "name": "Legendary Tooltips",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 81808,
                 "MD5": "e7d3b66f3afe115c709749739f26f807ca8e827b",
@@ -2225,7 +2225,7 @@
             {
               "id": "modrinth.lithostitched:lithostitched-1.6.5-neoforge-21.1:1.0",
               "name": "Lithostitched",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 793877,
                 "MD5": "a09b255f975a5d108d01ad102b80cea5c4ffa44d",
@@ -2236,7 +2236,7 @@
             {
               "id": "modrinth.little_big_redstone:little-big-redstone-1.5.2-beta-1.21.1:1.0",
               "name": "Little Big Redstone",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1385906,
                 "MD5": "17139b4409e1ff0cb0a354f2819acbd7914d7a68",
@@ -2247,7 +2247,7 @@
             {
               "id": "modrinth.livingthings:livingthings-neoforge-1.21.1-2.3.0:1.0",
               "name": "Living Things",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 962953,
                 "MD5": "b5a54f8fd82c5e34558f3034e6c1fa00d3a3284c",
@@ -2258,7 +2258,7 @@
             {
               "id": "modrinth.lmft:lmft-1.1.1+1.21.9-neoforge:1.0",
               "name": "Load My F***ing Tags",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 78624,
                 "MD5": "492d597ca216f9d099be112e77a9a5c7ed138770",
@@ -2269,7 +2269,7 @@
             {
               "id": "modrinth.lootr:lootr-neoforge-1.21.1-1.11.37.118:1.0",
               "name": "Lootr",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 970642,
                 "MD5": "95058da06c16441211619ce46950502fd5ac1f64",
@@ -2280,7 +2280,7 @@
             {
               "id": "modrinth.luminax:luminax-1.3.1_neoforge_1.21.1:1.0",
               "name": "Luminax",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 704672,
                 "MD5": "8ec996b9783d05d4c107a3ea727ff9c7d52ce452",
@@ -2291,7 +2291,7 @@
             {
               "id": "modrinth.mcwbridges:mcw-bridges-3.1.2-mc1.21.1neoforge:1.0",
               "name": "Macaw's Bridges",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 661387,
                 "MD5": "71ece28129789a2123cf07e79938f488d8675bb2",
@@ -2302,7 +2302,7 @@
             {
               "id": "modrinth.mcwdoors:mcw-doors-1.1.5-mc1.21.1neoforge:1.0",
               "name": "Macaw's Doors",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1190404,
                 "MD5": "c127904f23db1a641dd9e065ec51c5c177cb4cd7",
@@ -2313,7 +2313,7 @@
             {
               "id": "modrinth.mcwfurnitures:mcw-furniture-3.4.1-mc1.21.1neoforge:1.0",
               "name": "Macaw's Furniture",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2080436,
                 "MD5": "3dccc819f14bcc60b3683edd82ca8c5e64964229",
@@ -2324,7 +2324,7 @@
             {
               "id": "modrinth.mcwholidays:mcw-holidays-1.1.2-mc1.21.1neoforge:1.0",
               "name": "Macaw's Holidays",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1012915,
                 "MD5": "fbe2d2239fdab916120357ca3c45f582ca34f71d",
@@ -2335,7 +2335,7 @@
             {
               "id": "modrinth.mcwlights:mcw-lights-1.1.5-mc1.21.1neoforge:1.0",
               "name": "Macaw's Lights and Lamps",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 525744,
                 "MD5": "13c1107caf26b2c60d8626b3658b26cc7f634b38",
@@ -2346,7 +2346,7 @@
             {
               "id": "modrinth.mcwfences:mcw-mcwfences-1.2.1-mc1.21.1neoforge:1.0",
               "name": "Macaw's Fences and Walls",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 673871,
                 "MD5": "b5580c3fc521ed8bf4db3e407bd590efc317f74d",
@@ -2357,7 +2357,7 @@
             {
               "id": "modrinth.mcwpaths:mcw-mcwpaths-1.1.1-mc1.21.1neoforge:1.0",
               "name": "Macaw's Paths and Pavings",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 777742,
                 "MD5": "4bb7e1d28eef19f87438881b0f582a15297b95ae",
@@ -2368,7 +2368,7 @@
             {
               "id": "modrinth.mcwstairs:mcw-mcwstairs-1.0.2-mc1.21.1neoforge:1.0",
               "name": "Macaw's Stairs and Balconies",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 529082,
                 "MD5": "1ee43d693c821efc955a74e551f94372af90a140",
@@ -2379,7 +2379,7 @@
             {
               "id": "modrinth.mcwwindows:mcw-mcwwindows-2.4.2-mc1.21.1neoforge:1.0",
               "name": "Macaw's Windows",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1261268,
                 "MD5": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c",
@@ -2390,7 +2390,7 @@
             {
               "id": "modrinth.mcwroofs:mcw-roofs-2.3.2-mc1.21.1neoforge:1.0",
               "name": "Macaw's Roofs",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1784829,
                 "MD5": "05806ff152fab56f7c1b4b215d772ea73611283d",
@@ -2401,7 +2401,7 @@
             {
               "id": "modrinth.mcwtrpdoors:mcw-trapdoors-1.1.5-mc1.21.1neoforge:1.0",
               "name": "Macaw's Trapdoors",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 572870,
                 "MD5": "1f8b59e31f889f53b6296b42ee09d447e7e56620",
@@ -2412,7 +2412,7 @@
             {
               "id": "modrinth.mekanism:Mekanism-1.21.1-10.7.18.84:1.0",
               "name": "Mekanism",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 11950460,
                 "MD5": "2c48df86350bb733e4285437e136b271a70f4cbc",
@@ -2423,7 +2423,7 @@
             {
               "id": "modrinth.mekanismcovers:mekanismcovers-1.3-BETA+1.21:1.0",
               "name": "Mekanism Covers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 136513,
                 "MD5": "1cfb68fcc9b833af7b992024943dc1e8d45799af",
@@ -2434,7 +2434,7 @@
             {
               "id": "modrinth.mekanismgenerators:MekanismGenerators-1.21.1-10.7.18.84:1.0",
               "name": "Mekanism: Generators",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1104556,
                 "MD5": "9849756f8258367638df3a34261cfcc9b1a7e236",
@@ -2445,7 +2445,7 @@
             {
               "id": "modrinth.mekanismtools:MekanismTools-1.21.1-10.7.18.84:1.0",
               "name": "Mekanism: Tools",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 520884,
                 "MD5": "4d38e616afeb6d6be0ec7bcd6a23d45f351b6b3d",
@@ -2456,7 +2456,7 @@
             {
               "id": "modrinth.mekmm:mekmm-1.21.1-1.3.1:1.0",
               "name": "Mekanism: MoreMachine",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2779673,
                 "MD5": "d3b3003ae712b186bb6be9857548331c234b16ad",
@@ -2467,7 +2467,7 @@
             {
               "id": "modrinth.melody:melody_neoforge_1.0.10_MC_1.21:1.0",
               "name": "Melody",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 36096,
                 "MD5": "e83052a92c4ca0016bcfe7f0207273983dc84698",
@@ -2478,7 +2478,7 @@
             {
               "id": "modrinth.merequester:merequester-neoforge-1.21.1-1.4.2:1.0",
               "name": "ME Requester",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 184487,
                 "MD5": "22c87905f348dc4cbe6ef69d1d877d4e6ebcadee",
@@ -2489,7 +2489,7 @@
             {
               "id": "modrinth.mffs:mffs-5.4.27:1.0",
               "name": "Modular Force Field System",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3100552,
                 "MD5": "d43b2a586cddde88345f80440af28f71c72e46f0",
@@ -2500,7 +2500,7 @@
             {
               "id": "modrinth.mifa:mifa-neoforge-1.21.x-2.1.0:1.0",
               "name": "More Industrial Foregoing Addons",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 122759,
                 "MD5": "b59f8679cae16ee38254cd30c2fa4977e4830661",
@@ -2511,7 +2511,7 @@
             {
               "id": "modrinth.modelfix:modelfix-1.21-1.10:1.0",
               "name": "Model Gap Fix",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 47035,
                 "MD5": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
@@ -2522,7 +2522,7 @@
             {
               "id": "modrinth.moderndynamics:Modern-Dynamics-0.9.6:1.0",
               "name": "Modern Dynamics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 707745,
                 "MD5": "3f206d55dc002f217a2a4e5b1cce9327fd67bfa6",
@@ -2533,7 +2533,7 @@
             {
               "id": "modrinth.modern_industrialization:Modern-Industrialization-2.4.2:1.0",
               "name": "Modern Industrialization",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 7083805,
                 "MD5": "2c4bf83dab1ea907d0bbcdaae99a0e54447841fc",
@@ -2544,7 +2544,7 @@
             {
               "id": "modrinth.modernfix:modernfix-neoforge-5.26.1+mc1.21.1:1.0",
               "name": "ModernFix",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 498852,
                 "MD5": "50abc7ff4ef2fcbc3baf4c6b96e2a7141cbd1b8a",
@@ -2555,7 +2555,7 @@
             {
               "id": "modrinth.modonomicon:modonomicon-1.21.1-neoforge-1.120.1:1.0",
               "name": "Modonomicon",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2403998,
                 "MD5": "e127c8ba3d194678e11a00af6422394a7ed476b1",
@@ -2566,7 +2566,7 @@
             {
               "id": "modrinth.modularrouters:modular-routers-13.2.4+mc1.21.1:1.0",
               "name": "Modular Routers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1284439,
                 "MD5": "f4d535579462dc6436e4896daac4d2dd4ce8e428",
@@ -2577,7 +2577,7 @@
             {
               "id": "modrinth.monolib:monolib-neoforge-1.21.1-2.1.0:1.0",
               "name": "MonoLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 179499,
                 "MD5": "e618e28647fcbf931143f81bcd905d7c9c61f27b",
@@ -2588,7 +2588,7 @@
             {
               "id": "modrinth.moogs_structures:moogs_structures-1.1.0-1.21-1.21.1-neoforge:1.0",
               "name": "Moog's Structure Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 250067,
                 "MD5": "cde9ef5e7d4d74bb6d5725367398a6dc4d02ee99",
@@ -2599,7 +2599,7 @@
             {
               "id": "modrinth.mes:MoogsEndStructures-1.21-2.0.1:1.0",
               "name": "MoogsEndStructures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2458587,
                 "MD5": "e44787b0d977a27a0367b76a09ba680487334671",
@@ -2610,7 +2610,7 @@
             {
               "id": "modrinth.mns:MoogsNetherStructures-1.21-2.0.31:1.0",
               "name": "MoogsNetherStructures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1469454,
                 "MD5": "e36e41bca1e953fc05306bb84da7aef8fa9576bb",
@@ -2621,7 +2621,7 @@
             {
               "id": "modrinth.mss:MoogsSoaringStructures-1.21-2.0.2:1.0",
               "name": "MoogsSoaringStructures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3074614,
                 "MD5": "74b79d7913140321d070b0a9bd46c78b89d5a3d3",
@@ -2632,7 +2632,7 @@
             {
               "id": "modrinth.mvs:MoogsVoyagerStructures-1.21-5.0.5:1.0",
               "name": "MoogsVoyagerStructures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2670229,
                 "MD5": "6335b4caf8d5f969c948b5a2ce6c675d367a600b",
@@ -2643,7 +2643,7 @@
             {
               "id": "modrinth.moonlight:moonlight-1.21-2.29.29-neoforge:1.0",
               "name": "Moonlight Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1596662,
                 "MD5": "db89b7ccd5d722a59cae9feb054d33e884a4ca42",
@@ -2654,7 +2654,7 @@
             {
               "id": "modrinth.moreoverlays:moreoverlays-1.24.2-mc1.21.1-neoforge:1.0",
               "name": "More Overlays Updated",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 112984,
                 "MD5": "21e8bd61c5e146a9574266015d3f64621c2d9e18",
@@ -2665,7 +2665,7 @@
             {
               "id": "modrinth.mostructures:mostructures-neoforge-1.6.0+1.21.1:1.0",
               "name": "Mo' Structures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 779607,
                 "MD5": "f374bd80196e5dfe1f3fc8f4703ce9c20334ff02",
@@ -2676,7 +2676,7 @@
             {
               "id": "modrinth.mousetweaks:MouseTweaks-neoforge-mc1.21-2.26.1:1.0",
               "name": "Mouse Tweaks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 73938,
                 "MD5": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
@@ -2687,7 +2687,7 @@
             {
               "id": "modrinth.mysticalagradditions:MysticalAgradditions-1.21.1-8.0.13:1.0",
               "name": "Mystical Agradditions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 315832,
                 "MD5": "19bcd0011e8ab46de3093672bf2704fbb5443cfe",
@@ -2698,7 +2698,7 @@
             {
               "id": "modrinth.mysticalagriculture:MysticalAgriculture-1.21.1-8.0.24:1.0",
               "name": "Mystical Agriculture",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2323380,
                 "MD5": "3084737e2ff780dd2847e40df5fe8bc709ee7261",
@@ -2709,7 +2709,7 @@
             {
               "id": "modrinth.mysticalcustomization:MysticalCustomization-1.21.1-6.0.2:1.0",
               "name": "Mystical Customization",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 49374,
                 "MD5": "483c44e51b8f4c8dd24c239f945a819da766d219",
@@ -2720,7 +2720,7 @@
             {
               "id": "modrinth.naturesaura:NaturesAura-41.9:1.0",
               "name": "NaturesAura",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1443280,
                 "MD5": "466fba5d58430792f8564d4466ed486e28795c83",
@@ -2731,7 +2731,7 @@
             {
               "id": "modrinth.naturescompass:NaturesCompass-1.21.1-3.0.3-neoforge:1.0",
               "name": "Nature's Compass",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 216873,
                 "MD5": "4a91af947622a2bb2c0381db249cc6f06c1f1843",
@@ -2742,7 +2742,7 @@
             {
               "id": "modrinth.nochatreports:NoChatReports-NEOFORGE-1.21.1-v2.9.1:1.0",
               "name": "No Chat Reports",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 306668,
                 "MD5": "9edfc7861277ff661141304dc8216f83eacdd9af",
@@ -2753,7 +2753,7 @@
             {
               "id": "modrinth.nolijium:nolijium-0.5.6:1.0",
               "name": "Nolijium",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 362983,
                 "MD5": "7074fda15f70440eb1e30f74a7dc70feadd49592",
@@ -2764,7 +2764,7 @@
             {
               "id": "modrinth.notenoughanimations:notenoughanimations-neoforge-1.12.0-mc1.21.1:1.0",
               "name": "NotEnoughAnimations",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1932791,
                 "MD5": "98ad737aae797120f88e92824cc6e91b9e6215a4",
@@ -2775,7 +2775,7 @@
             {
               "id": "modrinth.novillagerdm:novillagerdm-1.21.1-6.0.0:1.0",
               "name": "No Villager Death Messages",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4884,
                 "MD5": "284694712ae9c5a17dfff4c0830048574996a229",
@@ -2786,7 +2786,7 @@
             {
               "id": "modrinth.nullscape:Nullscape_1.21.x_v1.2.14:1.0",
               "name": "Nullscape",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 355748,
                 "MD5": "ae8e1cbd5de6cf6f450bb44cd69cd284dad690dd",
@@ -2797,7 +2797,7 @@
             {
               "id": "modrinth.observable:observable-5.4.4:1.0",
               "name": "Observable",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 388133,
                 "MD5": "e17417eee213aac8291ff8bad1c6a5f710636b72",
@@ -2808,7 +2808,7 @@
             {
               "id": "modrinth.occultism:occultism-1.21.1-neoforge-1.208.0:1.0",
               "name": "Occultism",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 6935263,
                 "MD5": "444af7dd5524a3bfa34752284c5a79ae402570ab",
@@ -2819,7 +2819,7 @@
             {
               "id": "modrinth.occultism_kubejs:occultism_kubejs-1.21.1-neoforge-1.11.0:1.0",
               "name": "Occultism KubeJS",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 434372,
                 "MD5": "d48b97b0cc58c9c75292a1d8eab2b7c1469ed8f7",
@@ -2830,7 +2830,7 @@
             {
               "id": "modrinth.octolib:OctoLib-NEOFORGE-0.6.1+1.21:1.0",
               "name": "OctoLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 540285,
                 "MD5": "052b71b4897b3a76b4b10afda4d9342e66fb19f1",
@@ -2841,7 +2841,7 @@
             {
               "id": "modrinth.biomeswevegone:Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5:1.0",
               "name": "Oh The Biomes We've Gone",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20759732,
                 "MD5": "b7d028def9c15698dff076e1c606d4496f0a2730",
@@ -2852,7 +2852,7 @@
             {
               "id": "modrinth.ohthetreesyoullgrow:Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0:1.0",
               "name": "Oh The Trees You'll Grow",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 165580,
                 "MD5": "2722116e140607d4f44279c84c13987e96f2bd90",
@@ -2863,7 +2863,7 @@
             {
               "id": "modrinth.openloader:OpenLoader-neoforge-1.21.1-21.1.5:1.0",
               "name": "OpenLoader",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 35602,
                 "MD5": "b4b49fa0bbefcecd41aaba60aca38c3658ac2c46",
@@ -2874,7 +2874,7 @@
             {
               "id": "modrinth.oracle_index:oracle_index-neoforge-1.1.1:1.0",
               "name": "Oracle Index",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 29779727,
                 "MD5": "49c7c260aae8b3478621174ad83115c59d58ef5b",
@@ -2885,7 +2885,7 @@
             {
               "id": "modrinth.oritech:oritech-neoforge-1.21.1-1.1.0:1.0",
               "name": "Oritech",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 10747980,
                 "MD5": "fe04966ff230c307dd2ea2259f90468b77147e8d",
@@ -2896,7 +2896,7 @@
             {
               "id": "modrinth.owo:owo-lib-neoforge-0.12.15.5-beta.1+1.21:1.0",
               "name": "oωo",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1221583,
                 "MD5": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
@@ -2907,7 +2907,7 @@
             {
               "id": "modrinth.pamhc2foodextended:pamhc2foodextended-NEOFORGE-1.21.1-1.0.0:1.0",
               "name": "Pam's HarvestCraft - Food Extended",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1983616,
                 "MD5": "0cf7f668fdedef93446f33215484913991185102",
@@ -2918,7 +2918,7 @@
             {
               "id": "modrinth.patchouli:Patchouli-1.21.1-93-NEOFORGE:1.0",
               "name": "Patchouli",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 646777,
                 "MD5": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
@@ -2929,7 +2929,7 @@
             {
               "id": "modrinth.playeranimator:player-animation-lib-forge-2.0.4+1.21.1:1.0",
               "name": "Player Animator",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 203149,
                 "MD5": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
@@ -2940,7 +2940,7 @@
             {
               "id": "modrinth.pneumaticcraft:pneumaticcraft-repressurized-8.2.19+mc1.21.1:1.0",
               "name": "PneumaticCraft: Repressurized",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 11780404,
                 "MD5": "b54ae52676ec7e51dd3adb7006f0b838faae9dbb",
@@ -2951,7 +2951,7 @@
             {
               "id": "modrinth.polyeng:polyeng-0.4.1:1.0",
               "name": "Polymorphic Energistics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20130,
                 "MD5": "4add4d9e854807ed2b10c0cabf972244f862b21f",
@@ -2962,7 +2962,7 @@
             {
               "id": "modrinth.polymorph:polymorph-neoforge-1.1.0+1.21.1:1.0",
               "name": "Polymorph",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 174972,
                 "MD5": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
@@ -2973,7 +2973,7 @@
             {
               "id": "modrinth.ponderjs:ponderjs-neoforge-1.21.1-2.4.0:1.0",
               "name": "PonderJS",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1571893,
                 "MD5": "9c35c5c31a613d58fc06e591e455bccfc3de6022",
@@ -2984,7 +2984,7 @@
             {
               "id": "modrinth.powah:Powah-6.2.8:1.0",
               "name": "Powah",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2737273,
                 "MD5": "cddbf8d2a6adfbcd8f73c13515af0da9c8139179",
@@ -2995,7 +2995,7 @@
             {
               "id": "modrinth.prickle:prickle-neoforge-1.21.1-21.1.11:1.0",
               "name": "PrickleMC",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 84812,
                 "MD5": "5174059ecf97340a0de5ef211b938de26c4eaa36",
@@ -3006,7 +3006,7 @@
             {
               "id": "modrinth.prism:Prism-1.21.1-neoforge-1.0.11:1.0",
               "name": "Prism",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 62031,
                 "MD5": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
@@ -3017,7 +3017,7 @@
             {
               "id": "modrinth.pylons:pylons-1.21.1-5.4.2:1.0",
               "name": "Pylons",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 217973,
                 "MD5": "7a17b8fda2557c9466bc871403ba3b6ea5990e58",
@@ -3028,7 +3028,7 @@
             {
               "id": "modrinth.railcraft:railcraft-reborn-1.21.1-1.2.10:1.0",
               "name": "Railcraft Reborn",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5290986,
                 "MD5": "e6bad517eed5d60923b2a0b28d9f7f83d7299f10",
@@ -3039,7 +3039,7 @@
             {
               "id": "modrinth.rainbows:Rainbows-1.21-1.5:1.0",
               "name": "Rainbows",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2307740,
                 "MD5": "82a789be56ea483e0ca94454c780da0b47e937d1",
@@ -3050,7 +3050,7 @@
             {
               "id": "modrinth.rebind_narrator:rebind_narrator-1.21.1-neoforge-2025.12.23:1.0",
               "name": "Rebind Narrator",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 213661,
                 "MD5": "3e28da451f5d7eecb35d195fb08bfe4d7f9022ec",
@@ -3061,7 +3061,7 @@
             {
               "id": "modrinth.rechiseled:rechiseled-1.2.4-neoforge-mc1.21:1.0",
               "name": "Rechiseled",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 11488067,
                 "MD5": "bd8ac0c82a04179c649f40b3333ff0648f444086",
@@ -3072,7 +3072,7 @@
             {
               "id": "modrinth.rechiseled_chipped:rechiseled_chipped-2.0-1.21.1:1.0",
               "name": "Rechiseled: Chipped",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 177517,
                 "MD5": "bed4eb5415d67251ba6b0eca5d56eb0f5963a265",
@@ -3083,7 +3083,7 @@
             {
               "id": "modrinth.rechiseledcreate:rechiseledcreate-1.1.0-neoforge-mc1.21:1.0",
               "name": "Rechiseled: Create",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 981192,
                 "MD5": "64f92a5e2f158935e4188bb3966a47aa15083e17",
@@ -3094,7 +3094,7 @@
             {
               "id": "modrinth.redstonepen:redstonepen-1.21-neoforge-1.11.42:1.0",
               "name": "Redstone Pen",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 513816,
                 "MD5": "4c9a706061c0e303a02431905a4fbb63c28d14be",
@@ -3105,7 +3105,7 @@
             {
               "id": "modrinth.refinedtypes:refined-types-1.21.1-0.2.9:1.0",
               "name": "Refined Types",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 735329,
                 "MD5": "9c5e8fa5b9fde13b42868d1a6612cde446418467",
@@ -3116,7 +3116,7 @@
             {
               "id": "modrinth.regions_unexplored:regions_unexplored-neoforge-1.21.1-0.5.9:1.0",
               "name": "Regions Unexplored",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5365182,
                 "MD5": "064c2da020731fadd07e095707320431df12288d",
@@ -3127,7 +3127,7 @@
             {
               "id": "modrinth.relics:relics-1.21.1-0.11.14:1.0",
               "name": "Relics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4121604,
                 "MD5": "7d4c14db31ecba9029cb0e016989b84c1212acf3",
@@ -3138,7 +3138,7 @@
             {
               "id": "modrinth.reliquified_artifacts:reliquified_artifacts-1.21.1-1.0.4:1.0",
               "name": "reliquified_artifacts",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 658045,
                 "MD5": "5c1717a11d105f33021d805eefd4184a450cfaf5",
@@ -3149,7 +3149,7 @@
             {
               "id": "modrinth.repeatable_trial_vaults:repeatable_trial_vaults-neoforge-1.21-1.0.2:1.0",
               "name": "Repeatable Trial Vaults",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 12734,
                 "MD5": "6559a203e264afacc40af5010ad6a85b21e20a17",
@@ -3160,7 +3160,7 @@
             {
               "id": "modrinth.repurposed_structures:repurposed_structures-7.5.18+1.21.1-neoforge:1.0",
               "name": "Repurposed Structures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8238563,
                 "MD5": "545fafd13197186038191d99c378ac4c04a6504c",
@@ -3171,7 +3171,7 @@
             {
               "id": "modrinth.resourcefulconfig:resourcefulconfig-neoforge-1.21-3.0.11:1.0",
               "name": "Resourcefulconfig",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 341009,
                 "MD5": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
@@ -3182,7 +3182,7 @@
             {
               "id": "modrinth.resourcefullib:resourcefullib-neoforge-1.21-3.0.12:1.0",
               "name": "Resourceful Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 484332,
                 "MD5": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
@@ -3193,7 +3193,7 @@
             {
               "id": "modrinth.sawmill:sawmill-1.21-1.7.2-neoforge:1.0",
               "name": "Universal Sawmill",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 521504,
                 "MD5": "877389e2bb3b462b8180d4fc998799adbce6ada1",
@@ -3204,7 +3204,7 @@
             {
               "id": "modrinth.ScalableCatsForce-NeoForge-3.7.1-build-11-with-library:ScalableCatsForce-NeoForge-3.7.1-build-11-with-library:1.0",
               "name": "ScalableCatsForce-NeoForge-3.7.1-build-11-with-library",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 16872119,
                 "MD5": "b96d133a016dde480458d6102d66353c7eeacf6a",
@@ -3215,7 +3215,7 @@
             {
               "id": "modrinth.searchables:Searchables-neoforge-1.21.1-1.0.2:1.0",
               "name": "Searchables",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 77326,
                 "MD5": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
@@ -3226,7 +3226,7 @@
             {
               "id": "modrinth.silentgear:silent-gear-1.21.1-neoforge-4.1.5:1.0",
               "name": "Silent Gear",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2967321,
                 "MD5": "41d4b5188a6305d9f9468d86297f868256c0a3a4",
@@ -3237,7 +3237,7 @@
             {
               "id": "modrinth.silentlib:silent-lib-1.21.1-neoforge-10.5.1:1.0",
               "name": "Silent Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 146707,
                 "MD5": "b08b639706ce8cbc426045501b7f2da59eceb14f",
@@ -3248,7 +3248,7 @@
             {
               "id": "modrinth.silentgems:silentgems-1.21.1-neoforge-5.1.3:1.0",
               "name": "Silent's Gems",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1457506,
                 "MD5": "a296507e45f2a71cfc1e6cfcc6692340c4c4d913",
@@ -3259,7 +3259,7 @@
             {
               "id": "modrinth.simple_weather:simple_weather-1.0.13-hotfix:1.0",
               "name": "Simple Weather",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 82792,
                 "MD5": "45ee8e8bb49c599bb3d7db7cdf6c91f90d13bb0c",
@@ -3270,7 +3270,7 @@
             {
               "id": "modrinth.simplebackups:SimpleBackups-1.21-4.0.29:1.0",
               "name": "Simple Backups",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 70247,
                 "MD5": "df19ea0a4d1b42697f30b8ae057ad689948a511c",
@@ -3281,7 +3281,7 @@
             {
               "id": "modrinth.simplemagnets:simplemagnets-1.1.12c-neoforge-mc1.21:1.0",
               "name": "Simple Magnets",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 146262,
                 "MD5": "abba7efcee3ae31bd3512147053279422e866ebf",
@@ -3292,7 +3292,7 @@
             {
               "id": "modrinth.smartbrainlib:SmartBrainLib-neoforge-1.21.1-1.16.11:1.0",
               "name": "SmartBrainLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 391053,
                 "MD5": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
@@ -3303,7 +3303,7 @@
             {
               "id": "modrinth.smithingtemplateviewer:smithingtemplateviewer-1.0.4:1.0",
               "name": "SmithingTemplateViewer",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 39702,
                 "MD5": "4fea33926fafbd59f7434d1e4e64938ddee5d5db",
@@ -3314,7 +3314,7 @@
             {
               "id": "modrinth.spark:spark-1.10.124-neoforge:1.0",
               "name": "spark",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3642581,
                 "MD5": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
@@ -3325,7 +3325,7 @@
             {
               "id": "modrinth.storagedelight:storagedelight-25.12.09-1.21-neoforge:1.0",
               "name": "Storage Delight",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 649502,
                 "MD5": "b61e8454f99d4e18730ac3e2a2c51c618c4c548a",
@@ -3336,7 +3336,7 @@
             {
               "id": "modrinth.structory:Structory_26.1_v1.3.16:1.0",
               "name": "Structory",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1261336,
                 "MD5": "ee48f145a3a09fdb3f492576cbc21ed26abc74bb",
@@ -3347,7 +3347,7 @@
             {
               "id": "modrinth.structory_towers:Structory_Towers_26.1_v1.0.16:1.0",
               "name": "Structory: Towers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 491545,
                 "MD5": "ed22fe659cb3020f2e86b7619ce721714b9546be",
@@ -3358,7 +3358,7 @@
             {
               "id": "modrinth.sfm:Super Factory Manager (SFM)-MC1.21.1-4.32.0:1.0",
               "name": "Super Factory Manager (SFM)",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1604662,
                 "MD5": "5f2ea7f8cd33e5a99829155f392fdc4bad33fbc9",
@@ -3369,7 +3369,7 @@
             {
               "id": "modrinth.supermartijn642configlib:supermartijn642configlib-1.1.8-neoforge-mc1.21:1.0",
               "name": "SuperMartijn642's Config Library",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 207514,
                 "MD5": "07452242e389975e8a88b97066f4bae6a4ebe574",
@@ -3380,7 +3380,7 @@
             {
               "id": "modrinth.supermartijn642corelib:supermartijn642corelib-1.1.21-neoforge-mc1.21:1.0",
               "name": "SuperMartijn642's Core Lib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 558371,
                 "MD5": "84802fbe1645de8caf61ccb07db6cf451e614f68",
@@ -3391,7 +3391,7 @@
             {
               "id": "modrinth.supplementaries:supplementaries-1.21-3.5.33-neoforge:1.0",
               "name": "Supplementaries",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 13361394,
                 "MD5": "25e15a4c2c9d8812d6deffb953c5cdca6dba70b8",
@@ -3402,7 +3402,7 @@
             {
               "id": "modrinth.sushigocrafting:sushigocrafting-1.21-0.6.5:1.0",
               "name": "Sushi Go Crafting",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 724996,
                 "MD5": "328da659d28e6a900d12f5638878998a796abd68",
@@ -3413,7 +3413,7 @@
             {
               "id": "modrinth.t_and_t:t_and_t-neoforge-fabric-1.13.7+1.21.1:1.0",
               "name": "Towns and Towers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3641681,
                 "MD5": "eb7666961fb0b0d0ff8bc01ff62194952f6b6b8c",
@@ -3424,7 +3424,7 @@
             {
               "id": "modrinth.tempad:tempad-1.21.1-3.0.4-all:1.0",
               "name": "Tempad",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1696464,
                 "MD5": "7a4d6837c6f7a4c9a8f4e7054952df25c148033e",
@@ -3435,7 +3435,7 @@
             {
               "id": "modrinth.tesseract_api:tesseract-api-neoforge-1.11.10-1.21.1:1.0",
               "name": "Tesseract API",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 726159,
                 "MD5": "250d7fa9cb3ee7211404c44a7f21d59b54f33b17",
@@ -3446,7 +3446,7 @@
             {
               "id": "modrinth.the_bumblezone:the_bumblezone-7.13.1+1.21.1-neoforge:1.0",
               "name": "The Bumblezone",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 69611136,
                 "MD5": "ebcb3f6c4412cad6d22126f33b3a65622328f361",
@@ -3457,7 +3457,7 @@
             {
               "id": "modrinth.undergarden:The_Undergarden-1.21.1-0.9.6:1.0",
               "name": "The Undergarden",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 45294936,
                 "MD5": "75f1753eefa0b7b8e3afd7377deaf9fe71392476",
@@ -3468,7 +3468,7 @@
             {
               "id": "modrinth.theurgy:theurgy-1.21.1-neoforge-1.71.0:1.0",
               "name": "Theurgy",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5298014,
                 "MD5": "66e12e84b6b21aa5b308bbfac7e4a3dba7405b44",
@@ -3479,7 +3479,7 @@
             {
               "id": "modrinth.theurgy_kubejs:theurgy_kubejs-1.21.1-neoforge-1.5.1:1.0",
               "name": "Theurgy KubeJS",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 25203,
                 "MD5": "f65ff740fd866275c1e9b3e10c7bee895025bd5e",
@@ -3490,7 +3490,7 @@
             {
               "id": "modrinth.tiab:tiab-neoforge-6.5.4:1.0",
               "name": "Time In A Bottle",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 77755,
                 "MD5": "3e6beaac5dbc48627263fee0a864db16eda53529",
@@ -3501,7 +3501,7 @@
             {
               "id": "modrinth.titanium:titanium-1.21-4.0.42:1.0",
               "name": "Titanium",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 605755,
                 "MD5": "aa71953b17a0a3618c6a44be428cf98e6885665b",
@@ -3512,7 +3512,7 @@
             {
               "id": "modrinth.torchmaster:torchmaster-neoforge-1.21.1-21.1.9:1.0",
               "name": "Torchmaster",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 130605,
                 "MD5": "3f565ecc8560eba3ae3e15ff6542a3025d7377a2",
@@ -3523,7 +3523,7 @@
             {
               "id": "modrinth.transfer_labels:transfer_labels-0.1.7:1.0",
               "name": "Transfer Labels",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 155537,
                 "MD5": "c1561ca14e685742b2e28d83c2ba473f767d4f80",
@@ -3534,7 +3534,7 @@
             {
               "id": "modrinth.trashcans:trashcans-1.0.18c-neoforge-mc1.21:1.0",
               "name": "Trash Cans",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 159808,
                 "MD5": "8e853e0784b01b36b4503ef5599be2724be74b07",
@@ -3545,7 +3545,7 @@
             {
               "id": "modrinth.universalgrid:universalgrid-neoforge-1.21.1-0.3.0:1.0",
               "name": "Universal Grid",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 91089,
                 "MD5": "04ea75a6e06b2e44406f12ec04f50121c4ca3f23",
@@ -3556,7 +3556,7 @@
             {
               "id": "modrinth.uranus:uranus-2.4-1.21.1-neoforge:1.0",
               "name": "Uranus",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 847484,
                 "MD5": "757d8dd20bf22c7157e275c2a7643cde76984e4d",
@@ -3567,7 +3567,7 @@
             {
               "id": "modrinth.variantsandventures:variantsandventures-neoforge-1.0.23+mc1.21.1:1.0",
               "name": "Variants&Ventures",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1076276,
                 "MD5": "7c988c922062aaf8c84ddec9d29fc24b7a2d137e",
@@ -3578,7 +3578,7 @@
             {
               "id": "modrinth.villagesandpillages:villagesandpillages-neoforge-mc1.21.1-1.0.3:1.0",
               "name": "Villages & Pillages",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 241257,
                 "MD5": "f587626ba0b421f976f4bd1141bcdc3ca9d21abb",
@@ -3589,7 +3589,7 @@
             {
               "id": "modrinth.wirelesschargers:wirelesschargers-1.0.9a-neoforge-mc1.21:1.0",
               "name": "Wireless Chargers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 315836,
                 "MD5": "129e88001446f07d8d7c790d169f26814346befb",
@@ -3600,7 +3600,7 @@
             {
               "id": "modrinth.wits:wits-1.3.0+1.21-neoforge:1.0",
               "name": "WITS",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 12231,
                 "MD5": "4fb6e087325c70031fdb7fe6eb5278c5038511dd",
@@ -3611,7 +3611,7 @@
             {
               "id": "modrinth.xycraft_core:xycraft_core-0.7.53-all:1.0",
               "name": "XyCraft Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2327963,
                 "MD5": "c734345c9c5eff8f50551a344fff6b5f1c14c6e7",
@@ -3622,7 +3622,7 @@
             {
               "id": "modrinth.yeetusexperimentus:yeetusexperimentus-neoforge-87.0.0:1.0",
               "name": "Yeetus Experimentus",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 570057,
                 "MD5": "7132c346103d75a7c84da64b35b92e3a6f1ce3da",
@@ -3633,7 +3633,7 @@
             {
               "id": "modrinth.yet_another_config_lib_v3:yet_another_config_lib_v3-3.8.2+1.21.1-neoforge:1.0",
               "name": "YetAnotherConfigLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1118651,
                 "MD5": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
@@ -3644,7 +3644,7 @@
             {
               "id": "modrinth.yungsapi:YungsApi-1.21.1-NeoForge-5.1.6:1.0",
               "name": "YUNG's API",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 388678,
                 "MD5": "e1c394779fb9e038e4f7a1b4558d0432607d263b",
@@ -3655,7 +3655,7 @@
             {
               "id": "modrinth.betterdeserttemples:YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5:1.0",
               "name": "YUNG's Better Desert Temples",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 905839,
                 "MD5": "90529257dbd92558998c65178294bc7b2fd16a64",
@@ -3666,7 +3666,7 @@
             {
               "id": "modrinth.betterdungeons:YungsBetterDungeons-1.21.1-NeoForge-5.1.4:1.0",
               "name": "YUNG's Better Dungeons",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 782160,
                 "MD5": "73a660c13063450e555e5e2c015ae24d606b32b4",
@@ -3677,7 +3677,7 @@
             {
               "id": "modrinth.betterendisland:YungsBetterEndIsland-1.21.1-NeoForge-3.1.2:1.0",
               "name": "YUNG's Better End Island",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 398130,
                 "MD5": "832f2c17425debe74a9f267f4136f1a0f0221d19",
@@ -3688,7 +3688,7 @@
             {
               "id": "modrinth.betterjungletemples:YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2:1.0",
               "name": "YUNG's Better Jungle Temples",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 795839,
                 "MD5": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8",
@@ -3699,7 +3699,7 @@
             {
               "id": "modrinth.bettermineshafts:YungsBetterMineshafts-1.21.1-NeoForge-5.1.1:1.0",
               "name": "YUNG's Better Mineshafts",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 493967,
                 "MD5": "6a14e1d8201f068ca87ef8333e471c5378955906",
@@ -3710,7 +3710,7 @@
             {
               "id": "modrinth.betterfortresses:YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5:1.0",
               "name": "YUNG's Better Nether Fortresses",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 609639,
                 "MD5": "4061ece2141475227646649046fc14c2da505922",
@@ -3721,7 +3721,7 @@
             {
               "id": "modrinth.betteroceanmonuments:YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2:1.0",
               "name": "YUNG's Better Ocean Monuments",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1025571,
                 "MD5": "fba629defdb92ad99ec4f411895afb6e19555a18",
@@ -3732,7 +3732,7 @@
             {
               "id": "modrinth.betterstrongholds:YungsBetterStrongholds-1.21.1-NeoForge-5.1.3:1.0",
               "name": "YUNG's Better Strongholds",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 461244,
                 "MD5": "5d06a5850af7c577612d4592706a8e156bbe1cbf",
@@ -3743,7 +3743,7 @@
             {
               "id": "modrinth.betterwitchhuts:YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1:1.0",
               "name": "YUNG's Better Witch Huts",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 174789,
                 "MD5": "bbf6c91f4a2829c58bc024eaaab821986bc93de6",
@@ -3754,7 +3754,7 @@
             {
               "id": "modrinth.yungsextras:YungsExtras-1.21.1-NeoForge-5.1.1:1.0",
               "name": "YUNG's Extras",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 198183,
                 "MD5": "62833733aaf407f36bdacf648ed4b2ef9940662b",
@@ -3765,7 +3765,7 @@
             {
               "id": "cf.additional_lights:additional_lights-neoforge-1.21-2.1.10:1.0",
               "name": "Additional Lights",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 514194,
                 "MD5": "8dc485146437e8ac40dd29e10747601fd4e372ca",
@@ -3776,7 +3776,7 @@
             {
               "id": "cf.advancedperipherals:AdvancedPeripherals-1.21.1-0.7.61b:1.0",
               "name": "Advanced Peripherals",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 935498,
                 "MD5": "3f05a8766862bbe8958750f7eb768220d30536a3",
@@ -3787,7 +3787,7 @@
             {
               "id": "cf.ae2ct:ae2ct-1.21.1-1.1.1:1.0",
               "name": "AE2:Crafting Tree",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 437906,
                 "MD5": "2e425a9dc8891bdcd3b2914506d1bc33414b61be",
@@ -3798,7 +3798,7 @@
             {
               "id": "cf.ae2jeiintegration:ae2jeiintegration-1.2.1:1.0",
               "name": "AE2 JEI Integration",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 91710,
                 "MD5": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
@@ -3809,7 +3809,7 @@
             {
               "id": "cf.ae2netanalyser:AE2NetworkAnalyzer-1.21-2.1.5-neoforge:1.0",
               "name": "AE2NetworkAnalyzer",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1686091,
                 "MD5": "c6cb26a2031687d801bf1763dc0c75cd92f3715c",
@@ -3820,7 +3820,7 @@
             {
               "id": "cf.aether:aether-1.21.1-1.5.10-neoforge:1.0",
               "name": "The Aether",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 40223909,
                 "MD5": "5b5592989c6d2aabf80a9f100e18c258813db497",
@@ -3831,7 +3831,7 @@
             {
               "id": "cf.allthearcanistgear:allthearcanistgear-1.21.1-21.3.2:1.0",
               "name": "All The Arcanist Gear",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 375904,
                 "MD5": "00298152fb92d382e1659e9c21235ecc44a03433",
@@ -3842,7 +3842,7 @@
             {
               "id": "cf.allthecompressed:allthecompressed-1.21.1-4.4.0:1.0",
               "name": "AllTheCompressed",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5901446,
                 "MD5": "265ef9d825d217e4dd6bf9b0c0824da982cc5c22",
@@ -3853,7 +3853,7 @@
             {
               "id": "cf.alltheleaks:alltheleaks-1.1.7+1.21.1-neoforge:1.0",
               "name": "All The Leaks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 536829,
                 "MD5": "a36da3b274d7612f3696788434cb5a717e065d70",
@@ -3864,7 +3864,7 @@
             {
               "id": "cf.allthemodium:allthemodium-3.0.0_mc_1.21.1:1.0",
               "name": "Allthemodium",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1912511,
                 "MD5": "2956e0e6055c21e4b7fc1fc407dbeae30d7bb949",
@@ -3875,7 +3875,7 @@
             {
               "id": "cf.alltheores:alltheores-3.2.0_neoforge_1.21.1:1.0",
               "name": "AllTheOres",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1645297,
                 "MD5": "e13ba7f0ba43043cbe8723de7533e39accc87ad1",
@@ -3886,7 +3886,7 @@
             {
               "id": "cf.allthetweaks:allthetweaks-1.21.1-2.9.2:1.0",
               "name": "AllTheTweaks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4917180,
                 "MD5": "675db4f0f0f1c9a0441c7273270473638b5ee6d5",
@@ -3897,7 +3897,7 @@
             {
               "id": "cf.allthewizardgear:allthewizardgear-1.21.1-1.1.12:1.0",
               "name": "All the Wizard Gear",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 111938,
                 "MD5": "be5da938ae2e57a4bac2b50e11737260e20b4364",
@@ -3908,7 +3908,7 @@
             {
               "id": "cf.apotheosis:Apotheosis-1.21.1-8.5.2:1.0",
               "name": "Apotheosis",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 6964172,
                 "MD5": "eb484177b383dc397bfa37d06ef09ec39053bb50",
@@ -3919,7 +3919,7 @@
             {
               "id": "cf.apothic_attributes:ApothicAttributes-1.21.1-2.9.1:1.0",
               "name": "Apothic Attributes",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 314269,
                 "MD5": "e7f669e1b45d75076200436f37c40a6dd3b6a6ff",
@@ -3930,7 +3930,7 @@
             {
               "id": "cf.apothic_enchanting:ApothicEnchanting-1.21.1-1.5.2:1.0",
               "name": "Apothic Enchanting",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5350906,
                 "MD5": "aad9bb6b4e5ba7ea85af4d143467b99f0ed022fc",
@@ -3941,7 +3941,7 @@
             {
               "id": "cf.apothic_spawners:ApothicSpawners-1.21.1-1.3.4:1.0",
               "name": "Apothic Spawners",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 125015,
                 "MD5": "26d701238bdb76a497a64f588409419ad067e557",
@@ -3952,7 +3952,7 @@
             {
               "id": "cf.ars_elemancy:ars_elemancy-1.21.1-1.16:1.0",
               "name": "Ars Elemancy",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 767615,
                 "MD5": "1f88400b2fe571c863587b683e001a057d643797",
@@ -3963,7 +3963,7 @@
             {
               "id": "cf.ars_elemental:ars_elemental-1.21.1-0.7.9_beta:1.0",
               "name": "Ars Elemental",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2293304,
                 "MD5": "b638d30435cabbee63d5e54c6323a51b3bcc6d8a",
@@ -3974,7 +3974,7 @@
             {
               "id": "cf.ars_technica:ars_technica-1.21.1-2.7.6:1.0",
               "name": "Ars Technica",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3691171,
                 "MD5": "adb2641d538375f6eff6a22f0196bb330ab0b171",
@@ -3985,7 +3985,7 @@
             {
               "id": "cf.atlas_api:atlas_api-1.21.1-1.2.0:1.0",
               "name": "Atlas API",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 28419,
                 "MD5": "79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998",
@@ -3996,7 +3996,7 @@
             {
               "id": "cf.balm:balm-neoforge-1.21.1-21.0.56:1.0",
               "name": "Balm",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 739709,
                 "MD5": "c1c1d4859c7943c7d1c181c07fa7273a1d56df15",
@@ -4007,7 +4007,7 @@
             {
               "id": "cf.blockui:blockui-1.0.211-1.21.1-snapshot:1.0",
               "name": "UI Library Mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 468147,
                 "MD5": "0ab4e0342b9f1e595d9a891f84747e4e5389c552",
@@ -4018,7 +4018,7 @@
             {
               "id": "cf.buildinggadgets2:buildinggadgets2-1.3.9:1.0",
               "name": "Building Gadgets 2",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3858597,
                 "MD5": "666a155981e3cd231f67809b9e2a0238377bbbfc",
@@ -4029,7 +4029,7 @@
             {
               "id": "cf.byzantine:Byzantine-1.21.1-48:1.0",
               "name": "Byzantine",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 15366705,
                 "MD5": "d0d45e9bbed5b0a9af4e7551a39f2b819457c284",
@@ -4040,7 +4040,7 @@
             {
               "id": "cf.camol:camol-1.21.1-0.3.0:1.0",
               "name": "Camol",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 61522,
                 "MD5": "d87f56e5722b39ba1a20b968e5104feaaec9690f",
@@ -4051,7 +4051,7 @@
             {
               "id": "cf.catjammies:catjammies-1.21-1.7.1:1.0",
               "name": "CatJammies",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8784,
                 "MD5": "9ce39347637e6209e031402e054d7cc93b1e1a03",
@@ -4062,7 +4062,7 @@
             {
               "id": "cf.charginggadgets:charginggadgets-1.14.1:1.0",
               "name": "Charging Gadgets",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 67206,
                 "MD5": "3208ea2ca10d786895d03c2cd3a124d14393b357",
@@ -4073,7 +4073,7 @@
             {
               "id": "cf.chromacarvings:chromacarvings-1.21.1-0.2.0:1.0",
               "name": "Chroma Carvings",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 268974,
                 "MD5": "b791809827bfd4e3d28fc208815d92bfed92c602",
@@ -4084,7 +4084,7 @@
             {
               "id": "cf.cleanswing:cleanswing-1.9:1.0",
               "name": "Clean Swing",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8449,
                 "MD5": "c4746d331a9a73158da1c330f0d46ce8714ce5d8",
@@ -4095,7 +4095,7 @@
             {
               "id": "cf.cloudglass:CloudGlass-1.21.1-1.0.1:1.0",
               "name": "Cloud Glass",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 80431,
                 "MD5": "1bde608928fedaa2ac6ffa58470f1a28f6724156",
@@ -4106,7 +4106,7 @@
             {
               "id": "cf.cobblegengalore:cobblegengalore-1.21.1-0.2.8:1.0",
               "name": "Cobblegen Galore",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 87631,
                 "MD5": "a799bf9d4818020bc41c009503f6d77f78eec247",
@@ -4117,7 +4117,7 @@
             {
               "id": "cf.commoncapabilities:commoncapabilities-1.21.1-neoforge-2.11.4:1.0",
               "name": "CommonCapabilities",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 283919,
                 "MD5": "8bd6ecb1649ba4b2a50b10b70a0d85a1e43a0d5f",
@@ -4128,7 +4128,7 @@
             {
               "id": "cf.compactmachines:compactmachines-neoforge-7.0.81:1.0",
               "name": "Compact Machines",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 684420,
                 "MD5": "dcffc21e62a82c5d870ab13dc5c92687430d65b5",
@@ -4139,7 +4139,7 @@
             {
               "id": "cf.connectivity:connectivity-1.21.1-7.6:1.0",
               "name": "Connectivity Mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 114165,
                 "MD5": "6adebe84f745dec8fa33bc3982383bc1cc24d49e",
@@ -4150,7 +4150,7 @@
             {
               "id": "cf.constructionstick:ConstructionSticks-1.21.1-1.3.0:1.0",
               "name": "Construction Sticks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 262932,
                 "MD5": "c73da674b08848c835ff45eadf47fdc8584fef82",
@@ -4161,7 +4161,7 @@
             {
               "id": "cf.cookingforblockheads:cookingforblockheads-neoforge-1.21.1-21.1.20:1.0",
               "name": "Cooking for Blockheads",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1260692,
                 "MD5": "6412d9de56c4d2889d1fa658fb45b2b1f183e517",
@@ -4172,7 +4172,7 @@
             {
               "id": "cf.cosmeticarmorreworked:cosmeticarmorreworked-1.21.1-v1-neoforge:1.0",
               "name": "CosmeticArmorReworked",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 92722,
                 "MD5": "5f1e699cd0888b857ec63f01adaeb3571848bfea",
@@ -4183,7 +4183,7 @@
             {
               "id": "cf.craftingtweaks:craftingtweaks-neoforge-1.21.1-21.1.7:1.0",
               "name": "Crafting Tweaks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 255939,
                 "MD5": "54379f303f3fba8a1026e3f18e88ec4d6e042f8b",
@@ -4194,7 +4194,7 @@
             {
               "id": "cf.crashutilities:crashutilities-9.0.4:1.0",
               "name": "Crash Utilities",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 225310,
                 "MD5": "5117a448b0611f60fbe743a4a631e431dd31740e",
@@ -4205,7 +4205,7 @@
             {
               "id": "cf.ctm:CTM-1.21-1.2.1+3:1.0",
               "name": "ConnectedTexturesMod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 240791,
                 "MD5": "284232c08d3b999f05417761a3efba9b08ba20a7",
@@ -4216,7 +4216,7 @@
             {
               "id": "cf.cupboard:cupboard-1.21-3.5:1.0",
               "name": "Cupboard mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 26659,
                 "MD5": "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70",
@@ -4227,7 +4227,7 @@
             {
               "id": "cf.cyclopscore:cyclopscore-1.21.1-neoforge-1.29.0-962:1.0",
               "name": "Cyclops Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1158064,
                 "MD5": "88c8d319a362337c98a5fc810826aaa179c20463",
@@ -4238,7 +4238,7 @@
             {
               "id": "cf.deeperdarker:deeperdarker-neoforge-1.21.1-1.3.5:1.0",
               "name": "Deeper and Darker",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 17886030,
                 "MD5": "d73626e3d6623db55f37bedb9d48216b23c4fe07",
@@ -4249,7 +4249,7 @@
             {
               "id": "cf.domum_ornamentum:domum-ornamentum-1.0.233-snapshot-main:1.0",
               "name": "Domum Ornamentum",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1156594,
                 "MD5": "c5abd8bc39e8f28e3f9a2ac0b5ec149ee13404a3",
@@ -4260,7 +4260,7 @@
             {
               "id": "cf.dyenamics:dyenamics-1.21.1-3.4.2:1.0",
               "name": "Dyenamics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1198641,
                 "MD5": "dc3ef3ca37de6c287180ae81d0328f575698c107",
@@ -4271,7 +4271,7 @@
             {
               "id": "cf.dyenamicsandfriends:dyenamicsandfriends-1.21.1-2.2.2:1.0",
               "name": "Dyenamics and Friends",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 8361784,
                 "MD5": "cc43cabf3d36c33d51bc923f21f819766d3ce75d",
@@ -4282,7 +4282,7 @@
             {
               "id": "cf.dysoncubeproject:dysoncubeproject-1.0.2:1.0",
               "name": "Dyson Cube Project",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 524489,
                 "MD5": "6ab001bcad7c02178c4e04e51e8ebaeb544a779a",
@@ -4293,7 +4293,7 @@
             {
               "id": "cf.easy_villagers:easy-villagers-neoforge-1.21.1-1.1.41:1.0",
               "name": "Easy Villagers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 456649,
                 "MD5": "8dae7a6bbd066a19c8f3571e5449bb47da3ba9b0",
@@ -4304,7 +4304,7 @@
             {
               "id": "cf.enderdrives:enderdrives-neoforge-1.21.1-1.4.4:1.0",
               "name": "EnderDrives",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 317025,
                 "MD5": "910f3c970434f0def3250e77226b6e3201a3f687",
@@ -4315,7 +4315,7 @@
             {
               "id": "cf.everythingcopper:everythingcopper-1.21.1-2.4.5:1.0",
               "name": "Everything is Copper",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 620493,
                 "MD5": "b1e47814467032ed8d24f5a2ce3f466e44be9239",
@@ -4326,7 +4326,7 @@
             {
               "id": "cf.evilcraft:evilcraft-1.21.1-neoforge-1.2.84-834:1.0",
               "name": "EvilCraft",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2830818,
                 "MD5": "8768c0e1b07ae8787ba1fb2ec1557368ef7d94d2",
@@ -4337,7 +4337,7 @@
             {
               "id": "cf.extendedae:ExtendedAE-1.21-2.2.31-neoforge:1.0",
               "name": "ExtendedAE",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5551958,
                 "MD5": "8f5f84f922aec09bf77f67f525580aa61935c649",
@@ -4348,7 +4348,7 @@
             {
               "id": "cf.bigreactors:ExtremeReactors2-1.21.1-2.4.28:1.0",
               "name": "Extreme Reactors",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2554779,
                 "MD5": "b017d5d0cf5d5ab5ad5826e3e89f2d861f31d15a",
@@ -4359,7 +4359,7 @@
             {
               "id": "cf.factory_blocks:factory_blocks-neoforge-1.4.0+mc1.21.1:1.0",
               "name": "Factory Blocks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 809234,
                 "MD5": "51fa93c3b0978f4f7e3b801bea6822ec72522e50",
@@ -4370,7 +4370,7 @@
             {
               "id": "cf.farmingforblockheads:farmingforblockheads-neoforge-1.21.1-21.1.12:1.0",
               "name": "Farming for Blockheads",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 829490,
                 "MD5": "989f3c19c9a185dcffcf03f2b2b8d1d763cce2df",
@@ -4381,7 +4381,7 @@
             {
               "id": "cf.fastfurnace:FastFurnace-1.21.1-9.0.1:1.0",
               "name": "FastFurnace",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4623,
                 "MD5": "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3",
@@ -4392,7 +4392,7 @@
             {
               "id": "cf.fastsuite:FastSuite-1.21.1-6.0.7:1.0",
               "name": "Fast Suite",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 28193,
                 "MD5": "664e62684311f727f1fac18f0de28e5317874b7e",
@@ -4403,7 +4403,7 @@
             {
               "id": "cf.fastbench:FastWorkbench-1.21.1-9.1.3:1.0",
               "name": "Fast Workbench",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 28635,
                 "MD5": "7343b63ded70c0546811c768118d16d3a86418ee",
@@ -4414,7 +4414,7 @@
             {
               "id": "cf.fireproofboats:fireproofboats-1.21.1-1.0.4:1.0",
               "name": "Fireproof Boats",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 39734,
                 "MD5": "9c1990abe5bcdc9a16cbfb9a9de3b0ac35dc752b",
@@ -4425,7 +4425,7 @@
             {
               "id": "cf.flickerfix:flickerfix-1.21.1-6.1.0:1.0",
               "name": "FlickerFix",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4566,
                 "MD5": "3eadf069d9eeb7fb4e2295828a8aaefe6691d96d",
@@ -4436,7 +4436,7 @@
             {
               "id": "cf.fluxnetworks:FluxNetworks-1.21.1-8.0.0:1.0",
               "name": "Flux Networks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 535938,
                 "MD5": "183342f454428084748f2784c8efd748664a9f9c",
@@ -4447,7 +4447,7 @@
             {
               "id": "cf.framework:framework-neoforge-1.21.1-0.13.11:1.0",
               "name": "Framework",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 387334,
                 "MD5": "e46eb138fbb13a12f37154fb4ec407d64b326475",
@@ -4458,7 +4458,7 @@
             {
               "id": "cf.ftbchunks:ftb-chunks-neoforge-2101.1.14:1.0",
               "name": "FTB Chunks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 642340,
                 "MD5": "908b63b11d0e00ae6c9557d3fe6440bdbcf21bb7",
@@ -4469,7 +4469,7 @@
             {
               "id": "cf.ftbessentials:ftb-essentials-neoforge-2101.1.9:1.0",
               "name": "FTB Essentials",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 209459,
                 "MD5": "7d6f274b38d767215549ec066246390c49ac7ad8",
@@ -4480,7 +4480,7 @@
             {
               "id": "cf.ftbfiltersystem:ftb-filter-system-neoforge-21.1.4:1.0",
               "name": "FTB Filter System",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 211671,
                 "MD5": "a48e54edeacc59aaba29a1b627799c052112ee0b",
@@ -4491,7 +4491,7 @@
             {
               "id": "cf.ftbjeiextras:ftb-jei-extras-21.1.7:1.0",
               "name": "FTB Jei Extras",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 69759,
                 "MD5": "ef01126201a805991bbfe5351cff7d0a9e3a077b",
@@ -4502,7 +4502,7 @@
             {
               "id": "cf.ftblibrary:ftb-library-neoforge-2101.1.31:1.0",
               "name": "FTB Library",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1411181,
                 "MD5": "686d4e784c28c14f7760cc22b2de6a8573b56b74",
@@ -4513,7 +4513,7 @@
             {
               "id": "cf.ftbquests:ftb-quests-neoforge-2101.1.24:1.0",
               "name": "FTB Quests",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1466155,
                 "MD5": "abe5eeccbddf10ae4e40c350cdb6e95ee9e4cde1",
@@ -4524,7 +4524,7 @@
             {
               "id": "cf.ftbranks:ftb-ranks-neoforge-2101.1.3:1.0",
               "name": "FTB Ranks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 88382,
                 "MD5": "07fdfa3a75c3481770ce0118090a347d89e3a560",
@@ -4535,7 +4535,7 @@
             {
               "id": "cf.ftbteams:ftb-teams-neoforge-2101.1.10:1.0",
               "name": "FTB Teams",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 302712,
                 "MD5": "363376ae0fb22cb0527170fdf6a066d1da9b0225",
@@ -4546,7 +4546,7 @@
             {
               "id": "cf.ftbultimine:ftb-ultimine-neoforge-2101.1.13:1.0",
               "name": "FTB Ultimine",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 176935,
                 "MD5": "c6ca0360843e5dbac57f3c01aa80fba5a0518553",
@@ -4557,7 +4557,7 @@
             {
               "id": "cf.ftbxmodcompat:ftb-xmod-compat-neoforge-21.1.8:1.0",
               "name": "FTB XMod Compat",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 141328,
                 "MD5": "0c25fc1a43c99eaa68c883dc77e3ebf4539629e6",
@@ -4568,7 +4568,7 @@
             {
               "id": "cf.ftbquestslangsplitter:ftbquestslangsplitter-1.0.5:1.0",
               "name": "FTB Quests Lang Splitter",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 201142,
                 "MD5": "74652f1f845c7a31f12b50163164eba06beebbd7",
@@ -4579,7 +4579,7 @@
             {
               "id": "cf.gateways:GatewaysToEternity-1.21.1-5.1.0:1.0",
               "name": "Gateways To Eternity",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 646451,
                 "MD5": "f91a593378209f527fe81e731ca60fe8f8da2319",
@@ -4590,7 +4590,7 @@
             {
               "id": "cf.generatorgalore:generatorgalore-1.21.1-1.6.3:1.0",
               "name": "Generator Galore",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 397687,
                 "MD5": "31418972d718190c6f13d8a34f434b266af317e0",
@@ -4601,7 +4601,7 @@
             {
               "id": "cf.gmut:GravitationalModulatingAdditionalUnit-1.21.1-6.4:1.0",
               "name": "Gravitational Modulating Additional Unit",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 40188,
                 "MD5": "244d8b57aa7d34e247f3dd09cacf647a9ba1cfab",
@@ -4612,7 +4612,7 @@
             {
               "id": "cf.hardenedarmadillos:hardenedarmadillos-1.21.1-0.2.0:1.0",
               "name": "Hardened Armadillos",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 10389,
                 "MD5": "1c9a37d6fe172580af5142c66b9157d21aa6c5f7",
@@ -4623,7 +4623,7 @@
             {
               "id": "cf.hostilenetworks:HostileNeuralNetworks-1.21.1-6.3.0:1.0",
               "name": "Hostile Neural Networks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 323604,
                 "MD5": "7e026e8d78bb40bc52ff0857d25ebb5b1a05714b",
@@ -4634,7 +4634,7 @@
             {
               "id": "cf.incontrol:incontrol-1.21-10.2.6:1.0",
               "name": "InControl",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 347280,
                 "MD5": "8b25ac143e5c2392336d0f899160bdfe1ee3d1a5",
@@ -4645,7 +4645,7 @@
             {
               "id": "cf.industrialization_overdrive:industrialization_overdrive-1.11.1+1.21.1:1.0",
               "name": "Industrialization Overdrive",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 119313,
                 "MD5": "c8cceb3aff9c39375b11baf7a1628501384cfafc",
@@ -4656,7 +4656,7 @@
             {
               "id": "cf.integratedcrafting:integratedcrafting-1.21.1-neoforge-1.4.5-539:1.0",
               "name": "IntegratedCrafting",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 377547,
                 "MD5": "4399d18d03a1b5e5f5f29e31ff8e2c0e42675573",
@@ -4667,7 +4667,7 @@
             {
               "id": "cf.integrateddynamics:integrateddynamics-1.21.1-neoforge-1.32.3:1.0",
               "name": "IntegratedDynamics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4321955,
                 "MD5": "f3ea24ac77a75cac87dc8796afe9829c32ff9148",
@@ -4678,7 +4678,7 @@
             {
               "id": "cf.integratedscripting:integratedscripting-1.21.1-neoforge-1.0.21-339:1.0",
               "name": "IntegratedScripting",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 38503401,
                 "MD5": "f2ae961a3fe97b0de0830fcfebb34f30e7146bd1",
@@ -4689,7 +4689,7 @@
             {
               "id": "cf.integratedterminals:integratedterminals-1.21.1-neoforge-1.6.28:1.0",
               "name": "IntegratedTerminals",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 651373,
                 "MD5": "ba54de74b9e40630b40343c6e29625af0977c47f",
@@ -4700,7 +4700,7 @@
             {
               "id": "cf.integratedtunnels:integratedtunnels-1.21.1-neoforge-1.9.4-606:1.0",
               "name": "IntegratedTunnels",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 682625,
                 "MD5": "f7302a94bc43f3b4f15aabead27481f97aa029f0",
@@ -4711,7 +4711,7 @@
             {
               "id": "cf.invtweaks:invtweaks-1.21.1-1.3.2:1.0",
               "name": "Inventory Tweaks Refoxed",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 77127,
                 "MD5": "76969e26520ab060d51515757db25282bed71b10",
@@ -4722,7 +4722,7 @@
             {
               "id": "cf.irons_jewelry:irons_jewelry-1.21.1-1.6.1:1.0",
               "name": "Iron's Gems 'n Jewelry",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 715749,
                 "MD5": "7e606f4457c15b63a4075456a7f6283d88fcb313",
@@ -4733,7 +4733,7 @@
             {
               "id": "cf.jearchaeology:jearchaeology-1.21.1-1.2.0:1.0",
               "name": "Just Enough Archaeology",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 53509,
                 "MD5": "385e4937144b20c6cbf103945a73066f8dc1bc74",
@@ -4744,7 +4744,7 @@
             {
               "id": "cf.journeymap:journeymap-neoforge-1.21.1-6.0.0-beta.60:1.0",
               "name": "Journeymap",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3644655,
                 "MD5": "0dac47d19815ac44f49435e37ae58c7f42be7082",
@@ -4755,7 +4755,7 @@
             {
               "id": "cf.justdirethings:justdirethings-1.5.7:1.0",
               "name": "Just Dire Things",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2853190,
                 "MD5": "f0327d7d2f389020063849200a4128ac9dcb52da",
@@ -4766,7 +4766,7 @@
             {
               "id": "cf.jei_mekanism_multiblocks:JustEnoughMekanismMultiblocks-1.21.1-7.14:1.0",
               "name": "Just Enough Mekanism Multiblocks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 185202,
                 "MD5": "cd6de4970c3958c4103ae5d3efba5768b104fd6e",
@@ -4777,7 +4777,7 @@
             {
               "id": "cf.justenoughprofessions:JustEnoughProfessions-neoforge-1.21.1-4.0.4:1.0",
               "name": "Just Enough Professions (JEP)",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 24449,
                 "MD5": "e10a6b56bf838c457706be43e0ebe33745b68784",
@@ -4788,7 +4788,7 @@
             {
               "id": "cf.keybindbundles:keybindbundles-1.4.0:1.0",
               "name": "KeyBind Bundles",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 89565,
                 "MD5": "02a9c2a3faf06eb46a0ec56cc2df7302e568ce27",
@@ -4799,7 +4799,7 @@
             {
               "id": "cf.kotlinforforge-5.11.0-all:kotlinforforge-5.11.0-all:1.0",
               "name": "kotlinforforge-5.11.0-all",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 6869790,
                 "MD5": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65",
@@ -4810,7 +4810,7 @@
             {
               "id": "cf.kubejs:kubejs-neoforge-2101.7.2-build.348:1.0",
               "name": "KubeJS",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2240610,
                 "MD5": "75f96b2e4157c0efdbfd9f6271d080fb6921aaf4",
@@ -4821,7 +4821,7 @@
             {
               "id": "cf.kubejstweaks:kubejstweaks-1.0.6:1.0",
               "name": "KubeJS Tweaks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 421764,
                 "MD5": "6548ec47aa6b0498c3018cde40d9d0a203b67446",
@@ -4832,7 +4832,7 @@
             {
               "id": "cf.laserio:laserio-1.9.11:1.0",
               "name": "LaserIO",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1305285,
                 "MD5": "0545bff65926346c9663fe3c397029561a87400f",
@@ -4843,7 +4843,7 @@
             {
               "id": "cf.lionfishapi:lionfishapi-2.6:1.0",
               "name": "lionfishapi",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 92312,
                 "MD5": "3d9059ea05839e0daab926848d91ecb14ca5a4d4",
@@ -4854,7 +4854,7 @@
             {
               "id": "cf.mahoutsukai:mahoutsukai-1.21.1-v1.36.26:1.0",
               "name": "Mahou Tsukai",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5044030,
                 "MD5": "1a53f1c15bed2f9c36762cdd0420de87f675114f",
@@ -4865,7 +4865,7 @@
             {
               "id": "cf.mcjtylib:mcjtylib-1.21-9.0.20:1.0",
               "name": "McJtyLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 699963,
                 "MD5": "3a42bcacd5b886ab0ce3076b64f1177b1dcd300a",
@@ -4876,7 +4876,7 @@
             {
               "id": "cf.measurements:Measurements-neoforge-1.21.1-3.0.3:1.0",
               "name": "Measurements",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 47632,
                 "MD5": "4c415df21ffe02b6619c204b84d20dbe94b5f3b1",
@@ -4887,7 +4887,7 @@
             {
               "id": "cf.megacells:megacells-4.10.2:1.0",
               "name": "MEGA Cells",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1121004,
                 "MD5": "ae82f2784d1c620db31e651ac03259eec0a6765c",
@@ -4898,7 +4898,7 @@
             {
               "id": "cf.mekanisticrouters:mekanisticrouters-1.2.0:1.0",
               "name": "Mekanistic Routers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 248261,
                 "MD5": "a3506c0c37f92a390f021affa752cf55cc0a0b12",
@@ -4909,7 +4909,7 @@
             {
               "id": "cf.memorysettings:memorysettings-1.21-5.9:1.0",
               "name": "memorysettings mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 22328,
                 "MD5": "46358f0310ea43fb23de2f831ddba6628dcb5f94",
@@ -4920,7 +4920,7 @@
             {
               "id": "cf.merrymaking:merrymaking-1.21.1-14:1.0",
               "name": "Mama's MerryMaking",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 21961335,
                 "MD5": "388142a33e0db7f264208a1e0ddb17decc3d6968",
@@ -4931,7 +4931,7 @@
             {
               "id": "cf.minecolonies:minecolonies-1.1.1299-1.21.1-snapshot:1.0",
               "name": "MineColonies",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 77398570,
                 "MD5": "d724461b46d97ed17640833e9d997c89b33442af",
@@ -4942,7 +4942,7 @@
             {
               "id": "cf.mininggadgets:mininggadgets-1.18.6:1.0",
               "name": "Mining Gadgets",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 663946,
                 "MD5": "3c0279d46a802cbbdb7c259691ae7254fe9e8183",
@@ -4953,7 +4953,7 @@
             {
               "id": "cf.mob_grinding_utils:mob_grinding_utils-1.1.10+mc1.21.1:1.0",
               "name": "Mob Grinding Utils",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1370085,
                 "MD5": "3dffde016ec61eb3961453e7142c85d11a4f4127",
@@ -4964,7 +4964,7 @@
             {
               "id": "cf.modularbees:ModularBees-1.21.1-2.11-neoforge:1.0",
               "name": "ModularBees",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 530463,
                 "MD5": "9ae93e2abe4c31bfdfd2dff520cd51bb1b50563f",
@@ -4975,7 +4975,7 @@
             {
               "id": "cf.monocle_locator:monocle-0.2.3.ms:1.0",
               "name": "Monocle",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 567855,
                 "MD5": "13fbaf958af07b2cc48ced3ec41b5139684b2332",
@@ -4986,7 +4986,7 @@
             {
               "id": "cf.moredragoneggs:moredragoneggs-5.0:1.0",
               "name": "More Dragon Eggs",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 6389,
                 "MD5": "c9b26ad977aaa6c2d1bd1ad681edd77cf466537d",
@@ -4997,7 +4997,7 @@
             {
               "id": "cf.morered:morered-1.21.1-6.0.0.3:1.0",
               "name": "More Red",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 535669,
                 "MD5": "a69f18365301470c0fc2b07125c9ba3c10f270f6",
@@ -5008,7 +5008,7 @@
             {
               "id": "cf.moreredxcctcompat:MoreRed-CCT-Compat-1.21.1-1.3.0:1.0",
               "name": "More Red x CC:Tweaked Compat",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 7312,
                 "MD5": "534c64c86798ca691f0565bbf3fe09c9795a12df",
@@ -5019,7 +5019,7 @@
             {
               "id": "cf.multipiston:multipiston-1.2.58-1.21.1:1.0",
               "name": "Multi-Piston",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 34139,
                 "MD5": "2b63be739da24247328e4052ec91c928230d0390",
@@ -5030,7 +5030,7 @@
             {
               "id": "cf.neo_auth:NeoAuth-1.21.1-1.0.1:1.0",
               "name": "NeoAuth",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 61287,
                 "MD5": "1eeb2aad79e2d9bac1b1d793768eb0d3483358fe",
@@ -5041,7 +5041,7 @@
             {
               "id": "cf.netherportalfix:netherportalfix-neoforge-1.21.1-21.1.1:1.0",
               "name": "NetherPortalFix",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 211972,
                 "MD5": "7cf40ec774392823e709da7659a6d4a5a04c8c9d",
@@ -5052,7 +5052,7 @@
             {
               "id": "cf.not_enough_glyphs:not_enough_glyphs-1.21.1-4.2.9:1.0",
               "name": "Not Enough Glyphs",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 593310,
                 "MD5": "0dd4622a559ec362eb7139b30258a6d8a2c6bdf2",
@@ -5063,7 +5063,7 @@
             {
               "id": "cf.omegaconfig:omegaconfig-neoforge-1.5.1:1.0",
               "name": "Omega Config Architectury",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 20604,
                 "MD5": "0840af96e66e88d4322ce4bb5c11c1b05a28ea56",
@@ -5074,7 +5074,7 @@
             {
               "id": "cf.overloadedarmorbar:overloadedarmorbar-neoforge-1.21-2:1.0",
               "name": "OverloadedArmorBar",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 22307,
                 "MD5": "250b3f1a34bcaee383545761f102834475e86819",
@@ -5085,7 +5085,7 @@
             {
               "id": "cf.pamhc2crops:pamhc2crops-NEOFORGE-1.21.1-1.0.7:1.0",
               "name": "Pam's HarvestCraft - Crops",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1354111,
                 "MD5": "c93f36081f79ed6cbcd8622e53c130fb678f68b6",
@@ -5096,7 +5096,7 @@
             {
               "id": "cf.pamhc2foodcore:pamhc2foodcore-NEOFORGE-1.21.1-1.0.4:1.0",
               "name": "Pam's HarvestCraft - Food Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1699044,
                 "MD5": "dc2b5671914879d4731034668028f4d8cbcd775c",
@@ -5107,7 +5107,7 @@
             {
               "id": "cf.pamhc2trees:pamhc2trees-NEOFORGE-1.21.1-1.0.9:1.0",
               "name": "Pam's HarvestCraft - Trees",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1399642,
                 "MD5": "85d54e1d4d32f669d3f183945dc813360263ca91",
@@ -5118,7 +5118,7 @@
             {
               "id": "cf.pipez:pipez-neoforge-1.21.1-1.2.19:1.0",
               "name": "Pipez",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 446672,
                 "MD5": "760c1cd20e6e47ef86bd48ece413873cccddc972",
@@ -5129,7 +5129,7 @@
             {
               "id": "cf.placebo:Placebo-1.21.1-9.9.1:1.0",
               "name": "Placebo",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 324056,
                 "MD5": "1c2b8c38066d6f36209c5dadee25c184ef65202e",
@@ -5140,7 +5140,7 @@
             {
               "id": "cf.pocketstorage:pocketstorage-1.2.5+1.21.1-b3:1.0",
               "name": "Pocket Storage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 264788,
                 "MD5": "5240b7df92f0ec542947acf17a0bfc6b10bbe0f3",
@@ -5151,7 +5151,7 @@
             {
               "id": "cf.polylib:polylib-2100.1.0-build.183-neoforge:1.0",
               "name": "PolyLib",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1299974,
                 "MD5": "2e77cd8a795c3171d8327e6b1f1b6413565c8da1",
@@ -5162,7 +5162,7 @@
             {
               "id": "cf.potionsmaster:potionsmaster-21.1.113-1.0.1:1.0",
               "name": "PotionsMaster",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 216980,
                 "MD5": "3ccdba6e6e63f22dc67c18e309415b31846e94d6",
@@ -5173,7 +5173,7 @@
             {
               "id": "cf.productivebees:productivebees-1.21.1-13.13.3:1.0",
               "name": "Productive Bees",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 5214035,
                 "MD5": "314d87dba79c3a09ef2131d9871608b9e8cdb6e8",
@@ -5184,7 +5184,7 @@
             {
               "id": "cf.productivemetalworks:productivemetalworks-1.21.1-1.15.0:1.0",
               "name": "Productive Metalworks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3042019,
                 "MD5": "994781120d75e17c21851d1d3c5a2789a006eb49",
@@ -5195,7 +5195,7 @@
             {
               "id": "cf.productivetrees:productivetrees-1.21.1-0.8.1:1.0",
               "name": "Productive Trees",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 13534494,
                 "MD5": "35e6e55dac1f1497068a71346c74aa3cfa0204a6",
@@ -5206,7 +5206,7 @@
             {
               "id": "cf.rangedpumps:rangedpumps-1.3.0:1.0",
               "name": "Ranged Pumps",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 25483,
                 "MD5": "b2430e501d0c03d0464ec351e3e839cb2a56a06a",
@@ -5217,7 +5217,7 @@
             {
               "id": "cf.reap:reap-neoforge-1.21.1-1.1.2:1.0",
               "name": "Reap Mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 140551,
                 "MD5": "c57c3bcfdaf55e4719cc785b72631a794e5381fc",
@@ -5228,7 +5228,7 @@
             {
               "id": "cf.refinedstorage_curios_integration:refinedstorage-curios-integration-1.0.0:1.0",
               "name": "Refined Storage - Curios Integration",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 11177,
                 "MD5": "410fcfeb37917eca553ef4db6ba3c5a239161268",
@@ -5239,7 +5239,7 @@
             {
               "id": "cf.refinedstorage_jei_integration:refinedstorage-jei-integration-neoforge-1.0.0:1.0",
               "name": "Refined Storage - JEI Integration",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 58343,
                 "MD5": "c9c7f27cd0a7d33eefd56edfad2a033898af9e3d",
@@ -5250,7 +5250,7 @@
             {
               "id": "cf.refinedstorage_mekanism_integration:refinedstorage-mekanism-integration-1.1.1:1.0",
               "name": "Refined Storage - Mekanism Integration",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 160633,
                 "MD5": "06f908491b37b4df924376d3cf6524cdd58f507c",
@@ -5261,7 +5261,7 @@
             {
               "id": "cf.refinedstorage:refinedstorage-neoforge-2.0.1:1.0",
               "name": "Refined Storage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 4506772,
                 "MD5": "4a7f181268affbb93dedc9c863653af8860ae84a",
@@ -5272,7 +5272,7 @@
             {
               "id": "cf.refinedstorage_quartz_arsenal:refinedstorage-quartz-arsenal-neoforge-1.0.6:1.0",
               "name": "Refined Storage - Quartz Arsenal",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 66882,
                 "MD5": "c57ad724432171156c38682c4ba0882f1a7e63df",
@@ -5283,7 +5283,7 @@
             {
               "id": "cf.refurbished_furniture:refurbished_furniture-neoforge-1.21.1-1.0.22:1.0",
               "name": "MrCrayfish's Furniture Mod: Refurbished",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 7133477,
                 "MD5": "6c209e6b755ff26218efd55aedf2dea49183d29b",
@@ -5294,7 +5294,7 @@
             {
               "id": "cf.reliquary:reliquary-1.21.1-2.0.66.1363:1.0",
               "name": "Reliquary Reincarnations",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2214551,
                 "MD5": "7ed5611cd15685d30bc9c54a56636cda24998736",
@@ -5305,7 +5305,7 @@
             {
               "id": "cf.restrictions:restrictions-1.21-7.0.3:1.0",
               "name": "Restrictions",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 45018,
                 "MD5": "168de074e62aee003f2eac2c15c42b896e1f589d",
@@ -5316,7 +5316,7 @@
             {
               "id": "cf.rftoolsbase:rftoolsbase-1.21-6.0.10:1.0",
               "name": "RFToolsBase",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 463720,
                 "MD5": "5c801c592a97ad7a4a0c33f186881d719eb06b9c",
@@ -5327,7 +5327,7 @@
             {
               "id": "cf.rftoolsbuilder:rftoolsbuilder-1.21-7.0.4:1.0",
               "name": "RFToolsBuilder",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 920495,
                 "MD5": "91e5121ce193b3df2203a0b3fecd1c272e4a28f1",
@@ -5338,7 +5338,7 @@
             {
               "id": "cf.rftoolspower:rftoolspower-1.21-7.0.5:1.0",
               "name": "RFToolsPower",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 579946,
                 "MD5": "93569f85bc24e70284ce03ee48646550c4a17fdc",
@@ -5349,7 +5349,7 @@
             {
               "id": "cf.rftoolsstorage:rftoolsstorage-1.21-6.0.4:1.0",
               "name": "RFToolsStorage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 396201,
                 "MD5": "2ba2a45383876c373ee475f634fcde9f22b5dc58",
@@ -5360,7 +5360,7 @@
             {
               "id": "cf.rftoolsutility:rftoolsutility-1.21-7.0.11:1.0",
               "name": "RFToolsUtility",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1430392,
                 "MD5": "c3a619f70429e2c0849b6f9cf8cb76cc152efea3",
@@ -5371,7 +5371,7 @@
             {
               "id": "cf.rhino:rhino-2101.2.7-build.81:1.0",
               "name": "Rhino",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 882032,
                 "MD5": "5dcc80079095706645d567353095297948a41eea",
@@ -5382,7 +5382,7 @@
             {
               "id": "cf.rootsclassic:RootsClassic-1.21.1-1.5.7:1.0",
               "name": "Roots Classic",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 635779,
                 "MD5": "6a2168702a4b77f58ffb3c42822f1385a0ec6635",
@@ -5393,7 +5393,7 @@
             {
               "id": "cf.sgearmetalworks:sgearmetalworks-1.21.1-1.4.6:1.0",
               "name": "Silent Gear Metalworks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 624587,
                 "MD5": "1951c74de72370cc3fc69f9bbb5248562a855d7b",
@@ -5404,7 +5404,7 @@
             {
               "id": "cf.shiny:shiny-1.21.1-1.2.5:1.0",
               "name": "Shiny!",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 961576,
                 "MD5": "cb5572e9f23795065e45883accf10c82b42d70b8",
@@ -5415,7 +5415,7 @@
             {
               "id": "cf.shrink:shrink-2.0.1.47-neoforge:1.0",
               "name": "Shrink",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 46062,
                 "MD5": "17407b525c0c70a0f6f03a08024a14058f645d01",
@@ -5426,7 +5426,7 @@
             {
               "id": "cf.simplylight:simplylight-1.5.3+1.21.1-b4:1.0",
               "name": "Simply Light",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1103352,
                 "MD5": "d85bfed3824cb66d258acf11c73edaf11d583223",
@@ -5437,7 +5437,7 @@
             {
               "id": "cf.solcarrot:solcarrot-1.21.1-1.16.6:1.0",
               "name": "Spice of Life: Carrot Edition",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 105355,
                 "MD5": "32e9bbe18ae1f2f7f672ce08af51ec1928599182",
@@ -5448,7 +5448,7 @@
             {
               "id": "cf.sophisticatedbackpacks:sophisticatedbackpacks-1.21.1-3.25.37.1646:1.0",
               "name": "Sophisticated Backpacks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1018662,
                 "MD5": "94b6244681c7666553d14bda679a452d04dfc480",
@@ -5459,7 +5459,7 @@
             {
               "id": "cf.sophisticatedbackpackscreateintegration:sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29:1.0",
               "name": "Sophisticated Backpacks Create Integration",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 82316,
                 "MD5": "51851c61e8be5b799b5ad8aa109b3416509605b7",
@@ -5470,7 +5470,7 @@
             {
               "id": "cf.sophisticatedcore:sophisticatedcore-1.21.1-1.4.20.1646:1.0",
               "name": "Sophisticated Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1472335,
                 "MD5": "eddc7862ce5f39a55425e96fd0dd00c27796195d",
@@ -5481,7 +5481,7 @@
             {
               "id": "cf.sophisticatedstorage:sophisticatedstorage-1.21.1-1.5.35.1599:1.0",
               "name": "Sophisticated Storage",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1659741,
                 "MD5": "865d3cb076849ba874717c19ab26ba3849ffd7fd",
@@ -5492,7 +5492,7 @@
             {
               "id": "cf.sophisticatedstoragecreateintegration:sophisticatedstoragecreateintegration-1.21.1-0.1.14.98:1.0",
               "name": "Sophisticated Storage Create Integration",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 131980,
                 "MD5": "3e69dd73c8a9e3bc0e38242cbd3ffe0e75887837",
@@ -5503,7 +5503,7 @@
             {
               "id": "cf.sophisticatedstorageinmotion:sophisticatedstorageinmotion-1.21.1-0.10.27.208:1.0",
               "name": "Sophisticated Storage In Motion",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 393442,
                 "MD5": "5a25f3f0361578bc5829a8467551a95f51bf8810",
@@ -5514,7 +5514,7 @@
             {
               "id": "cf.soulplied_energistics:soulplied_energistics-1.0.2:1.0",
               "name": "Soulplied Energistics",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 25097,
                 "MD5": "526f45d5f110d23932d88ac12bf979f5c2f569b6",
@@ -5525,7 +5525,7 @@
             {
               "id": "cf.starbunclemania:starbunclemania-1.21.1-1.5.6:1.0",
               "name": "Starbunclemania",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 690200,
                 "MD5": "9e1c635c3d2ea1fd014368adc704f49a3f004e3f",
@@ -5536,7 +5536,7 @@
             {
               "id": "cf.stevescarts:stevescarts-1.21-1.2.18-neoforge:1.0",
               "name": "StevesCarts2",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2133617,
                 "MD5": "c613e2a17f012fd735ca72e8c726c5b9f108fb09",
@@ -5547,7 +5547,7 @@
             {
               "id": "cf.structurize:structurize-1.0.820-1.21.1-snapshot:1.0",
               "name": "Structurize",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1060892,
                 "MD5": "f55a66b57179b4c8a5ef7ebad6cfc2761a737923",
@@ -5558,7 +5558,7 @@
             {
               "id": "cf.stylecolonies:stylecolonies-1.15.51-1.21.1:1.0",
               "name": "Stylecolonies",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 31220431,
                 "MD5": "9928075c2ab0069118e75bbecd828a8105cbea98",
@@ -5569,7 +5569,7 @@
             {
               "id": "cf.sussysniffers:sussysniffers-1.21.1-0.1.3:1.0",
               "name": "Sussy Sniffers",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 95574,
                 "MD5": "c7c838abeb62f6dc6b1c22336f2a96c592bc5948",
@@ -5580,7 +5580,7 @@
             {
               "id": "cf.terrablender:TerraBlender-neoforge-1.21.1-4.1.0.8:1.0",
               "name": "TerraBlender",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 120364,
                 "MD5": "2016eed89eac0eb0510d2190c3b0b80bf4346191",
@@ -5591,7 +5591,7 @@
             {
               "id": "cf.toastcontrol:ToastControl-1.21.1-9.0.1:1.0",
               "name": "Toast Control",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 21079,
                 "MD5": "33477c2db0479c9be33d1ca3b2fa47cf6c97988c",
@@ -5602,7 +5602,7 @@
             {
               "id": "cf.tombstone:tombstone-neoforge-1.21.1-9.4.8:1.0",
               "name": "Corail Tombstone",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 2304453,
                 "MD5": "759633541e96254f4dd73ac1af936d9df2328b76",
@@ -5613,7 +5613,7 @@
             {
               "id": "cf.toolbelt:ToolBelt-1.21.1-2.2.7:1.0",
               "name": "Tool Belt",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 216604,
                 "MD5": "2833f695e72ec425de3cf30e6262680009462a1a",
@@ -5624,7 +5624,7 @@
             {
               "id": "cf.towntalk:towntalk-1.2.0:1.0",
               "name": "Towntalk",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 52301863,
                 "MD5": "6866d898938bdde1a17fadee16983c0c6071eac6",
@@ -5635,7 +5635,7 @@
             {
               "id": "cf.trashslot:trashslot-neoforge-1.21.1-21.1.8:1.0",
               "name": "TrashSlot",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 123953,
                 "MD5": "ba534887309f6ff9edd8985edd51972513aa9cf6",
@@ -5646,7 +5646,7 @@
             {
               "id": "cf.treetap:treetap-1.21.1-0.4.5:1.0",
               "name": "Tree Tap",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 79670,
                 "MD5": "b5bc7fc323fad9a9d1161f7e785c006e7e67c202",
@@ -5657,7 +5657,7 @@
             {
               "id": "cf.trophymanager:trophymanager-1.21.1-2.4.3:1.0",
               "name": "Jonn's Trophies",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 82529,
                 "MD5": "ca168a84f903074d2feb5606fce22d630de67223",
@@ -5668,7 +5668,7 @@
             {
               "id": "cf.twilightforest:twilightforest-1.21.1-4.8.3345-universal:1.0",
               "name": "The Twilight Forest",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 27154121,
                 "MD5": "9cfd4154928433e2f1f6cfc3deb48c284debb580",
@@ -5679,7 +5679,7 @@
             {
               "id": "cf.underground_villages:UndergroundVillages-neoforge-1.21.1-4.0.3:1.0",
               "name": "Underground Villages Mod",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 282058,
                 "MD5": "7eb055cfadf940882aac57dcc4a7162774a53a95",
@@ -5690,7 +5690,7 @@
             {
               "id": "cf.utilitarian:utilitarian-1.21.1-0.19.0:1.0",
               "name": "Utilitarian",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 621666,
                 "MD5": "184ee8b6efc3c64fe60ee2b09b1b6cb53aa13444",
@@ -5701,7 +5701,7 @@
             {
               "id": "cf.utilityvest:utilityvest-1.2.6:1.0",
               "name": "Utility vest",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 214312,
                 "MD5": "ca7237fdf876343117561d745ac10de534f35a42",
@@ -5712,7 +5712,7 @@
             {
               "id": "cf.valhelsia_core:valhelsia_core-neoforge-1.21.1-1.1.5:1.0",
               "name": "Valhelsia Core",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 181277,
                 "MD5": "e7498e89bd7347c6d0f4411f55bd312490dfe814",
@@ -5723,7 +5723,7 @@
             {
               "id": "cf.waystones:waystones-neoforge-1.21.1-21.1.29:1.0",
               "name": "Waystones",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 876329,
                 "MD5": "40f15e97d79e01ce65fe2fe752bef43689b32bff",
@@ -5734,7 +5734,7 @@
             {
               "id": "cf.wstweaks:WitherSkeletonTweaks-1.21.1-10.1.1:1.0",
               "name": "Wither Skeleton Tweaks",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 21929,
                 "MD5": "eda07efc2f5e47492abe205295b182c219c6199f",
@@ -5745,7 +5745,7 @@
             {
               "id": "cf.xnet:xnet-1.21-7.0.6:1.0",
               "name": "XNet",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 609288,
                 "MD5": "a4f91c5652955bdf60a0c377448a275eeccdb841",
@@ -5756,7 +5756,7 @@
             {
               "id": "cf.xtonesreworked:xtonesreworked-1.1.1-1.21.1:1.0",
               "name": "XTones Reworked",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1276690,
                 "MD5": "2daa001d39b43ba379991b944e022ab365c74cfd",
@@ -5767,7 +5767,7 @@
             {
               "id": "cf.xycraft_machines:xycraft_machines-0.7.53:1.0",
               "name": "XyCraft Machines",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 3056398,
                 "MD5": "db40db00830c67a33ac48c1dd9617f67069b22b4",
@@ -5778,7 +5778,7 @@
             {
               "id": "cf.xycraft_override:xycraft_override-0.7.53:1.0",
               "name": "XyCraft Override",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 905075,
                 "MD5": "0fe04397966d3a6a04fd65b6d55a8e6b5623b7be",
@@ -5789,7 +5789,7 @@
             {
               "id": "cf.xycraft_world:xycraft_world-0.7.53:1.0",
               "name": "XyCraft World",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1224337,
                 "MD5": "100aed4d7cc9f10aa21f3571d9c367a4bd44cf6f",
@@ -5800,7 +5800,7 @@
             {
               "id": "cf.zerocore:ZeroCore2-1.21.1-2.4.21:1.0",
               "name": "Zero CORE 2",
-              "type": "Mod",
+              "type": "ForgeMod",
               "artifact": {
                 "size": 1551013,
                 "MD5": "7df2558f45c3e41bebe86a5ee2b28d56007bdbda",
