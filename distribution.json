@@ -46,6 +46,16 @@
               }
             },
             {
+              "id": "net.neoforged:neoforge:21.1.224:client",
+              "name": "NeoForge Client",
+              "type": "Library",
+              "artifact": {
+                "size": 5670516,
+                "MD5": "722bab27b649e6dab69099849cfa379d",
+                "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/neoforge-21.1.224-client.jar"
+              }
+            },
+            {
               "id": "net.minecraft:client:1.21.1-20240808.144430:neoforge-merged",
               "name": "Minecraft Client NeoForge Merged",
               "type": "Library",
