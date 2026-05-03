@@ -30,8 +30,8 @@
               "name": "NeoForge Version Manifest",
               "type": "VersionManifest",
               "artifact": {
-                "size": 21148,
-                "MD5": "92924b3c15ed3ca5d4abc8c0241b2de4",
+                "size": 21151,
+                "MD5": "726ec310087073afe6c91d339bba9f21",
                 "url": "https://github.com/Nauahh/BranlyCraft-Distribution/releases/download/v2.0.0/neoforge-21.1.224.json"
               }
             },
