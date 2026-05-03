@@ -5851,6 +5851,17 @@
           ]
         },
         {
+          "id": "atm10-memorysettings-config",
+          "name": "Memory Settings Config",
+          "type": "File",
+          "artifact": {
+            "size": 1741,
+            "MD5": "c47857af8b241d72b3b41830275fced2",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/configs/memorysettings.json",
+            "path": "config/memorysettings.json"
+          }
+        },
+        {
           "id": "cf.400933.7256148",
           "name": "Macaw's Trapdoors",
           "type": "File",
