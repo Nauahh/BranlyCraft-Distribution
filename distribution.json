@@ -16962,6 +16962,446 @@
             "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/kubejs/startup_scripts/Xycraft/Compatibility.js",
             "path": "kubejs/startup_scripts/Xycraft/Compatibility.js"
           }
+        },
+        {
+          "id": "config/mysticalcustomization/configure-augments.json",
+          "name": "configure-augments.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "md5": "99914b932bd37a50b983c5e7c90ae93b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/configure-augments.json",
+            "path": "config/mysticalcustomization/configure-augments.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/configure-crops.json",
+          "name": "configure-crops.json",
+          "type": "File",
+          "artifact": {
+            "size": 114,
+            "md5": "9958f340b7d682fe2e72c58e589b7ef6",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/configure-crops.json",
+            "path": "config/mysticalcustomization/configure-crops.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/configure-mobsoultypes.json",
+          "name": "configure-mobsoultypes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1018,
+            "md5": "54355f826af7bbc5a624d18ba383f9fc",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/configure-mobsoultypes.json",
+            "path": "config/mysticalcustomization/configure-mobsoultypes.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/configure-tiers.json",
+          "name": "configure-tiers.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "md5": "99914b932bd37a50b983c5e7c90ae93b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/configure-tiers.json",
+            "path": "config/mysticalcustomization/configure-tiers.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/configure-types.json",
+          "name": "configure-types.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "md5": "99914b932bd37a50b983c5e7c90ae93b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/configure-types.json",
+            "path": "config/mysticalcustomization/configure-types.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/allthemodium.json",
+          "name": "allthemodium.json",
+          "type": "File",
+          "artifact": {
+            "size": 366,
+            "md5": "b1bb97696200bc6153573ff10933f7d3",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/allthemodium.json",
+            "path": "config/mysticalcustomization/crops/allthemodium.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/azure_silver.json",
+          "name": "azure_silver.json",
+          "type": "File",
+          "artifact": {
+            "size": 341,
+            "md5": "c49fdfab0fd748a697c3f8ea12c007f9",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/azure_silver.json",
+            "path": "config/mysticalcustomization/crops/azure_silver.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/black_quartz.json",
+          "name": "black_quartz.json",
+          "type": "File",
+          "artifact": {
+            "size": 315,
+            "md5": "6c4ddb3061d7ea1cb0eda5452553afc3",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/black_quartz.json",
+            "path": "config/mysticalcustomization/crops/black_quartz.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/crimson_iron.json",
+          "name": "crimson_iron.json",
+          "type": "File",
+          "artifact": {
+            "size": 341,
+            "md5": "2d14bfd86d54d639e17caa70ebf6a709",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/crimson_iron.json",
+            "path": "config/mysticalcustomization/crops/crimson_iron.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/darkstone.json",
+          "name": "darkstone.json",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "md5": "6cd1ee6b1add04b82bed50e14389a75a",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/darkstone.json",
+            "path": "config/mysticalcustomization/crops/darkstone.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/entro.json",
+          "name": "entro.json",
+          "type": "File",
+          "artifact": {
+            "size": 356,
+            "md5": "19de5aa274275a1f8652127fde9b7f9b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/entro.json",
+            "path": "config/mysticalcustomization/crops/entro.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/kivi.json",
+          "name": "kivi.json",
+          "type": "File",
+          "artifact": {
+            "size": 308,
+            "md5": "898b69c352591d349cbee60d11952d3b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/kivi.json",
+            "path": "config/mysticalcustomization/crops/kivi.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/sky_steel.json",
+          "name": "sky_steel.json",
+          "type": "File",
+          "artifact": {
+            "size": 329,
+            "md5": "5805c0dae6185da29df81db7bf2d5807",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/sky_steel.json",
+            "path": "config/mysticalcustomization/crops/sky_steel.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/unexplored_wood.json",
+          "name": "unexplored_wood.json",
+          "type": "File",
+          "artifact": {
+            "size": 321,
+            "md5": "59537d165dd39d48d5b99bac637feac7",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/unexplored_wood.json",
+            "path": "config/mysticalcustomization/crops/unexplored_wood.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/unobtainium.json",
+          "name": "unobtainium.json",
+          "type": "File",
+          "artifact": {
+            "size": 390,
+            "md5": "fd50964843e86daa9ea87ba01cdafb41",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/unobtainium.json",
+            "path": "config/mysticalcustomization/crops/unobtainium.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/vibranium.json",
+          "name": "vibranium.json",
+          "type": "File",
+          "artifact": {
+            "size": 386,
+            "md5": "0edbaef436f83b4b6f8ec0d3a4aacc15",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/vibranium.json",
+            "path": "config/mysticalcustomization/crops/vibranium.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/crops/xychorium_gem.json",
+          "name": "xychorium_gem.json",
+          "type": "File",
+          "artifact": {
+            "size": 370,
+            "md5": "8b29be218f59c4d7e2e14336eee87e4d",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/crops/xychorium_gem.json",
+            "path": "config/mysticalcustomization/crops/xychorium_gem.json"
+          }
+        },
+        {
+          "id": "config/mysticalcustomization/tiers/magical.json",
+          "name": "magical.json",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "md5": "5d9905f60bc2cbc87dc50708ba7e3186",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/mysticalcustomization/tiers/magical.json",
+            "path": "config/mysticalcustomization/tiers/magical.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/allthemodium.json",
+          "name": "allthemodium.json",
+          "type": "File",
+          "artifact": {
+            "size": 182,
+            "md5": "6e07321fe11b85ee9267c38e09c81d78",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/allthemodium.json",
+            "path": "config/potionsmaster/allthemodium.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/aluminum.json",
+          "name": "aluminum.json",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "md5": "ff19b2ae2f11fb9b6a13f4843aa37c96",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/aluminum.json",
+            "path": "config/potionsmaster/aluminum.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/coal.json",
+          "name": "coal.json",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "md5": "1ecbd318d4427854c3a948d3b44376a3",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/coal.json",
+            "path": "config/potionsmaster/coal.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/copper.json",
+          "name": "copper.json",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "md5": "99786f2aa42c2795152df9f500544508",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/copper.json",
+            "path": "config/potionsmaster/copper.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/diamond.json",
+          "name": "diamond.json",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "md5": "6b400c6bc72b4ad8ac742d8693730a04",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/diamond.json",
+            "path": "config/potionsmaster/diamond.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/emerald.json",
+          "name": "emerald.json",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "md5": "cfe0b958148e87ed86448ae98c6e6e2a",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/emerald.json",
+            "path": "config/potionsmaster/emerald.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/gold.json",
+          "name": "gold.json",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "md5": "397de906783aa58823235bbf7570664b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/gold.json",
+            "path": "config/potionsmaster/gold.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/iron.json",
+          "name": "iron.json",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "md5": "37b7fb92102ecbbca5f34f3265f7ceb8",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/iron.json",
+            "path": "config/potionsmaster/iron.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/lapis.json",
+          "name": "lapis.json",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "md5": "2484677a7fb4b0e36ce4d5dd8efa296c",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/lapis.json",
+            "path": "config/potionsmaster/lapis.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/lead.json",
+          "name": "lead.json",
+          "type": "File",
+          "artifact": {
+            "size": 158,
+            "md5": "d841fd221a633b63332241031dc853b7",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/lead.json",
+            "path": "config/potionsmaster/lead.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/netherite.json",
+          "name": "netherite.json",
+          "type": "File",
+          "artifact": {
+            "size": 184,
+            "md5": "e0bcfc754bdd348453528e0ff49837ae",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/netherite.json",
+            "path": "config/potionsmaster/netherite.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/nickel.json",
+          "name": "nickel.json",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "md5": "005084112bd0c7c9d167a593c73881cf",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/nickel.json",
+            "path": "config/potionsmaster/nickel.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/osmium.json",
+          "name": "osmium.json",
+          "type": "File",
+          "artifact": {
+            "size": 165,
+            "md5": "85a8164202a2fb4af4cbf64de6ba263b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/osmium.json",
+            "path": "config/potionsmaster/osmium.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/platinum.json",
+          "name": "platinum.json",
+          "type": "File",
+          "artifact": {
+            "size": 170,
+            "md5": "55d09c7623f8beb3ddb21e705113ba04",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/platinum.json",
+            "path": "config/potionsmaster/platinum.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/quartz.json",
+          "name": "quartz.json",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "md5": "6fc590c223a1e9953731360dcf91305c",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/quartz.json",
+            "path": "config/potionsmaster/quartz.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/redstone.json",
+          "name": "redstone.json",
+          "type": "File",
+          "artifact": {
+            "size": 163,
+            "md5": "0b506e24ebf1879fdd1e33944effb560",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/redstone.json",
+            "path": "config/potionsmaster/redstone.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/silver.json",
+          "name": "silver.json",
+          "type": "File",
+          "artifact": {
+            "size": 164,
+            "md5": "ed8594b8ad4c85b1eb5d69a01872c266",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/silver.json",
+            "path": "config/potionsmaster/silver.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/tin.json",
+          "name": "tin.json",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "md5": "b370f3765e7e8ddaa8a88a632e0d09c6",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/tin.json",
+            "path": "config/potionsmaster/tin.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/unobtainium.json",
+          "name": "unobtainium.json",
+          "type": "File",
+          "artifact": {
+            "size": 181,
+            "md5": "422eb7e53301cb2c5fca7bf740b5ba06",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/unobtainium.json",
+            "path": "config/potionsmaster/unobtainium.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/uranium.json",
+          "name": "uranium.json",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "md5": "dcb7ff91af5a0350dcdaffceb83aeb72",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/uranium.json",
+            "path": "config/potionsmaster/uranium.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/vibranium.json",
+          "name": "vibranium.json",
+          "type": "File",
+          "artifact": {
+            "size": 176,
+            "md5": "4ff81582963787fb396d4c0a8ff92804",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/vibranium.json",
+            "path": "config/potionsmaster/vibranium.json"
+          }
+        },
+        {
+          "id": "config/potionsmaster/zinc.json",
+          "name": "zinc.json",
+          "type": "File",
+          "artifact": {
+            "size": 158,
+            "md5": "42084116b75cf6f6c899eb04d181816b",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/zinc.json",
+            "path": "config/potionsmaster/zinc.json"
+          }
         }
       ]
     }
