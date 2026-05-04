@@ -3,7 +3,11 @@
   "discord": {
     "clientId": "1500763173848875008",
     "guildId": "1440756809236222034",
-    "botExclusions": ["InviteLogger", "Pancake", "YAGPDB.xyz"],
+    "botExclusions": [
+      "InviteLogger",
+      "Pancake",
+      "YAGPDB.xyz"
+    ],
     "smallImageKey": "branlycraft_icon",
     "smallImageText": "BranlyCraft Launcher"
   },
@@ -1126,17 +1130,6 @@
                 "MD5": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515",
                 "hashAlgo": "sha1",
                 "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar"
-              }
-            },
-            {
-              "id": "modrinth.computercraft:cc-tweaked-1.21.1-forge-1.113.1:1.0",
-              "name": "CC: Tweaked",
-              "type": "ForgeMod",
-              "artifact": {
-                "size": 3094722,
-                "MD5": "cc857f01404a0b57bb1246e79dea9f66b96bfa76",
-                "hashAlgo": "sha1",
-                "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/CRVodEhR/cc-tweaked-1.21.1-forge-1.113.1.jar"
               }
             },
             {
@@ -10654,17 +10647,6 @@
             "MD5": "f68322025b603faaaaa5a1b3c52dc2ae",
             "url": "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar",
             "path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
-          }
-        },
-        {
-          "id": "cf.282001.5714512",
-          "name": "CC: Tweaked",
-          "type": "File",
-          "artifact": {
-            "size": 3094722,
-            "MD5": "c7fdb2f371dc491baba7abccffc004d6",
-            "url": "https://edge.forgecdn.net/files/5714/512/cc-tweaked-1.21.1-forge-1.113.1.jar",
-            "path": "mods/cc-tweaked-1.21.1-forge-1.113.1.jar"
           }
         },
         {
