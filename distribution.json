@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "discord": {
     "clientId": "1500763173848875008",
+    "guildId": "VOTRE_GUILD_ID_DISCORD",
     "smallImageKey": "branlycraft_icon",
     "smallImageText": "BranlyCraft Launcher"
   },
