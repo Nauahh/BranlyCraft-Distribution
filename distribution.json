@@ -3,6 +3,7 @@
   "discord": {
     "clientId": "1500763173848875008",
     "guildId": "1440756809236222034",
+    "botExclusions": ["InviteLogger", "Pancake", "YAGPDB.xyz"],
     "smallImageKey": "branlycraft_icon",
     "smallImageText": "BranlyCraft Launcher"
   },
