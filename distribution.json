@@ -11,16 +11,16 @@
   "servers": [
     {
       "id": "atm10-main",
-      "name": "All The Mods 10",
-      "description": "All The Mods 10 - v6.6 | NeoForge 21.1.224 | MC 1.21.1",
+      "name": "BranlyCraft Saison 2",
+      "description": "BranlyCraft Saison 2 | NeoForge 21.1.224 | MC 1.21.1",
       "icon": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/icon.png",
       "version": "6.6",
       "address": "game2.verycloud.fr:25567",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "BranlyCraft",
-        "largeImageKey": "atm10_logo",
-        "largeImageText": "All The Mods 10 v6.6"
+        "largeImageKey": "branlycraft_logo",
+        "largeImageText": "BranlyCraft Saison 2"
       },
       "mainServer": true,
       "autoconnect": false,
