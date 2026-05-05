@@ -5865,6 +5865,17 @@
           }
         },
         {
+          "id": "branlycraft.config.fml",
+          "name": "FML Config (maxThreads=1)",
+          "type": "File",
+          "artifact": {
+            "size": 1550,
+            "MD5": "cb4798ac33a841eaa886df7719b079f0",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/fml.toml",
+            "path": "config/fml.toml"
+          }
+        },
+        {
           "id": "cf.400933.7256148",
           "name": "Macaw's Trapdoors",
           "type": "File",
