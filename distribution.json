@@ -17369,6 +17369,28 @@
             "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/zinc.json",
             "path": "config/potionsmaster/zinc.json"
           }
+        },
+        {
+          "id": "cf.367706.7256741",
+          "name": "FancyMenu",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "MD5": "",
+            "url": "https://edge.forgecdn.net/files/7256/741/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+            "path": "mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar"
+          }
+        },
+        {
+          "id": "cf.410295.5453385",
+          "name": "Konkrete",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "MD5": "",
+            "url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+          }
         }
       ]
     }
