@@ -10848,17 +10848,6 @@
           }
         },
         {
-          "id": "cf.511770.7248439",
-          "name": "Drippy Loading Screen",
-          "type": "File",
-          "artifact": {
-            "size": 172759,
-            "MD5": "b0f9d9bd40b48aedf92c4d7f2aaf60bb",
-            "url": "https://edge.forgecdn.net/files/7248/439/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
-            "path": "mods/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
-          }
-        },
-        {
           "id": "cf.416935.6296775",
           "name": "Valhelsia Core",
           "type": "File",
@@ -17368,6 +17357,17 @@
             "md5": "42084116b75cf6f6c899eb04d181816b",
             "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/potionsmaster/zinc.json",
             "path": "config/potionsmaster/zinc.json"
+          }
+        },
+        {
+          "id": "cf.410295.5453385",
+          "name": "Konkrete",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "MD5": "",
+            "url": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
           }
         }
       ]
