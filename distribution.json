@@ -14830,6 +14830,17 @@
           }
         },
         {
+          "id": "kubejs/server_scripts/branlycraft/welcome.js",
+          "name": "welcome.js",
+          "type": "File",
+          "artifact": {
+            "size": 1581,
+            "md5": "286e15b4dcc82b1fc9ab3db9d6cb2a75",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/kubejs/server_scripts/branlycraft/welcome.js",
+            "path": "kubejs/server_scripts/branlycraft/welcome.js"
+          }
+        },
+        {
           "id": "kubejs/server_scripts/debug/freeze_server.js",
           "name": "freeze_server.js",
           "type": "File",
