@@ -5854,6 +5854,17 @@
           }
         },
         {
+          "id": "branlycraft.config.bcc",
+          "name": "BCC Config (BranlyCraft Saison 2)",
+          "type": "File",
+          "artifact": {
+            "size": 394,
+            "md5": "6d2d7a1afa72451dbf8ff1a4e4d80c0e",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/config/bcc-common.toml",
+            "path": "config/bcc-common.toml"
+          }
+        },
+        {
           "id": "branlycraft.config.fml",
           "name": "FML Config (maxThreads=1)",
           "type": "File",
