@@ -14830,6 +14830,17 @@
           }
         },
         {
+          "id": "kubejs/server_scripts/branlycraft/restart_warning.js",
+          "name": "restart_warning.js",
+          "type": "File",
+          "artifact": {
+            "size": 1350,
+            "md5": "placeholder",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/kubejs/server_scripts/branlycraft/restart_warning.js",
+            "path": "kubejs/server_scripts/branlycraft/restart_warning.js"
+          }
+        },
+        {
           "id": "kubejs/server_scripts/debug/freeze_server.js",
           "name": "freeze_server.js",
           "type": "File",
