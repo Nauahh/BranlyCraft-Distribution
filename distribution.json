@@ -968,17 +968,6 @@
               }
             },
             {
-              "id": "modrinth.bcc:better-compatability-checker-neoforge-21.1.8:1.0",
-              "name": "Better Compatibility Checker",
-              "type": "ForgeMod",
-              "artifact": {
-                "size": 25085,
-                "MD5": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb",
-                "hashAlgo": "sha1",
-                "url": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/NYkU1ldY/better-compatability-checker-neoforge-21.1.8.jar"
-              }
-            },
-            {
               "id": "modrinth.betteradvancements:BetterAdvancements-NeoForge-1.21.1-0.4.3.21:1.0",
               "name": "Better Advancements",
               "type": "ForgeMod",
@@ -9954,17 +9943,6 @@
             "MD5": "31bdbfd2deae581660410235f56b38c9",
             "url": "https://edge.forgecdn.net/files/7884/176/minecolonies-1.1.1299-1.21.1-snapshot.jar",
             "path": "mods/minecolonies-1.1.1299-1.21.1-snapshot.jar"
-          }
-        },
-        {
-          "id": "cf.551894.7404415",
-          "name": "Better Compatibility Checker",
-          "type": "File",
-          "artifact": {
-            "size": 25085,
-            "MD5": "0976995753b9426ecb11d189bfe9714d",
-            "url": "https://edge.forgecdn.net/files/7404/415/better-compatability-checker-neoforge-21.1.8.jar",
-            "path": "mods/better-compatability-checker-neoforge-21.1.8.jar"
           }
         },
         {
