@@ -605,6 +605,17 @@
               }
             },
             {
+              "id": "modrinth.voicechat:voicechat-neoforge-1.21.1-2.6.17:1.0",
+              "name": "Simple Voice Chat",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 4902096,
+                "MD5": "55fc0d529318620bd2ce7a635657014c5c98e189",
+                "hashAlgo": "sha1",
+                "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/6rT2RWh6/voicechat-neoforge-1.21.1-2.6.17.jar"
+              }
+            },
+            {
               "id": "modrinth.securitycraft:[1.21.1] SecurityCraft v1.10.1:1.0",
               "name": "SecurityCraft",
               "type": "ForgeMod",
