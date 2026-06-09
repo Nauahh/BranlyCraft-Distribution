@@ -30,6 +30,17 @@
       "autoconnect": false,
       "modules": [
         {
+          "id": "branlycraftlauncher:servers.dat:1.0.0",
+          "name": "Servers List",
+          "type": "File",
+          "artifact": {
+            "size": 16524,
+            "MD5": "d5fe78ec1d03bcb93363eeb1a754a8f3",
+            "path": "servers.dat",
+            "url": "https://raw.githubusercontent.com/Nauahh/BranlyCraft-Distribution/main/servers.dat"
+          }
+        },
+        {
           "id": "net.neoforged:neoforge:21.1.224",
           "name": "NeoForge",
           "type": "ForgeHosted",
